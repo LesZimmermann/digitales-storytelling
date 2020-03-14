@@ -10,7 +10,7 @@ search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
 aux_links:
   "Über":
-    - "/about.md"
+    - "/digitales-storytelling/about.md"
 footer_content: "Created by Leslie P. Zimmermann, Samuel Fickinger, Prof. Dr. Jochen Sander</a>"
 color_scheme: nil
 
