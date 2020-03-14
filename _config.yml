@@ -1,4 +1,20 @@
 title: "Digitales Storytelling"
+description: Digitales Storytelling in der Kunstgeschichte mit IIIF
+baseurl: "/digitales-storytelling"
+url: "https://leszimmermann.github.io"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+heading_anchors: true
+footer_content: "Created by Leslie P. Zimmermann, Samuel Fickinger, Prof. Dr. Jochen Sander</a>"
+color_scheme: nil
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
