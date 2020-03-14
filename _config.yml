@@ -8,6 +8,9 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
+aux_links:
+  "Über":
+    - "/about.md"
 footer_content: "Created by Leslie P. Zimmermann, Samuel Fickinger, Prof. Dr. Jochen Sander</a>"
 color_scheme: nil
 
