@@ -4,3 +4,4 @@ title: 3.3 Digitale Bilder und IIIF
 nav_order: 8
 has_children: true
 ---
+# 3.3 Digitale Bilder und IIIF
