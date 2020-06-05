@@ -1,13 +1,12 @@
 ---
 layout: default
-title: 2.4 Storyboard erstellen
-nav_order: 7
+title: 3. Technische Umsetzung
+nav_order: 11
+has_children: true
 ---
-# 2.4 Storyboard erstellen
+# 3. Technische Umsetzung
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-![Ein Bild](img/storyboard/storyboard01.jpg)
 
-
-[Zurück]({{ site.baseurl }}{% link workshop/eine-story-entwickeln.md %}){: .btn .btn-outline .mr-2 } 
-[Weiter]({{ site.baseurl }}{% link iiif/technische-umsetzung.md %}){: .btn .btn-outline}
+[Zurück]({{ site.baseurl }}{% link workshop/storyboard-erstellen.md %}){: .btn .btn-outline .mr-2 } 
+[Weiter]({{ site.baseurl }}{% link was-ist-iiif.md %}){: .btn .btn-outline}

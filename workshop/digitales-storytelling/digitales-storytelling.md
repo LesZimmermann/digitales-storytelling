@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 [Zurück]({{ site.baseurl }}{% link workshop/einfuehrung.md %}){: .btn .btn-outline .mr-2 } 
-[Weiter](/Users/lpz/Documents/GitHub/digitales-storytelling/workshop/digitales-storytelling/eine-story-entwickeln.md){: .btn .btn-outline}
+[Weiter]({{ site.baseurl }}{% link workshop/einstieg-storyentwicklung.md %}){: .btn .btn-outline}
