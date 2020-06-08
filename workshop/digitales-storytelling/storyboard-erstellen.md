@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 2.4 Storyboard erstellen
+title: 2.6 Storyboard erstellen
 nav_order: 6
 parent: 2. Digitales Storytelling
 ---
-# 2.4 Storyboard erstellen
+# 2.6 Storyboard erstellen
 Nachdem wir die Story entwickelt und ausformuliert haben, kommt das Storyboard zum Einsatz. Hinlänglich bekannt ist das Storyboard in der Filmtheorie, wo es eingesetzt wird, um die Ideen des Drehbuchs in Kameraeinstellungen zu überführen. Ein Storyboard dient also der Visualisierung eines erarbeiteten Konzepts. Konzept und Gestaltungsideen können mit Hilfe des Storyboards präsentiert und überprüft werden und das Feedback lässt sich anschließend direkt in das Konzept einarbeiten. Auch dient es als Vorlage für die spätere Überführung der Story vom Storyboard in ihre finale Form. Diese Umsetzungsanweisungen sind sowohl für die selbstständige Weiterarbeit, als auch für das Arbeiten von Gruppen gleichermaßen sinnvoll. Das Storyboard lässt sich sowohl herkömmlich mit Stift und Papier als auch mit moderner Computersoftware umsetzen. Nachfolgend findet sich eine Anleitung zum Erstellen eines Storyboards mit Microsoft Word und PowerPoint.
 
 ## Lehrziele
