@@ -4,5 +4,7 @@ title: Über
 nav_exclude: true
 ---
 
-# Projektbeschreibung
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+# Digitales Storytelling in der Kunstgeschichte mit IIIF
+Digitales Storytelling in der Kunstgeschichte mit IIIF ist ein vom DigLL-Förderfonds gefördertes Projekt der [Städel-Kooperationsprofessur](https://www.kunst.uni-frankfurt.de/de/mitarbeiter/seiten/prof-dr-jochen-sander/selbstdarstellung/) zur Entwicklung eines öffentlich zugänglichen Onlineworkshops, der Studierende an Digitales Storytelling mit kunsthistorischen Inhalten und mögliche Techniken (IIIF) zur Umsetzung heranführt.
+
+Projektmitarbeiter: Leslie P. Zimmermann, Samuel Fickinger, Prof. Dr. Jochen Sander

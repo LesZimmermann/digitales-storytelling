@@ -11,7 +11,8 @@ heading_anchors: true
 aux_links:
   "Über":
     - "/digitales-storytelling/about"
-footer_content: "Created by Leslie P. Zimmermann, Samuel Fickinger, Prof. Dr. Jochen Sander</a>"
+footer_content: "Digitales Storytelling in der Kunstgeschichte mit IIIF von Leslie P. Zimmermann, Samuel Fickinger und Prof. Dr. Jochen Sander. Ein Projekt der 
+<a href="https://www.kunst.uni-frankfurt.de/de/mitarbeiter/seiten/prof-dr-jochen-sander/selbstdarstellung/">Städel-Kooperationsprofessur</a>"
 color_scheme: nil
 
 compress_html:

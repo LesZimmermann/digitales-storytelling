@@ -28,7 +28,6 @@ Was wir in diesem Kapitel lernen:
 In unserem Beispiel ist das Storyboard in Text- und Bildsegmente untergliedert. Dabei beschreibt immer ein Textsegment einen bestimmten Bildausschnitt. Die Entwicklung der Textsegmente erfolgt bereits bei der Entwicklung der Story (vgl. 2.3). Diese werden dann in das Storyboard übernommen und ihnen wird ein Bildausschnitt zugeordnet. Daraufhin kann das Zusammenspiel zwischen Text und Bild überprüft werden, sowie der Verlauf der einzelnen Textsegmente und der einzelnen Bildausschnitte. Veränderungen können prozesshaft eingearbeitet werden.
 
 ![Storyboard Lucca Madonna](https://login.schaf.me/index.php/s/bkCpAyPSz6myJry/preview)
-**Abb. 1**: Storyboard Lucca Madonna  
 [Download Beispiel-Storyboard](https://drive.google.com/file/d/1x8anZF8Pt7TUb8DoK5LSUQfUPcIxu0W6/view?usp=sharing){: .btn .btn-purple }
 
 Für die Erstellung des Storyboards können wir mit der Textverarbeitungssoftware Word, Google-Docs oder PowerPoint arbeiten. Dabei lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt darin, dass wir die Bilder direkt in der Software beschneiden, das heißt einen Bildausschnitt auswählen und kopieren können. Es eignet sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten. Im Textfeld wird also einem Bildausschnitt eine Annotation beigefügt.
@@ -37,7 +36,7 @@ Für die Erstellung des Storyboards können wir mit der Textverarbeitungssoftwar
 
 Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft Word. Eine Vorlage für die Erstellung eines Storyboards mit Word findet sich unter [Vorlagen](#vorlagen).
 
-<iframe width="auto" height="360" src="https://www.youtube-nocookie.com/embed/3ZYaEzwPCKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="360" src="https://www.youtube-nocookie.com/embed/3ZYaEzwPCKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Anleitung: Storyboard erstellen mit Google-Docs
 Ein anderer Weg ist die Umsetzung mit Google-Docs. Eine Vorlage für die Erstellung eines Storyboards mit Google-Docs findet sich unter [Vorlagen](#vorlagen).
