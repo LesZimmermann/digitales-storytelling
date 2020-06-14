@@ -25,26 +25,26 @@ Was wir in diesem Kapitel lernen:
 
 ## Beispiel
 
-![Storyboard](https://login.schaf.me/index.php/s/fcrZFgaYL3kTJBZ/preview)
-[Download Beispiel-Storyboard](https://login.schaf.me/index.php/s/djdsYry7LMQ2Ze6/download){: .btn .btn-purple }
-
 In unserem Beispiel ist das Storyboard in Text- und Bildsegmente untergliedert. Dabei beschreibt immer ein Textsegment einen bestimmten Bildausschnitt. Die Entwicklung der Textsegmente erfolgt bereits bei der Entwicklung der Story (vgl. 2.3). Diese werden dann in das Storyboard übernommen und ihnen wird ein Bildausschnitt zugeordnet. Daraufhin kann das Zusammenspiel zwischen Text und Bild überprüft werden, sowie der Verlauf der einzelnen Textsegmente und der einzelnen Bildausschnitte. Veränderungen können prozesshaft eingearbeitet werden.
+
+![Storyboard Lucca Madonna](https://login.schaf.me/index.php/s/s4fPQ2BNN4deGxf/preview)
+**Abb. 1**: Storyboard Lucca Madonna
+[Download Beispiel-Storyboard](https://drive.google.com/file/d/1x8anZF8Pt7TUb8DoK5LSUQfUPcIxu0W6/view?usp=sharing){: .btn .btn-purple }
 
 Für die Erstellung des Storyboards können wir mit der Textverarbeitungssoftware Word, Google-Docs oder PowerPoint arbeiten. Dabei lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt darin, dass wir die Bilder direkt in der Software beschneiden, das heißt einen Bildausschnitt auswählen und kopieren können. Es eignet sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten. Im Textfeld wird also einem Bildausschnitt eine Annotation beigefügt.
 
 ## Anleitung: Storyboard erstellen mit Microsoft Word
 
-Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft Word.
+Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft Word. Eine Vorlage für die Erstellung eines Storyboards mit Word findet sich unter [Vorlagen](#vorlagen).
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3ZYaEzwPCKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="900" height="auto" src="https://www.youtube-nocookie.com/embed/3ZYaEzwPCKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Anleitung: Storyboard erstellen mit Google-Docs
-Ein anderer Weg ist die Umsetzung mit Google-Docs:
+Ein anderer Weg ist die Umsetzung mit Google-Docs. Eine Vorlage für die Erstellung eines Storyboards mit Google-Docs findet sich unter [Vorlagen](#vorlagen).
 
 ![Abb. 1](https://login.schaf.me/index.php/s/699A7rnNHiNmaLY/preview)
 
-Wir können von dieser Vorlage ausgehen und unser Storyboard erstellen oder uns selbst eine Tabelle anlegen. [“Einfügen -> Tabelle”]. Für unsere Zwecke benötigen wir eine Tabelle mit zwei Spalten, eine für den Text und eine für die Bildvorlage. Die Zeilenanzahl kann im Verlauf an die Länge der Story angepasst werden.
+Wir können von der Vorlage ausgehen und unser Storyboard erstellen oder uns selbst eine Tabelle anlegen. ["Einfügen" -> "Tabelle"]. Für unsere Zwecke benötigen wir eine Tabelle mit zwei Spalten, eine für den Text und eine für die Bildvorlage. Die Zeilenanzahl kann im Verlauf an die Länge der Story angepasst werden.
 
 ![Abb. 2](https://login.schaf.me/index.php/s/QKQoc726meSGfZ7/preview)
 
@@ -52,7 +52,7 @@ In der ersten Zeile beginnen wir mit einer Übersicht zu unserer Story. Die Link
 
 ![Abb. 3](https://login.schaf.me/index.php/s/LPZPxaB4xJWKipC/preview)
 
-In die Rechte Zelle der ersten Zeile fügen wir eine Abbildung unseres Werkes ein. [“Einfügen -> Bild -> Vom Computer hochladen”], um das Bild von unserem Computer hochzuladen. Alternativ können wir auch eine der anderen Auswahlmöglichkeiten nutzen, um unser Bild z. B. direkt aus dem Web zu suchen oder über Google-Drive einzufügen. 
+In die Rechte Zelle der ersten Zeile fügen wir eine Abbildung unseres Werkes ein. ["Einfügen" -> "Bild" -> "Vom Computer hochladen"], um das Bild von unserem Computer hochzuladen. Alternativ können wir auch eine der anderen Auswahlmöglichkeiten nutzen, um unser Bild z. B. direkt aus dem Web zu suchen oder über Google-Drive einzufügen. 
 
 ![Abb. 4](https://login.schaf.me/index.php/s/TyZRXWYtieYsHK4/preview)
 
@@ -69,12 +69,12 @@ Nach dem Einfügen können wir die Bildvorlage nun zuschneiden. Dazu müssen wir
 
 ![Abb. 8](https://login.schaf.me/index.php/s/KAATa84CbDyKn8t/preview)
 
-Anfügen weiterer Zeilen [Rechtsklick -> “Zeile unterhalb hinzufügen”]
+Falls wir weitere Zeilen benötigen, können wir diese mit [Rechtsklick -> "Zeile unterhalb hinzufügen"] einfügen.
 
 ## Anleitung: Storyboard erstellen mit Microsoft PowerPoint
 
-Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft PowerPoint:
-Videoanleitung
+Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft PowerPoint. Eine Vorlage für die Erstellung eines Storyboards mit PowerPoint findet sich unter [Vorlagen](#vorlagen).
+
 Storyboard erstellen mit PowerPoint: [VIDEO FOLGT]
 
 ## Vorlagen
@@ -90,8 +90,11 @@ Link 2
 ### Literatur
 - Niegemann, Helmut M., Steffi Domagk, Silvia Hessel, Alexandra Hein, Matthias Hupfer, und Annett Zobel. „Storyboard“. In Kompendium multimediales Lernen, 387–94. X.media.press. Berlin Heidelberg: Springer, 2008.
 - Wong, Dora. „Digital Storytelling Using Both Keyboard and Pen“. In Digital Humanities and New Ways of Teaching, herausgegeben von Anna Wing-bo Tso, 195–218. Digital Culture and Humanities. Singapore: Springer, 2019. https://doi.org/10.1007/978-981-13-1277-9_11.
-
-
-
+  
+  
+<span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
+</span>
+<span class="fs-8">
 [Weiter](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline}
+</span>
