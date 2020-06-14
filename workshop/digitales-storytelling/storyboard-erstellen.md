@@ -26,7 +26,7 @@ Was wir in diesem Kapitel lernen:
 ## Beispiel
 
 ![Storyboard](https://login.schaf.me/index.php/s/fcrZFgaYL3kTJBZ/preview)
-[Beispiel Storyboard](https://login.schaf.me/index.php/s/djdsYry7LMQ2Ze6/download){: .btn .btn-purple }
+[Download Beispiel-Storyboard](https://login.schaf.me/index.php/s/djdsYry7LMQ2Ze6/download){: .btn .btn-purple }
 
 In unserem Beispiel ist das Storyboard in Text- und Bildsegmente untergliedert. Dabei beschreibt immer ein Textsegment einen bestimmten Bildausschnitt. Die Entwicklung der Textsegmente erfolgt bereits bei der Entwicklung der Story (vgl. 2.3). Diese werden dann in das Storyboard übernommen und ihnen wird ein Bildausschnitt zugeordnet. Daraufhin kann das Zusammenspiel zwischen Text und Bild überprüft werden, sowie der Verlauf der einzelnen Textsegmente und der einzelnen Bildausschnitte. Veränderungen können prozesshaft eingearbeitet werden.
 
@@ -75,12 +75,12 @@ Anfügen weiterer Zeilen [Rechtsklick -> “Zeile unterhalb hinzufügen”]
 
 Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft PowerPoint:
 Videoanleitung
-Storyboard erstellen mit PowerPoint: [VIDEO]
+Storyboard erstellen mit PowerPoint: [VIDEO FOLGT]
 
 ## Vorlagen
-- [Vorlage Word](https://login.schaf.me/index.php/s/GMbxsrJ5f98rKmt/download)
-- Vorlage Google-Docs(https://docs.google.com/document/d/1umfnQj3aER1UXQPRnQ6ieBG5zcmKrzs5x3LF8zOr4cc/edit?usp=sharing)
-- Vorlage PowerPoint
+- [Vorlage Word](https://drive.google.com/file/d/1qFecSXfW-z-EvZvAx5VwK3pLSESUKGpp/view?usp=sharing)
+- [Vorlage Google-Docs](https://docs.google.com/document/d/1umfnQj3aER1UXQPRnQ6ieBG5zcmKrzs5x3LF8zOr4cc/edit?usp=sharing)
+- [Vorlage PowerPoint](https://drive.google.com/file/d/1ihaszEjcPjkzHswZ2L9kIlfCyoYF7nCR/view?usp=sharing)
 
 ## Weblinks und Literatur
 ### Weblinks
