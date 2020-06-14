@@ -27,8 +27,8 @@ Was wir in diesem Kapitel lernen:
 
 In unserem Beispiel ist das Storyboard in Text- und Bildsegmente untergliedert. Dabei beschreibt immer ein Textsegment einen bestimmten Bildausschnitt. Die Entwicklung der Textsegmente erfolgt bereits bei der Entwicklung der Story (vgl. 2.3). Diese werden dann in das Storyboard übernommen und ihnen wird ein Bildausschnitt zugeordnet. Daraufhin kann das Zusammenspiel zwischen Text und Bild überprüft werden, sowie der Verlauf der einzelnen Textsegmente und der einzelnen Bildausschnitte. Veränderungen können prozesshaft eingearbeitet werden.
 
-![Storyboard Lucca Madonna](https://login.schaf.me/index.php/s/s4fPQ2BNN4deGxf/preview)
-**Abb. 1**: Storyboard Lucca Madonna
+![Storyboard Lucca Madonna](https://login.schaf.me/index.php/s/bkCpAyPSz6myJry/preview)
+**Abb. 1**: Storyboard Lucca Madonna  
 [Download Beispiel-Storyboard](https://drive.google.com/file/d/1x8anZF8Pt7TUb8DoK5LSUQfUPcIxu0W6/view?usp=sharing){: .btn .btn-purple }
 
 Für die Erstellung des Storyboards können wir mit der Textverarbeitungssoftware Word, Google-Docs oder PowerPoint arbeiten. Dabei lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt darin, dass wir die Bilder direkt in der Software beschneiden, das heißt einen Bildausschnitt auswählen und kopieren können. Es eignet sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten. Im Textfeld wird also einem Bildausschnitt eine Annotation beigefügt.
@@ -37,7 +37,7 @@ Für die Erstellung des Storyboards können wir mit der Textverarbeitungssoftwar
 
 Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft Word. Eine Vorlage für die Erstellung eines Storyboards mit Word findet sich unter [Vorlagen](#vorlagen).
 
-<iframe width="900" height="auto" src="https://www.youtube-nocookie.com/embed/3ZYaEzwPCKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="auto" height="360" src="https://www.youtube-nocookie.com/embed/3ZYaEzwPCKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Anleitung: Storyboard erstellen mit Google-Docs
 Ein anderer Weg ist die Umsetzung mit Google-Docs. Eine Vorlage für die Erstellung eines Storyboards mit Google-Docs findet sich unter [Vorlagen](#vorlagen).
@@ -78,6 +78,7 @@ Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit M
 Storyboard erstellen mit PowerPoint: [VIDEO FOLGT]
 
 ## Vorlagen
+Eine Vorlage für die Erstellung eines Storyboards mit Word, Google-Docs oder PowerPoint steht unter den folgenden Links zum Download bereit.
 - [Vorlage Word](https://drive.google.com/file/d/1qFecSXfW-z-EvZvAx5VwK3pLSESUKGpp/view?usp=sharing)
 - [Vorlage Google-Docs](https://docs.google.com/document/d/1umfnQj3aER1UXQPRnQ6ieBG5zcmKrzs5x3LF8zOr4cc/edit?usp=sharing)
 - [Vorlage PowerPoint](https://drive.google.com/file/d/1ihaszEjcPjkzHswZ2L9kIlfCyoYF7nCR/view?usp=sharing)
@@ -90,8 +91,9 @@ Link 2
 ### Literatur
 - Niegemann, Helmut M., Steffi Domagk, Silvia Hessel, Alexandra Hein, Matthias Hupfer, und Annett Zobel. „Storyboard“. In Kompendium multimediales Lernen, 387–94. X.media.press. Berlin Heidelberg: Springer, 2008.
 - Wong, Dora. „Digital Storytelling Using Both Keyboard and Pen“. In Digital Humanities and New Ways of Teaching, herausgegeben von Anna Wing-bo Tso, 195–218. Digital Culture and Humanities. Singapore: Springer, 2019. https://doi.org/10.1007/978-981-13-1277-9_11.
-  
-  
+
+
+
 <span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
 </span>
