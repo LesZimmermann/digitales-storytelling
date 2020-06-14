@@ -61,12 +61,11 @@ Nach dem Einfügen des ersten Textes und des Bildes, können wir die Segmente un
 
 Damit wir das Bild nicht jedes Mal neu in die Datei laden müssen, können wir es einfach aus der ersten Zelle kopieren und in die nächsten Zellen einfügen (copy & paste). 
 
-![Abb. 6](https://login.schaf.me/index.php/s/fGBd9nKMzeE8NGX/preview)
-![Abb. 7](https://login.schaf.me/index.php/s/Dt3mxd4XxnQkfHk/preview)
+![Abb. 6](https://login.schaf.me/index.php/s/7WqGR6GggfPMcrS/preview)
 
 Nach dem Einfügen können wir die Bildvorlage nun zuschneiden. Dazu müssen wir das Bild zunächst auswählen bzw. anklicken, dann erscheint im oberen Reiter ein Zuschneide-Symbol (siehe Abbildung). Jetzt können wir den passenden Bildausschnitt auswählen. Diesen Vorgang können wir beliebig oft wiederholen und uns so nach und nach das Storyboard aufbauen. 
 
-![Abb. 8](https://login.schaf.me/index.php/s/KAATa84CbDyKn8t/preview)
+![Abb. 7](https://login.schaf.me/index.php/s/KAATa84CbDyKn8t/preview)
 
 Falls wir weitere Zeilen benötigen, können wir diese mit [Rechtsklick -> "Zeile unterhalb hinzufügen"] einfügen.
 
