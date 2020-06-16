@@ -4,7 +4,7 @@ title: 2.3 Werkauswahl
 nav_order: 3
 parent: 2. Digitales Storytelling
 ---
-# 2.3 erkauswahl
+# 2.3 Werkauswahl
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
