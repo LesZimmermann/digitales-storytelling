@@ -9,5 +9,6 @@ Digitales Storytelling in der Kunstgeschichte mit IIIF ist ein vom DigLL-Förder
 
 Projektmitarbeiter: Leslie P. Zimmermann, Samuel Fickinger, Prof. Dr. Jochen Sander
 
-![Goethe Universität](https://leszimmermann.github.io/digitales-storytelling/img/goethe-university.png)
+![Goethe Universität](/digitales-storytelling/img/goethe-university.png)
+{: .ml-2 }
 ![digLL](/digitales-storytelling/img/digLL.png)
