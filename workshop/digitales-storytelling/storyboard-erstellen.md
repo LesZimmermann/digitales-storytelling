@@ -61,7 +61,7 @@ Nach dem Einfügen des ersten Textes und des Bildes, können wir die Segmente un
 
 Damit wir das Bild nicht jedes Mal neu in die Datei laden müssen, können wir es einfach aus der ersten Zelle kopieren und in die nächsten Zellen einfügen (copy & paste). 
 
-![Abb. 6](https://login.schaf.me/index.php/s/7WqGR6GggfPMcrS/preview)
+![Abb. 6](https://cdn.lesliepzimmermann.de/storytelling/storyboard/Kopieren.gif)
 
 Nach dem Einfügen können wir die Bildvorlage nun zuschneiden. Dazu müssen wir das Bild zunächst auswählen bzw. anklicken, dann erscheint im oberen Reiter ein Zuschneide-Symbol (siehe Abbildung). Jetzt können wir den passenden Bildausschnitt auswählen. Diesen Vorgang können wir beliebig oft wiederholen und uns so nach und nach das Storyboard aufbauen. 
 

@@ -5,7 +5,16 @@ nav_order: 3
 has_children: true
 ---
 # 2. Digitales Storytelling
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+{: .no_toc }
+[Text folgt...]
 
-[Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
-[Weiter](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline}
+## Inhalt
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+[Zurück](/digitales-storytelling/einfuehrung/){: .btn .btn-outline .mr-2 } 
+[Weiter](/digitales-storytelling/workshop/einstieg-storyentwicklung/){: .btn .btn-outline}
