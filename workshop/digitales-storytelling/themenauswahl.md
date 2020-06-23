@@ -23,7 +23,7 @@ Was wir in diesem Kapitel lernen:
 ## Welche Geschichten können anhand des Werkes erzählt werden?
 Die Digitale Story sollte unser Publikum weder unter- noch überfordern. An wen soll sich unsere Story richten? Wir müssen die Story also sprachlich unserem Publikum anpassen. Auch sollten wir uns in der Story stets kurz fassen. Als Faustformel gilt: So kurz wie möglich, aber so ausführlich wie nötig. Die Digitale Story soll den Blick der Betrachter*innen auf das Kunstwerk lenken, sie durch das Werk führen (guided tour). Wir sollten dem gewählten Bildausschnitt also nicht zu viel Text gegenüberstellen, der vom Betrachten und Entdecken des Kunstwerkes ablenkt. 
 
-![Rembrandt](https://cdn.lesliepzimmermann.de/storytelling/2-3-1_Rembrandt.jpg) <p style="font-size: 0.8em" margin-top="-15px">Rembrandt Hermensz. van Rijn, Die Blendung Simsons, 1636, Öl auf Leinwand, 206,0 x 276,0 cm, Frankfurt a. M., Städel Museum, Inv. 1383</p>
+![Rembrandt](https://cdn.lesliepzimmermann.de/storytelling/2-3-1_Rembrandt.jpg) <p style="font-size: 0.8em;margin-top:-15px;">Rembrandt Hermensz. van Rijn, Die Blendung Simsons, 1636, Öl auf Leinwand, 206,0 x 276,0 cm, Frankfurt a. M., Städel Museum, Inv. 1383</p>
 
 ## Wer die Wahl hat, hat die Qual
 Je nach Gattung des Kunstwerkes eröffnen sich vielfältige Möglichkeiten, eine Geschichte zu erzählen. An ein Gemälde kann man andere Fragen stellen als an eine Druckgrafik oder einen Film-Still. Was halten wir bei dem von uns ausgewählten Werk für besonders erzählenswert?
