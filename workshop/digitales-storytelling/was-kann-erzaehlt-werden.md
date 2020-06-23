@@ -48,7 +48,7 @@ Es sind viele Fragestellungen denkbar, aber alle möglichen Digitalen Stories so
   <dt>IIIF?</dt>
   <dd>nein</dd>
   <dt>Link zum Werk</dt>
-  <dd>https://sammlung.staedelmuseum.de/de/werk/doppelbildnis-des-justinian-von-holzhausen</dd>
+  <dd><a href="https://sammlung.staedelmuseum.de/de/werk/doppelbildnis-des-justinian-von-holzhausen">https://sammlung.staedelmuseum.de/de/werk/doppelbildnis-des-justinian-von-holzhausen</a></dd>
 </dl>
 
 ![Faber 2](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-2.jpg)
