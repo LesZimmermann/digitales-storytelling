@@ -43,17 +43,14 @@ Da die Oberflächenbeschaffenheit je nach Material sehr verschieden ist, kann ma
 Professor Dr. Jochen Sander über Rembrandts Blendung Simsons:
 <iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/hcL-8dSQDgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Info
-**Bildrechte:** Darf ich mein Werk verwenden?
-Je nach Rechtslage kann es sein, dass wir die Abbildung des ausgewählten Werkes nur für bestimmte Einsatzzwecke nutzen dürfen. Daher ist es wichtig, unter allen Umständen die Bildrechte einzuhalten und nicht zu verletzen. Informationen dazu finden wir auf den Websites der einzelnen Institutionen. Eine Übersicht zum Thema Bildrechte finden wir auch im [vorherigen Kapitel](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/werkauswahl/).  
-**Digitale Bilder:** Um in den vollen Genuss der Digitalen Story zu kommen, ist eine möglichst hohe Auflösung der Bildvorlage nötig. Viele Online-Sammlungen der Museen bieten hochauflösende Abbildungen zum Download an. Hilfreiche Links dazu finden wir im [vorherigen Kapitel](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/werkauswahl/).
-
 ## Weblinks und Literatur
 ### Weblinks
 - [Die Blendung Simsons in der Digitalen Sammlung des Städel Museums](https://sammlung.staedelmuseum.de/de/werk/die-blendung-simsons)
 
 ### Literatur
 - folgt...
+
+---
 
 Im nächste Kapitel entwickeln wir Fragestellungen an Kunstwerke:
 

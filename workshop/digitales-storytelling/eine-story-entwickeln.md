@@ -72,6 +72,8 @@ Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an da
 - Martínez, Matías, und Michael Scheffel. Einführung in die Erzähltheorie. 10. Aufl. C.H. Beck Studium. München: C.H. Beck, 2016.
 - Niegemann, Helmut M., Steffi Domagk, Silvia Hessel, Alexandra Hein, Matthias Hupfer, und Annett Zobel. „Segmentierung und Sequenzierung: Einteilung und Reihenfolge“. In Kompendium multimediales Lernen, 143–52. X.media.press. Berlin Heidelberg: Springer, 2008.
 
+---
+
 Im nächsten Kapitel beschäftigen wir uns mit der Entwicklung eines Storyboards:
 
 <span class="fs-8">

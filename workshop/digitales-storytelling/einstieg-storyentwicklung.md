@@ -43,6 +43,8 @@ Wenn wir uns bereits für das Thema unserer Story entschieden haben, aber noch o
 ### Ich weiß welches Werk und welche Geschichte ich erzählen möchte
 Wenn wir bereits wissen, welches Werk und welche Geschichte wir behandeln möchten, können wir direkt mit der zielgerichteten Recherche beginnen. Im folgenden Kapitel (Link) haben wir einige Beispielstories zusammengestellt, die dabei helfen können. In den nachfolgenden Kapiteln findet sich eine Hilfestellung für die [Auswahl eines Werkes](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/werkauswahl/) und Hilfe beim [Finden einer passenden Story](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/themenauswahl/). Falls Werk und Geschichte nochmals überprüft werden sollen, findet sich in diesen Kapiteln Hilfe.
 
+---
+
 Das nächste Kapitel dreht sich um die Werkauswahl:
 
 <span class="fs-8">

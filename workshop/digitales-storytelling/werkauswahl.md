@@ -23,7 +23,7 @@ folgt...
 ---
 
 ## Technische Aspekte der Werkauswahl
-Ein wichtiger Aspekt, den wir bei der Erstellung einer digitalen Story unbedingt beachten sollten, ist die Rechtslage der digitalen Bilder, die wir im WWW vorfinden. Dabei ist es nötig herauszufinden, ob und in welcher Form der Einsatz einer vorliegenden Abbildungen gestattet ist. Auch ist es für unser Vorhaben wichtig, ob das Herunterladen der Bilder möglich ist oder ob sie sogar über IIIF (dazu kommen wir in Teil 3) abgerufen werden können, was die Möglichkeiten der Verwendung nochmal erheblich vergrößert.  Diese Informationen finden wir meist auf der Website beziehungsweise den digitalen Sammlungen der Museen.
+Ein wichtiger Aspekt, den wir bei der Erstellung einer digitalen Story unbedingt beachten sollten, ist die Rechtslage der digitalen Bilder, die wir im WWW vorfinden. Dabei ist es nötig herauszufinden, ob und in welcher Form der Einsatz einer vorliegenden Abbildungen gestattet ist. Auch ist es für unser Vorhaben wichtig, ob das Herunterladen der Bilder möglich ist oder ob sie sogar über IIIF (dazu kommen wir in Teil 3) abgerufen werden können, was die Möglichkeiten der Verwendung nochmal erheblich vergrößert. Diese Informationen finden wir meist auf der Website beziehungsweise den digitalen Sammlungen der Museen. Um in den vollen Genuss der Digitalen Story zu kommen, ist es auch nötig, dass wir möglichst eine Abbildung in hohe Auflösung haben. Viele Online-Sammlungen der Museen bieten hochauflösende Abbildungen zum Download an. 
 
 Möchten wir eine Story mittels IIIF erstellen, so wie es dieser Online-Workshop vorschlägt, stehen uns zwei Optionen zur Verfügung:
 
@@ -68,16 +68,10 @@ Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihr
 - Bayerische Staatsgemäldesammlungen, München
 - Szépművészeti Múzeum, Budapest
 
-
-## Weblinks und Literatur
-### Weblinks
-- [IIIF-Hosting von Klokan Technologies GmbH](https://www.iiifhosting.com/)
-- [The Return from War: Mars Disarmed by Venus, Getty Museum](http://www.getty.edu/art/collection/objects/130326/peter-paul-rubens-and-jan-brueghel-the-elder-the-return-from-war-mars-disarmed-by-venus-flemish-about-1610-1612/?dz=0.5000,0.5000,0.39)
-
-### Literatur
-- folgt...
+---
 
 Im nächste Kapitel beschäftigen wir uns mit der Themenauswahl:
+
 <span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/einstieg-storyentwicklung/){: .btn .btn-outline .mr-2 } 
 </span>

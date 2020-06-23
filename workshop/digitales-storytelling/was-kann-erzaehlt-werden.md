@@ -150,6 +150,8 @@ folgt...
 - Fickinger, Samuel. „Conrad Faber von Kreuznach, die Familie von Holzhausen und das Renaissanceporträt“. In Die Welt im Bildnis: Porträts, Sammler und Sammlungen in Frankfurt vom 16. bis 18. Jahrhundert., herausgegeben von Jochen Sander, 39–46. Frankfurt am Main: Michael Imhof, 2020.
 - Zimmermann, Leslie P. „Die Welt Im Bildnis Entdecken: Das Museum Giersch Der Goethe-Universität Frankfurt Zeigt Seine Aktuelle Ausstellung Auch Online“. Medium (blog), 14. Juni 2020. [https://medium.com/@lesliepzimmermann/die-welt-im-bildnis-entdecken-6394bad9833f](https://medium.com/@lesliepzimmermann/die-welt-im-bildnis-entdecken-6394bad9833f).
 
+---
+
 Im nächsten Kapitel beschäftigen wir uns mit den Entwicklung einer Story:
 
 <span class="fs-8">
