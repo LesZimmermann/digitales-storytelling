@@ -19,6 +19,8 @@ Im folgenden wollen wir klären, wie wir das richtige Werk für unsere Story aus
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
 
+---
+
 ## Technische Aspekte der Werkauswahl
 Ein wichtiger Aspekt, den wir bei der Erstellung einer digitalen Story unbedingt beachten sollten, ist die Rechtslage der digitalen Bilder, die wir im WWW vorfinden. Dabei ist es nötig herauszufinden, ob und in welcher Form der Einsatz einer vorliegenden Abbildungen gestattet ist. Auch ist es für unser Vorhaben wichtig, ob das Herunterladen der Bilder möglich ist oder ob sie sogar über IIIF (dazu kommen wir in Teil 3) abgerufen werden können, was die Möglichkeiten der Verwendung nochmal erheblich vergrößert.  Diese Informationen finden wir meist auf der Website beziehungsweise den digitalen Sammlungen der Museen.
 
@@ -49,10 +51,9 @@ Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihr
 
 ## Weblinks und Literatur
 ### Weblinks
-Link 1
-Link 2
-...
+- folgt...
 ### Literatur
+- folgt...
 
 <span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 

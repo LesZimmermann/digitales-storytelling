@@ -18,6 +18,8 @@ Nachdem wir uns bei der Ideenentwicklung für ein Werk entschieden und uns erste
 
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
+ - folgt...
+---
 
 
 ## Geschichten erzählen
@@ -62,9 +64,7 @@ Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an da
 
 ## Weblinks und Literatur
 ### Weblinks
-Link 1
-Link 2
-...
+- folgt...
 ### Literatur
 - Martínez, Matías, und Michael Scheffel. Einführung in die Erzähltheorie. 10. Aufl. C.H. Beck Studium. München: C.H. Beck, 2016.
 - Niegemann, Helmut M., Steffi Domagk, Silvia Hessel, Alexandra Hein, Matthias Hupfer, und Annett Zobel. „Segmentierung und Sequenzierung: Einteilung und Reihenfolge“. In Kompendium multimediales Lernen, 143–52. X.media.press. Berlin Heidelberg: Springer, 2008.

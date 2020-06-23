@@ -18,15 +18,14 @@ Nachdem wir die Story entwickelt und ausformuliert haben, kommt das Storyboard z
 
 ## Lernziele
 Was wir in diesem Kapitel lernen:
-- Beschreibung 1
-- Beschreibung 2
+- folgt...
 
 ---
 
 ## Beispiel
 In unserem Beispiel ist das Storyboard in Text- und Bildsegmente untergliedert. Dabei erläutert ein Textsegment jeweils einen bestimmten Bildausschnitt. Die Entwicklung der Textsegmente erfolgt bereits bei der Entwicklung der Story (vgl. 2.3). Diese werden dann in das Storyboard übernommen, wo ihnen ein Bildausschnitt zugeordnet wird. Auf dieser Grundlage kann das Zusammenspiel zwischen Text und Bild ebenso überprüft werden wie die Abfolge der einzelnen Textsegmente und der zugehörigen Bildausschnitte. Veränderungen können jederzeit im Prozess eingearbeitet werden.
 
-![Storyboard Lucca Madonna](https://login.schaf.me/index.php/s/bkCpAyPSz6myJry/preview)
+![Storyboard Lucca Madonna](https://cdn.lesliepzimmermann.de/storytelling/2-6-1_Storyboard_Lucca-Madonna.jpg)
 [Download Beispiel-Storyboard](https://drive.google.com/file/d/1x8anZF8Pt7TUb8DoK5LSUQfUPcIxu0W6/view?usp=sharing){: .btn .btn-purple }
 
 Für die Erstellung des Storyboards können wir mit der Textverarbeitungssoftware Word, mit Google-Docs oder mit PowerPoint arbeiten. In allen Programmen lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt darin, dass wir die Bilder direkt in der Software beschneiden, das heißt den gewünschten Bildausschnitt auswählen und kopieren können. Die Programme eignen sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten und die Bildausschnitte lassen sich dann dem entsprechenden Textausschnitt zuordnen.
@@ -40,33 +39,32 @@ Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit M
 ## Anleitung: Storyboard erstellen mit Google-Docs
 Eine andere Möglichkeit ist die Erstellung des Storyboards mit Hilfe von Google-Docs. Eine Vorlage für die Erstellung eines eigenen Storyboards mit Google-Docs findet sich unter  [Vorlagen](#vorlagen).
 
-![Abb. 1](https://login.schaf.me/index.php/s/699A7rnNHiNmaLY/preview)
+![Storyboard 1](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-1.jpg)
 
 Wir können von dieser Vorlage ausgehen, um unser Storyboard zu erstellen, sofern wir uns nicht selbst eine Tabelle anlegen wollen [“Einfügen -> Tabelle”]. Für unsere Zwecke benötigen wir eine Tabelle mit zwei Spalten, eine für den Text und eine für die Bildvorlage. Die Zeilenanzahl kann im Verlauf unserer Arbeit an die Länge der Story angepasst werden. 
 
 
-![Abb. 2](https://login.schaf.me/index.php/s/QKQoc726meSGfZ7/preview)
+![Storyboard 2](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-2.jpg)
 
 In der ersten Zeile beginnen wir mit einer Übersicht zu unserer Story. Die linke Zelle der ersten Zeile enthält den Titel der Story, die Autor*innen-Namen, eine kurze Beschreibung und die Angabe zur Bildlizenz. 
 
-![Abb. 3](https://login.schaf.me/index.php/s/LPZPxaB4xJWKipC/preview)
+![Storyboard 3](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-3.jpg)
 
 In die rechte Zelle der ersten Zeile fügen wir eine Abbildung unseres Werkes ein. Entweder laden wir das Bild aus dem Web, über Google-Drive oder direkt von unserem Computer hoch [“Einfügen -> Bild -> Vom Computer hochladen”]. 
 
-
-![Abb. 4](https://login.schaf.me/index.php/s/TyZRXWYtieYsHK4/preview)
+![Storyboard 4](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-4.jpg)
 
 Nach dem Einfügen des ersten Textes und des ersten Bildes können wir die Segmente unserer Geschichte nach und nach einfügen, und dazu die passenden Bildausschnitte zu wählen. 
 
-![Abb. 5](https://login.schaf.me/index.php/s/pB7FBQpSnxgom68/preview)
+![Storyboard 5](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-5.jpg)
 
 Damit wir das Bild nicht jedes Mal neu in die Datei laden müssen, können wir es einfach aus der ersten Zelle kopieren und in die nächsten Zellen einfügen (copy & paste). 
 
-![Abb. 6](https://cdn.lesliepzimmermann.de/storytelling/storyboard/Kopieren.gif)
+![Storyboard 6](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-6.gif)
 
 Nach dem Einfügen können wir die Bildvorlage auf den gewünschten Ausschnitt zuschneiden. Dazu müssen wir das Bild zunächst auswählen bzw. anklicken, woraufhin im oberen Reiter ein Zuschneide-Symbol erscheint (siehe Abbildung). Jetzt können wir den passenden Bildausschnitt auswählen. Diesen Vorgang können wir beliebig oft wiederholen und uns so nach und nach das Storyboard aufbauen. 
 
-![Abb. 7](https://login.schaf.me/index.php/s/KAATa84CbDyKn8t/preview)
+![Storyboard 7](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-7.jpg)
 
 Falls wir weitere Zeilen benötigen, können wir diese mit [Rechtsklick -> "Zeile unterhalb hinzufügen"] einfügen.
 
@@ -84,14 +82,11 @@ Eine Vorlage für die Erstellung eines Storyboards mit Word, Google-Docs oder Po
 
 ## Weblinks und Literatur
 ### Weblinks
-Link 1
-Link 2
-...
+- folgt...
+
 ### Literatur
 - Niegemann, Helmut M., Steffi Domagk, Silvia Hessel, Alexandra Hein, Matthias Hupfer, und Annett Zobel. „Storyboard“. In Kompendium multimediales Lernen, 387–94. X.media.press. Berlin Heidelberg: Springer, 2008.
 - Wong, Dora. „Digital Storytelling Using Both Keyboard and Pen“. In Digital Humanities and New Ways of Teaching, herausgegeben von Anna Wing-bo Tso, 195–218. Digital Culture and Humanities. Singapore: Springer, 2019. https://doi.org/10.1007/978-981-13-1277-9_11.
-
-
 
 <span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 

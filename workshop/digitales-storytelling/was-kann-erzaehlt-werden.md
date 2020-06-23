@@ -25,6 +25,8 @@ der fachlichen Wissensvermittlung auch visuell überzeugend und optisch ansprech
 Was wir in diesem Kapitel lernen:
 - In diesem Kapitel haben wir einige Beispiele zusammengetragen, die exemplarisch zeigen sollen, welche Geschichten sich anhand eines Werkes erzählen lassen können.
 
+---
+
 ## Beispiel Malerei: Doppelbildnis des Justinian von Holzhausen und seiner Frau Anna von Fürstenberg
 
 ![Faber 1](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-1.jpg)

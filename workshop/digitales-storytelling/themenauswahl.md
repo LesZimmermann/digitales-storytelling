@@ -18,6 +18,8 @@ Wir haben unser Werk gefunden und begeben uns nun auf die Suche nach einer passe
 
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
+- folgt...
+---
 
 
 ## Welche Geschichten können anhand des Werkes erzählt werden?
@@ -50,6 +52,7 @@ Je nach Rechtslage kann es sein, dass wir die Abbildung des ausgewählten Werkes
 - [Die Blendung Simsons in der Digitalen Sammlung des Städel Museums](https://sammlung.staedelmuseum.de/de/werk/die-blendung-simsons)
 
 ### Literatur
+- folgt...
 
 <span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 

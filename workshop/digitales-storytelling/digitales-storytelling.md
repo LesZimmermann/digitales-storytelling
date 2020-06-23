@@ -8,8 +8,12 @@ has_children: true
 {: .no_toc }
 [Text folgt...]
 
+--- 
+
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
+ folgt...
+---
 
 <span class="fs-8">
 [Zurück](digitales-storytelling/workshop/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
