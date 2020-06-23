@@ -16,5 +16,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ---
 
-[Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
-[Weiter](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline}
+<span class="fs-8">
+[Zurück](digitales-storytelling/workshop/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
+</span>
+<span class="fs-8">
+[Weiter](digitales-storytelling/workshop/werkauswahl/){: .btn .btn-outline}
+</span>

@@ -26,7 +26,9 @@ Lassen wir uns von Ausstellungskatalogen und Monographien, von Fotos, Werbetafel
 Einen guten Einstieg bieten die digitalen Sammlungen der Museen, bei denen wir nicht nur zielgerichtet nach Werken und Künstlern suchen können, sondern die uns meist auch Möglichkeiten zum Entdecken bieten. Im folgenden Kapitel (Link) haben wir einige Beispielstories zusammengestellt, die Inspiration liefern können. In den nachfolgenden Kapiteln finden sich Hilfestellung für die Auswahl des Werkes (Link) und Hilfe beim Finden einer passenden Story (Link).
 
 ![Abb. 6](https://cdn.lesliepzimmermann.de/storytelling/2-1-1_Digitale-Sammlung-Staedel.jpg)
-_Online Sammlungen eignen sich gut dazu, sich inspirieren zu lassen. Durch Digitale Sammlungen, wie die des Städel Museums, kann man sich einen Überblick über die volle Bandbreite der Sammlungen verschaffen._
+<p style="font-size: 0.8em"> Online Sammlungen eignen sich gut dazu, sich inspirieren zu lassen. Durch Digitale Sammlungen, wie die des Städel Museums, kann man sich einen Überblick über die volle Bandbreite der Sammlungen verschaffen.
+</p>
+{: .mt-1 }
 
 ### 2) **Ich habe mich bereits für ein Werk entschieden, weiß aber noch nicht, was ich anhand des Werkes erzählen möchte**
 
@@ -37,15 +39,16 @@ Wenn wir uns bereits für ein Werk entschieden haben, dann geht es nun darum, m�
 Wenn wir uns bereits für das Thema unserer Story entschieden haben, aber noch ohne Werk dastehen, dann geht es an dieser Stelle darum, das passende Werk zu unserer Idee beziehungsweise unserem Thema zu finden. Hierfür können wir sowohl auf den klassischen Wegen, wie in themenbezogenen Monographien und Ausstellungskatalogen, nach einer passenden Abbildung suchen, oder wir schauen uns gleich bei den Online-Sammlungen der Museen um. Im folgenden Kapitel (Link) haben wir einige Beispielstories zusammengestellt, die Inspiration liefern können. Im darauf folgenden Kapitel findet sich eine Hilfestellung für die Auswahl eines passenden Werkes (Link).
 
 ![Abb. 6](https://cdn.lesliepzimmermann.de/storytelling/2-1-2_Digitale-Sammlung-Staedel-Liebe.jpg)
-<p style="font-size: 0.7em">Einige Online Sammlungen bieten die Suche nach Stichworten an, wie hier die Digitale Sammlung des Städel Museums.</p>
+<p style="font-size: 0.8em">Einige Online Sammlungen bieten die Suche nach Stichworten an, wie hier die Digitale Sammlung des Städel Museums.</p>
+{: .mt-1 }
 
 ### 4) **Ich weiß welches Werk und welche Geschichte ich erzählen möchte** 
 
 Wenn wir bereits wissen, welches Werk und welche Geschichte wir behandeln möchten, können wir direkt mit der zielgerichteten Recherche beginnen. Im folgenden Kapitel (Link) haben wir einige Beispielstories zusammengestellt, die dabei helfen können. In den nachfolgenden Kapiteln findet sich eine Hilfestellung für die Auswahl eines Werkes (Link) und Hilfe beim Finden einer passenden Story (Link). Falls Werk und Geschichte nochmals überprüft werden sollen, findet sich in diesen Kapiteln Hilfe.
 
-<span class="fs-4">
+<span class="fs-8">
 [Zurück](digitales-storytelling/workshop/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
 </span>
-<span class="fs-4">
+<span class="fs-8">
 [Weiter](digitales-storytelling/workshop/werkauswahl/){: .btn .btn-outline}
 </span>
