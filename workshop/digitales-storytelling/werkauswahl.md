@@ -46,6 +46,13 @@ Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihr
 
 ### Online Sammlungen mit Creative-Commons (ohne IIIF)
 
+## Weblinks und Literatur
+### Weblinks
+Link 1
+Link 2
+...
+### Literatur
+
 <span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
 </span>

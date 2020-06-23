@@ -6,7 +6,7 @@ parent: 2. Digitales Storytelling
 ---
 # 2.6 Storyboard erstellen
 {: .no_toc }
-Nachdem wir die Story entwickelt und ausformuliert haben, kommt das Storyboard zum Einsatz. Hinlänglich bekannt ist das Storyboard in der Filmtheorie, wo es eingesetzt wird, um die Ideen des Drehbuchs in Kameraeinstellungen zu überführen. Ein Storyboard dient also der Visualisierung eines erarbeiteten Konzepts. Konzept und Gestaltungsideen können mit Hilfe des Storyboards präsentiert und überprüft werden und das Feedback lässt sich anschließend direkt in das Konzept einarbeiten. Auch dient es als Vorlage für die spätere Überführung der Story vom Storyboard in ihre finale Form. Diese Umsetzungsanweisungen sind sowohl für die selbstständige Weiterarbeit, als auch für das Arbeiten von Gruppen gleichermaßen sinnvoll. Das Storyboard lässt sich sowohl herkömmlich mit Stift und Papier, als auch mit moderner Computersoftware umsetzen. Nachfolgend findet sich eine Anleitung zum Erstellen eines Storyboards mit mit Google-Docs, Microsoft Word und PowerPoint. Eine Vorlage für das jeweilige Programm findet sich unter [Vorlagen](#vorlagen).
+Nachdem wir die Story entwickelt und ausformuliert haben, kommt das Storyboard zum Einsatz. Hinlänglich bekannt ist das Storyboard aus der Filmproduktion, wo es eingesetzt wird, um die Ideen des Drehbuchs in Kameraeinstellungen zu überführen. Ein Storyboard dient also der Visualisierung eines erarbeiteten Konzepts. Konzept und Gestaltungsideen können mit Hilfe des Storyboards präsentiert und überprüft werden und das Feedback lässt sich anschließend direkt in das Konzept einarbeiten. Auch dient es als Vorlage für die spätere Überführung der Story vom Storyboard in ihre finale Form der Digitalen Story. Diese Umsetzungsanweisungen sind sowohl für die selbstständige Weiterarbeit, als auch für das Arbeiten von Gruppen gleichermaßen sinnvoll. Das Storyboard lässt sich sowohl herkömmlich mit Stift und Papier als auch mit moderner Computersoftware umsetzen. Nachfolgend finden sich Anleitungen zum Erstellen eines Storyboards mit Hilfe von Google-Docs, Microsoft Word und PowerPoint. Eine Vorlage für das jeweilige Programm findet sich unter [Vorlagen](#vorlagen).
 
 ## Inhalt
 {: .no_toc .text-delta }
@@ -24,38 +24,39 @@ Was wir in diesem Kapitel lernen:
 ---
 
 ## Beispiel
-
-In unserem Beispiel ist das Storyboard in Text- und Bildsegmente untergliedert. Dabei beschreibt immer ein Textsegment einen bestimmten Bildausschnitt. Die Entwicklung der Textsegmente erfolgt bereits bei der Entwicklung der Story (vgl. 2.3). Diese werden dann in das Storyboard übernommen und ihnen wird ein Bildausschnitt zugeordnet. Daraufhin kann das Zusammenspiel zwischen Text und Bild überprüft werden, sowie der Verlauf der einzelnen Textsegmente und der einzelnen Bildausschnitte. Veränderungen können prozesshaft eingearbeitet werden.
+In unserem Beispiel ist das Storyboard in Text- und Bildsegmente untergliedert. Dabei erläutert ein Textsegment jeweils einen bestimmten Bildausschnitt. Die Entwicklung der Textsegmente erfolgt bereits bei der Entwicklung der Story (vgl. 2.3). Diese werden dann in das Storyboard übernommen, wo ihnen ein Bildausschnitt zugeordnet wird. Auf dieser Grundlage kann das Zusammenspiel zwischen Text und Bild ebenso überprüft werden wie die Abfolge der einzelnen Textsegmente und der zugehörigen Bildausschnitte. Veränderungen können jederzeit im Prozess eingearbeitet werden.
 
 ![Storyboard Lucca Madonna](https://login.schaf.me/index.php/s/bkCpAyPSz6myJry/preview)
 [Download Beispiel-Storyboard](https://drive.google.com/file/d/1x8anZF8Pt7TUb8DoK5LSUQfUPcIxu0W6/view?usp=sharing){: .btn .btn-purple }
 
-Für die Erstellung des Storyboards können wir mit der Textverarbeitungssoftware Word, Google-Docs oder PowerPoint arbeiten. Dabei lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt darin, dass wir die Bilder direkt in der Software beschneiden, das heißt einen Bildausschnitt auswählen und kopieren können. Es eignet sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten. Im Textfeld wird also einem Bildausschnitt eine Annotation beigefügt.
+Für die Erstellung des Storyboards können wir mit der Textverarbeitungssoftware Word, mit Google-Docs oder mit PowerPoint arbeiten. In allen Programmen lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt darin, dass wir die Bilder direkt in der Software beschneiden, das heißt den gewünschten Bildausschnitt auswählen und kopieren können. Die Programme eignen sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten und die Bildausschnitte lassen sich dann dem entsprechenden Textausschnitt zuordnen.
 
 ## Anleitung: Storyboard erstellen mit Microsoft Word
 
-Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft Word. Eine Vorlage für die Erstellung eines Storyboards mit Word findet sich unter [Vorlagen](#vorlagen).
+Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft Word. Eine Vorlage für die Erstellung eines eigenen Storyboards mit Word findet sich unter [Vorlagen](#vorlagen).
 
 <iframe width="700" height="360" src="https://www.youtube-nocookie.com/embed/3ZYaEzwPCKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Anleitung: Storyboard erstellen mit Google-Docs
-Ein anderer Weg ist die Umsetzung mit Google-Docs. Eine Vorlage für die Erstellung eines Storyboards mit Google-Docs findet sich unter [Vorlagen](#vorlagen).
+Eine andere Möglichkeit ist die Erstellung des Storyboards mit Hilfe von Google-Docs. Eine Vorlage für die Erstellung eines eigenen Storyboards mit Google-Docs findet sich unter  [Vorlagen](#vorlagen).
 
 ![Abb. 1](https://login.schaf.me/index.php/s/699A7rnNHiNmaLY/preview)
 
-Wir können von der Vorlage ausgehen und unser Storyboard erstellen oder uns selbst eine Tabelle anlegen. ["Einfügen" -> "Tabelle"]. Für unsere Zwecke benötigen wir eine Tabelle mit zwei Spalten, eine für den Text und eine für die Bildvorlage. Die Zeilenanzahl kann im Verlauf an die Länge der Story angepasst werden.
+Wir können von dieser Vorlage ausgehen, um unser Storyboard zu erstellen, sofern wir uns nicht selbst eine Tabelle anlegen wollen [“Einfügen -> Tabelle”]. Für unsere Zwecke benötigen wir eine Tabelle mit zwei Spalten, eine für den Text und eine für die Bildvorlage. Die Zeilenanzahl kann im Verlauf unserer Arbeit an die Länge der Story angepasst werden. 
+
 
 ![Abb. 2](https://login.schaf.me/index.php/s/QKQoc726meSGfZ7/preview)
 
-In der ersten Zeile beginnen wir mit einer Übersicht zu unserer Story. Die Linke Zelle der ersten Zeile enthält den Titel der Story, die Autor*innen-Namen, eine kurze Beschreibung und die Angabe zur Bildlizenz. 
+In der ersten Zeile beginnen wir mit einer Übersicht zu unserer Story. Die linke Zelle der ersten Zeile enthält den Titel der Story, die Autor*innen-Namen, eine kurze Beschreibung und die Angabe zur Bildlizenz. 
 
 ![Abb. 3](https://login.schaf.me/index.php/s/LPZPxaB4xJWKipC/preview)
 
-In die Rechte Zelle der ersten Zeile fügen wir eine Abbildung unseres Werkes ein. ["Einfügen" -> "Bild" -> "Vom Computer hochladen"], um das Bild von unserem Computer hochzuladen. Alternativ können wir auch eine der anderen Auswahlmöglichkeiten nutzen, um unser Bild z. B. direkt aus dem Web zu suchen oder über Google-Drive einzufügen. 
+In die rechte Zelle der ersten Zeile fügen wir eine Abbildung unseres Werkes ein. Entweder laden wir das Bild aus dem Web, über Google-Drive oder direkt von unserem Computer hoch [“Einfügen -> Bild -> Vom Computer hochladen”]. 
+
 
 ![Abb. 4](https://login.schaf.me/index.php/s/TyZRXWYtieYsHK4/preview)
 
-Nach dem Einfügen des ersten Textes und des Bildes, können wir die Segmente unserer Geschichte nach und nach einfügen, und dazu den passenden Bildausschnitt wählen. 
+Nach dem Einfügen des ersten Textes und des ersten Bildes können wir die Segmente unserer Geschichte nach und nach einfügen, und dazu die passenden Bildausschnitte zu wählen. 
 
 ![Abb. 5](https://login.schaf.me/index.php/s/pB7FBQpSnxgom68/preview)
 
@@ -63,7 +64,7 @@ Damit wir das Bild nicht jedes Mal neu in die Datei laden müssen, können wir e
 
 ![Abb. 6](https://cdn.lesliepzimmermann.de/storytelling/storyboard/Kopieren.gif)
 
-Nach dem Einfügen können wir die Bildvorlage nun zuschneiden. Dazu müssen wir das Bild zunächst auswählen bzw. anklicken, dann erscheint im oberen Reiter ein Zuschneide-Symbol (siehe Abbildung). Jetzt können wir den passenden Bildausschnitt auswählen. Diesen Vorgang können wir beliebig oft wiederholen und uns so nach und nach das Storyboard aufbauen. 
+Nach dem Einfügen können wir die Bildvorlage auf den gewünschten Ausschnitt zuschneiden. Dazu müssen wir das Bild zunächst auswählen bzw. anklicken, woraufhin im oberen Reiter ein Zuschneide-Symbol erscheint (siehe Abbildung). Jetzt können wir den passenden Bildausschnitt auswählen. Diesen Vorgang können wir beliebig oft wiederholen und uns so nach und nach das Storyboard aufbauen. 
 
 ![Abb. 7](https://login.schaf.me/index.php/s/KAATa84CbDyKn8t/preview)
 
@@ -71,7 +72,7 @@ Falls wir weitere Zeilen benötigen, können wir diese mit [Rechtsklick -> "Zeil
 
 ## Anleitung: Storyboard erstellen mit Microsoft PowerPoint
 
-Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft PowerPoint. Eine Vorlage für die Erstellung eines Storyboards mit PowerPoint findet sich unter [Vorlagen](#vorlagen).
+Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards unter Nutzung von Microsoft PowerPoint. Eine Vorlage für die Erstellung eines Storyboards mit PowerPoint findet sich unter [Vorlagen](#vorlagen).
 
 Storyboard erstellen mit PowerPoint: [VIDEO FOLGT]
 

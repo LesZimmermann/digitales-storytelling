@@ -41,6 +41,13 @@ Je nach Rechtslage kann es sein, dass wir die Abbildung des ausgewählten Werkes
 Digitale Bilder
 Um in den vollen Genuss der Digitalen Story zu kommen, ist eine möglichst hohe Auflösung der Bildvorlage nötig. Viele Online-Sammlungen der Museen bieten hochauflösende Abbildungen zum Download an. Hilfreiche Links dazu finden wir hier: [Link zum vorherigen Kapitel]
 
+## Weblinks und Literatur
+### Weblinks
+Link 1
+Link 2
+...
+### Literatur
+
 <span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
 </span>

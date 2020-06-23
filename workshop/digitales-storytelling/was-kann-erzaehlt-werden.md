@@ -26,7 +26,7 @@ In diesem Kapitel haben wir einige Beispiele zusammengetragen, die exemplarisch 
 
 ## Beispiel Malerei: Doppelbildnis des Justinian von Holzhausen und seiner Frau Anna von Fürstenberg
 
-![Faber 1](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber_Staedel-1.jpg)
+![Faber 1](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-1.jpg)
 
 <dl>
   <dt>Künstler</dt>
@@ -42,7 +42,7 @@ In diesem Kapitel haben wir einige Beispiele zusammengetragen, die exemplarisch 
   <dt>Bildlizenz</dt>
   <dd>CC BY-SA 4.0 Städel Museum, Frankfurt am Main</dd>
   <dt>IIIF?</dt>
-  <dd>Nein</dd>
+  <dd>nein</dd>
   <dt>Link zum Werk</dt>
   <dd>https://sammlung.staedelmuseum.de/de/werk/doppelbildnis-des-justinian-von-holzhausen</dd>
 </dl>
@@ -70,8 +70,67 @@ Ebenso wie für eine Darstellung der Kostümgeschichte eignen sich vergleichbare
 
 ## Beispiel Schmuckstück: Diamant-Diadem 
 
+![Diadem 1](https://cdn.lesliepzimmermann.de/storytelling/2-4-2_Diadem-1.jpg)
+
+<dl>
+  <dt>Titel</dt>
+  <dd>Diamant-Diadem von Marjorie Merriweather Post</dd>
+  <dt>Jahr</dt>
+  <dd>1. Hälfte des 19. Jahrhunderts</dd>
+  <dt>Technik</dt>
+  <dd>Diamanten, Gelb- und Weißgold</dd>
+  <dt>Sammlung</dt>
+  <dd>Smithsonian Institution, National Museum of American Histor, Washington, D. C.</dd>
+  <dt>Bildlizenz</dt>
+  <dd>https://www.si.edu/termsofuse</dd>
+  <dt>IIIF?</dt>
+  <dd>ja</dd>
+  <dt>Link zum Werk</dt>
+  <dd>https://www.si.edu/object/majorie-merriweather-posts-diamond-tiara%3Anmah_350082</dd>
+</dl>
+
+![Diadem 2](https://cdn.lesliepzimmermann.de/storytelling/2-4-2_Diadem-2.jpg)
+
+Das Diadem ist über und über mit Diamanten besetzt. Eignet es sich, um eine Geschichte über die verschiedenen Schliffarten zu erzählen? Welche Arten von Fassungen gibt es und welche wurden bei dem vorliegenden Schmuckstück verwendet? Das Diadem weist naturalistische Motive auf. Welche Motive lassen sich finden? Welche Blüten wurden hier als Schmuckstück nachgebildet?
+
+![Diadem 3](https://cdn.lesliepzimmermann.de/storytelling/2-4-2_Diadem-3.jpg)
+
+Eine Besonderheit von Schmuckstücken ist, dass sie häufig auf verschiedene Weisen tragbar sind. Das vorliegende Diadem lässt sich auch in Einzelteile zerlegen, die beispielsweise als Broschen getragen werden können. Eignet sich die Abbildung des Werks, um über die verschiedenen Tragemöglichkeiten zu sprechen? Aus wie vielen einzelnen Elementen setzt sich das Diadem zusammen? Sind sie alle zur gleichen Zeit gefertigt worden oder lassen sich Spuren späterer Überarbeitungen finden?
+
+![Diadem 4](https://cdn.lesliepzimmermann.de/storytelling/2-4-2_Diadem-4.jpg)
+
+Wollen wir in unserer Story über verschiedene Techniken der Gold- und Silberschmiedekunst berichten? Das Diadem vereint mehrere solcher Techniken, wie das sogenannte ‘en tremblant’, bei dem einzelne Elemente des Schmuckstücks an spiralförmigen Federn befestigt werden. Doch wozu eignen sich diese speziellen Befestigungen? Haben sie eine Auswirkung auf das Aussehen und die Funktion des Schmuckstück oder dienen sie lediglich der Konstruktion?
 
 ## Beispiel Druckgrafik: Schabkunst-Porträt
+
+![Holzhausen 1](https://cdn.lesliepzimmermann.de/storytelling/2-4-3_Holzhausen-1.jpg)
+
+<dl>
+  <dt>Künstler</dt>
+  <dd>Elias Christoph Heiss und Bernhard Vogel</dd>
+  <dt>Titel</dt>
+  <dd>Bildnis des Johann Georg von Holzhausen</dd>
+  <dt>Jahr</dt>
+  <dd>1721</dd>
+  <dt>Technik</dt>
+  <dd>Schabkunst</dd>
+  <dt>Sammlung</dt>
+  <dd>Staatsbibliothek zu Berlin</dd>
+  <dt>Bildlizenz</dt>
+  <dd>Public Domain Mark 1.0</dd>
+  <dt>IIIF?</dt>
+  <dd>ja</dd>
+  <dt>Link zum Werk</dt>
+  <dd>https://mirador.staatsbibliothek-berlin.de/?manifest=https://content.staatsbibliothek-berlin.de/dc/654654484/manifest</dd>
+</dl>
+
+![Holzhausen 2](https://cdn.lesliepzimmermann.de/storytelling/2-4-3_Holzhausen-2.jpg)
+
+Möchten wir eine Digitale Story zum Thema Drucktechniken erstellen? Um welche Drucktechnik handelt es sich hier? Wurde das Blatt im Hoch- oder Tiefdruckverfahren gefertigt? Was sind Schabkunst/Mezzotinto, Kupferstich oder Holzschnitt? Woran lässt sich erkennen, dass es sich bei der vorliegenden Grafik um ein Schabkunstblatt handelt?
+
+![Holzhausen 3](https://cdn.lesliepzimmermann.de/storytelling/2-4-3_Holzhausen-3.jpg)
+
+Möchten wir über den Dargestellten selbst sprechen? Wie lassen sich Porträtierte in Druckgrafiken identifizieren? Wie ist das Blatt gestaltet? In der Druckgrafik findet sich häufig Text. Dieser gibt Aufschluss über den Dargestellten, sein Alter, seine Herkunft und weitere biografische Einzelheiten. Doch schauen die Betrachter*innen auch auf das Kleingedruckte? Häufig finden sich Informationen zum Entwerfer, zum Stecher und/oder Verleger. Man kann beim Digital Storytelling also auf Details verweisen, die beim oberflächlichen Betrachten schnell übersehen werden. In welcher Sprache ist die Inschrift verfasst? Eine Digitale Story eignet sich auch, durch Annotationen bestimmte Passagen zu transkribieren und/oder zu übersetzen.
 
 
 ## Beispiel Architektur
@@ -80,6 +139,13 @@ folgt...
 ## Beispiel Skulptur
 folgt...
 
+## Weblinks und Literatur
+### Weblinks
+- [Virtueller Rundgang durch die Ausstellung: Die Welt im BILDnis im Museum Giersch der Goethe-Universität](http://welt-im-bildnis.museum-giersch.de/)
+
+### Literatur
+- Fickinger, Samuel. „Conrad Faber von Kreuznach, die Familie von Holzhausen und das Renaissanceporträt“. In Die Welt im Bildnis: Porträts, Sammler und Sammlungen in Frankfurt vom 16. bis 18. Jahrhundert., herausgegeben von Jochen Sander, 39–46. Frankfurt am Main: Michael Imhof, 2020.
+- Zimmermann, Leslie P. „Die Welt Im Bildnis Entdecken: Das Museum Giersch Der Goethe-Universität Frankfurt Zeigt Seine Aktuelle Ausstellung Auch Online“. Medium (blog), 14. Juni 2020. https://medium.com/@lesliepzimmermann/die-welt-im-bildnis-entdecken-6394bad9833f.
 
 
 <span class="fs-8">
