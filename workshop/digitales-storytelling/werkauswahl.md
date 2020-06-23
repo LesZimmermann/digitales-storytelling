@@ -17,7 +17,7 @@ Im folgenden wollen wir klären, wie wir das richtige Werk für unsere Story aus
 ---
 
 ## Lehrziele
-
+Was wir in diesem Kapitel lernen:
 
 ## Technische Aspekte der Werkauswahl
 Ein wichtiger Aspekt, den wir bei der Erstellung einer digitalen Story unbedingt beachten sollten, ist die Rechtslage der digitalen Bilder, die wir im WWW vorfinden. Dabei ist es nötig herauszufinden, ob und in welcher Form der Einsatz einer vorliegenden Abbildungen gestattet ist. Auch ist es für unser Vorhaben wichtig, ob das Herunterladen der Bilder möglich ist oder ob sie sogar über IIIF (dazu kommen wir in Teil 3) abgerufen werden können, was die Möglichkeiten der Verwendung nochmal erheblich vergrößert.  Diese Informationen finden wir meist auf der Website beziehungsweise den digitalen Sammlungen der Museen.
@@ -45,6 +45,7 @@ Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihr
 <iframe src="https://www.google.com/maps/d/embed?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp" width="640" height="480"></iframe>
 
 ### Online Sammlungen mit Creative-Commons (ohne IIIF)
+- [Digitale Sammlung des Städel Museums](https://sammlung.staedelmuseum.de/de)
 
 ## Weblinks und Literatur
 ### Weblinks

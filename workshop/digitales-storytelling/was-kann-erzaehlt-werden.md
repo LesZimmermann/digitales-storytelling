@@ -22,7 +22,8 @@ der fachlichen Wissensvermittlung auch visuell überzeugend und optisch ansprech
 ---
 
 ## Lehrziele
-In diesem Kapitel haben wir einige Beispiele zusammengetragen, die exemplarisch zeigen sollen, welche Geschichten sich anhand eines Werkes erzählen lassen können.
+Was wir in diesem Kapitel lernen:
+- In diesem Kapitel haben wir einige Beispiele zusammengetragen, die exemplarisch zeigen sollen, welche Geschichten sich anhand eines Werkes erzählen lassen können.
 
 ## Beispiel Malerei: Doppelbildnis des Justinian von Holzhausen und seiner Frau Anna von Fürstenberg
 
@@ -145,7 +146,7 @@ folgt...
 
 ### Literatur
 - Fickinger, Samuel. „Conrad Faber von Kreuznach, die Familie von Holzhausen und das Renaissanceporträt“. In Die Welt im Bildnis: Porträts, Sammler und Sammlungen in Frankfurt vom 16. bis 18. Jahrhundert., herausgegeben von Jochen Sander, 39–46. Frankfurt am Main: Michael Imhof, 2020.
-- Zimmermann, Leslie P. „Die Welt Im Bildnis Entdecken: Das Museum Giersch Der Goethe-Universität Frankfurt Zeigt Seine Aktuelle Ausstellung Auch Online“. Medium (blog), 14. Juni 2020. https://medium.com/@lesliepzimmermann/die-welt-im-bildnis-entdecken-6394bad9833f.
+- Zimmermann, Leslie P. „Die Welt Im Bildnis Entdecken: Das Museum Giersch Der Goethe-Universität Frankfurt Zeigt Seine Aktuelle Ausstellung Auch Online“. Medium (blog), 14. Juni 2020. [https://medium.com/@lesliepzimmermann/die-welt-im-bildnis-entdecken-6394bad9833f](https://medium.com/@lesliepzimmermann/die-welt-im-bildnis-entdecken-6394bad9833f).
 
 
 <span class="fs-8">

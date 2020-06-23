@@ -8,13 +8,8 @@ has_children: true
 {: .no_toc }
 [Text folgt...]
 
-## Inhalt
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
+## Lehrziele
+Was wir in diesem Kapitel lernen:
 
 <span class="fs-8">
 [Zurück](digitales-storytelling/workshop/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
