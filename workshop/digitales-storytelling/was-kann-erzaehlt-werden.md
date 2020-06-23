@@ -44,26 +44,26 @@ In diesem Kapitel haben wir einige Beispiele zusammengetragen, die exemplarisch 
   <dt>IIIF?</dt>
   <dd>Nein</dd>
   <dt>Link zum Werk</dt>
-  <dd>[hier klicken](https://sammlung.staedelmuseum.de/de/werk/doppelbildnis-des-justinian-von-holzhausen)</dd>
+  <dd>https://sammlung.staedelmuseum.de/de/werk/doppelbildnis-des-justinian-von-holzhausen</dd>
 </dl>
 
-![Faber 2](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber_Staedel-2.jpg)
+![Faber 2](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-2.jpg)
 
 Um wen handelt es sich bei dem wohlgenährten Knaben, der zwischen den Porträtierten auf der Balustrade sitzt? Ist es ein Kind der beiden? Aber wieso hat es dann Flügel? Wieso trägt es eine transparente Augenbinde und was hält es in seinen Händen? Die beiden Dargestellten scheinen mit dem Knaben in einen Handlungsrahmen gebettet zu sein. Lässt sich darüber eine Geschichte erzählen?
 
-![Faber 3](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber_Staedel-3.jpg)
+![Faber 3](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-3.jpg)
 
 Hinter dem dargestellten Mann öffnet sich ein weiter Blick auf eine befestigte Stadt. Welche Stadt ist gemeint? Lässt sie sich identifizieren? Was haben die vielen Rauchsäulen zu bedeuten? Und wieso fängt ein Doppelbildnis dieses Detail im Hintergrund ein? Gibt es einen Bezug zu den Porträtierten?
 
-![Faber 4](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber_Staedel-4.jpg)
+![Faber 4](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-4.jpg)
 
 Wir haben bei der Betrachtung des Gemäldes das Detail der Butzenscheiben im Fenster hinter der Frau entdeckt. In die Scheiben sind Wappendarstellungen eingefügt; um welche Wappen handelt es sich? Sind es die Wappen der Dargestellten, die sich so etwa vielleicht identifizieren lassen? Kann man die Inschrift, die die Wappen rahmt, entziffern? Eignet sich dieses Detail, um sie in eine Story über Ehebildnisse oder gar die Porträtierten selbst einzubinden?
 
-![Faber 5](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber_Staedel-5.jpg)
+![Faber 5](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-5.jpg)
 
 Wir beschäftigen uns im Rahmen eines Seminars oder einer Ausstellung mit Kostümgeschichte und möchten in einer Story über Renaissance-Kleidung sprechen? Was lässt sich über den pelzverbrämten Rock, eine sogenannte Schaube, das reich plissierte Hemd, das geschlitzte Wams oder die Pluderhose erzählen? Eignet sich das Werk, um über die Kleiderordnungen des 16. Jahrhunderts zu berichten?
 
-![Faber 6](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber_Staedel-6.jpg)
+![Faber 6](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-6.jpg)
 
 Ebenso wie für eine Darstellung der Kostümgeschichte eignen sich vergleichbare Gemälde auch, um über Schmuckgeschichte zu erzählen, da der Schmuck, ebenso wie die Kleidung selbst, nur selten die Jahrhunderte überdauert hat. Was ist typisch für den Renaissance-Schmuck? Welche Materialien scheinen beliebt gewesen zu sein?
 
