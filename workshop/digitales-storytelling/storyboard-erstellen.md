@@ -34,7 +34,7 @@ Für die Erstellung des Storyboards können wir mit der Textverarbeitungssoftwar
 
 Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards mit Microsoft Word. Eine Vorlage für die Erstellung eines eigenen Storyboards mit Word findet sich unter [Vorlagen](#vorlagen).
 
-<iframe width="700" height="360" src="https://www.youtube-nocookie.com/embed/3ZYaEzwPCKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/3ZYaEzwPCKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Anleitung: Storyboard erstellen mit Google-Docs
 Eine andere Möglichkeit ist die Erstellung des Storyboards mit Hilfe von Google-Docs. Eine Vorlage für die Erstellung eines eigenen Storyboards mit Google-Docs findet sich unter  [Vorlagen](#vorlagen).
@@ -91,8 +91,8 @@ Eine Vorlage für die Erstellung eines Storyboards mit Word, Google-Docs oder Po
 In den nächsten Kapiteln werden wir unser Storyboard in eine interaktive Story verwandeln:
 
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/digitales-storytelling/eine-story-entwickeln/){: .btn .btn-outline .mr-2 } 
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/eine-story-entwickeln/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](digitales-storytelling/iiif/digitales-storytelling/technische-umsetzung/){: .btn .btn-outline}
+[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/technische-umsetzung/){: .btn .btn-outline}
 </span>

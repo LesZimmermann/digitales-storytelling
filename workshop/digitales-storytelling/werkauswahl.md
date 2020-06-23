@@ -18,6 +18,7 @@ Im folgenden wollen wir klären, wie wir das richtige Werk für unsere Story aus
 
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
+folgt...
 
 ---
 
@@ -26,9 +27,9 @@ Ein wichtiger Aspekt, den wir bei der Erstellung einer digitalen Story unbedingt
 
 Möchten wir eine Story mittels IIIF erstellen, so wie es dieser Online-Workshop vorschlägt, stehen uns zwei Optionen zur Verfügung:
 
-a) Wir hosten unsere Abbildung(en) selbst. Das heißt, wir sind im Besitz einer Bilddatei (z.B. .jpeg) und laden diese für das Erstellen der Story ins Internet (dabei sollten wir, wie schon gesagt, zuvor unbedingt die Rechtslage des Bildes klären). Wie dies funktioniert, sehen wir uns in Kapitel … an (Link).
+a) Wir hosten unsere Abbildung(en) selbst. Das heißt, wir sind im Besitz einer Bilddatei (z.B. .jpeg) und laden diese für das Erstellen der Story ins Internet (dabei sollten wir, wie schon gesagt, zuvor unbedingt die Rechtslage des Bildes klären). Wie dies funktioniert, sehen wir uns in [Teil 3](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/technische-umsetzung/) dieses Workshops.
 
-b) Wir nutzen die IIIF-APIs (Schnittstellen) von Museen und anderen Institutionen, die diese schon bereitstellen, müssen also keine Abbildungen downloaden. Mit dieser Methoden können wir mit geringen Aufwand Digital Stories mit sehr hochauflösenden Abbildungen erstellen, ohne viel Speicherplatz für große Bilddateien opfern zu müssen. Eine Liste an Datenbanken, in denen wir die IIIF-APIs finden, haben wir weiter unten zusammengestellt. Genauer gehen wir auf diesen Aspekt in Kapitel … ein (Link).
+b) Wir nutzen die IIIF-APIs (Schnittstellen) von Museen und anderen Institutionen, die diese schon bereitstellen, müssen also keine Abbildungen downloaden. Mit dieser Methoden können wir mit geringen Aufwand Digital Stories mit sehr hochauflösenden Abbildungen erstellen, ohne viel Speicherplatz für große Bilddateien opfern zu müssen. Eine Liste an Datenbanken, in denen wir die IIIF-APIs finden, haben wir weiter unten zusammengestellt. Genauer gehen wir auf diesen Aspekt in [Teil 3](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/technische-umsetzung/) dieses Workshops ein.
 
 ![Getty 1](https://cdn.lesliepzimmermann.de/storytelling/2-2-1_Getty-1.jpg)
 
@@ -39,26 +40,47 @@ Download, falls wir die Abbildung selbst hosten müssen/wollen
 Existiert bereits eine IIIF API, so sehen wir das am Logo, auf das wir klicken können, um zur API zu gelangen.
 
 ## Hilfreiche Links und Ressourcen 
-### Online-Sammlungen mit IIIF
+### Online-Sammlungen mit IIIF (Auswahl)
 Diese Sammlungen bieten den Download von Werken sowie die Möglichkeit, die Werke über die IIIF Schnittstelle zu nutzen.
 
 Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihre Sammlung über die IIIF-Schnittstelle anbieten:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp" width="640" height="480"></iframe>
 
-### Online Sammlungen mit Creative-Commons (ohne IIIF)
-- [Digitale Sammlung des Städel Museums](https://sammlung.staedelmuseum.de/de)
+- [Bayerischen Staatsbibliothek](https://app.digitale-sammlungen.de/bookshelf/)
+- [Belvedere](https://sammlung.belvedere.at/)
+- [Europeana](https://www.europeana.eu/en/search?query=sv_dcterms_conformsTo%3A%2aiiif%2a&view=grid)
+- [Gallica (Bibliothèque nationale de France)](https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop)
+- [Getty Museum](http://www.getty.edu/art/collection/)
+- [National Gallery Washington](https://www.nga.gov/collection.html)
+- [Smithsonian Institution](https://www.si.edu/collections)
+- [Staatsbibliothek Berlin](https://digital.staatsbibliothek-berlin.de/)
+- [Yale Center for British Art](https://britishart.yale.edu/collections/highlights)
+
+### Online Sammlungen mit Creative-Commons, ohne IIIF (Auswahl)
+- [Metropolitan Museum of Art]()
+- [Rijskmuseum]()
+- [Städel Museums](https://sammlung.staedelmuseum.de/de)
+- Kunsthistorisches Museum, Wien
+- Staatliche Museen zu Berlin
+- Museo del Prado, Madrid
+- Musée du Louvre, Paris
+- Bayerische Staatsgemäldesammlungen, München
+- Szépművészeti Múzeum, Budapest
+
 
 ## Weblinks und Literatur
 ### Weblinks
-- folgt...
+- [IIIF-Hosting von Klokan Technologies GmbH](https://www.iiifhosting.com/)
+- [The Return from War: Mars Disarmed by Venus, Getty Museum](http://www.getty.edu/art/collection/objects/130326/peter-paul-rubens-and-jan-brueghel-the-elder-the-return-from-war-mars-disarmed-by-venus-flemish-about-1610-1612/?dz=0.5000,0.5000,0.39)
+
 ### Literatur
 - folgt...
 
 Im nächste Kapitel beschäftigen wir uns mit der Themenauswahl:
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/digitales-storytelling/einstieg-storyentwicklung/){: .btn .btn-outline .mr-2 } 
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/einstieg-storyentwicklung/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](digitales-storytelling/workshop/digitales-storytelling/themenauswahl/){: .btn .btn-outline}
+[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/themenauswahl/){: .btn .btn-outline}
 </span>

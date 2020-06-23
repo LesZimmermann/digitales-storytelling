@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Start
+title: IIIF-Hosting
 nav_order: 1
+parent: Ressourcen
 ---
-
-# Digitales Storytelling in der Kunstgeschichte mit IIIF
+# IIIF-Hosting
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-<iframe width="100%" height="450" src="https://storiiies.cogapp.com/viewer/7apc/Gegenber-der-Himmelsknigin?embed=true" title="Gegenüber der Himmelskönigin?"></iframe>
-
-<span class="fs-8">
-[Workshop starten](/digitales-storytelling/workshop/evaluation/evaluation-1/){: .btn .mt-2}
-</span>
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
+[Weiter](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline}

@@ -153,8 +153,8 @@ folgt...
 Im nächsten Kapitel beschäftigen wir uns mit den Entwicklung einer Story:
 
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/digitales-storytelling/themenauswahl){: .btn .btn-outline .mr-2 } 
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/themenauswahl/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](digitales-storytelling/workshop/digitales-storytelling/eine-story-entwickeln/){: .btn .btn-outline}
+[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/eine-story-entwickeln/){: .btn .btn-outline}
 </span>

@@ -32,7 +32,8 @@ Beispiel:
 - Werk: Lucca-Madonna
 - Zu erzählende Geschichte: Handelt es sich bei den dargestellten Personen um die Madonna mit Christusknaben?
 
-<iframe width="100%" height="600" src="https://storiiies.cogapp.com/viewer/7apc/Gegenber-der-Himmelsknigin?embed=true" title="Gegenüber der Himmelskönigin?"></iframe>
+<iframe width="100%" height="450" src="https://storiiies.cogapp.com/viewer/7apc/Gegenber-der-Himmelsknigin?embed=true" title="Gegenüber der Himmelskönigin?"></iframe>
+[Vollbild](https://storiiies.cogapp.com/viewer/7apc/Gegenber-der-Himmelsknigin){: .btn .btn-purple }
 
 ### A B C (Lineares Erzählen)
 
@@ -77,5 +78,5 @@ Im nächsten Kapitel beschäftigen wir uns mit der Entwicklung eines Storyboards
 [Zurück](digitales-storytelling/workshop/digitales-storytelling/was-kann-erzaehlt-werden/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](digitales-storytelling/workshop/digitales-storytelling/storyboard-erstellen/){: .btn .btn-outline}
+[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/storyboard-erstellen/){: .btn .btn-outline}
 </span>

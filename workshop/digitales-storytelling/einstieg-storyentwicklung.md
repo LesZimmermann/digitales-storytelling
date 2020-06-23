@@ -46,8 +46,8 @@ Wenn wir bereits wissen, welches Werk und welche Geschichte wir behandeln möcht
 Das nächste Kapitel dreht sich um die Werkauswahl:
 
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/digitales-storytelling/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/was-kann-erzaehlt-werden/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](digitales-storytelling/workshop/digitales-storytelling/werkauswahl/){: .btn .btn-outline}
+[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/werkauswahl/){: .btn .btn-outline}
 </span>
