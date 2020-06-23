@@ -41,11 +41,7 @@ Existiert bereits eine IIIF API, so sehen wir das am Logo, auf das wir klicken k
 
 ## Hilfreiche Links und Ressourcen 
 ### Online-Sammlungen mit IIIF (Auswahl)
-Diese Sammlungen bieten den Download von Werken sowie die Möglichkeit, die Werke über die IIIF Schnittstelle zu nutzen.
-
-Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihre Sammlung über die IIIF-Schnittstelle anbieten:
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp" width="640" height="480"></iframe>
+Diese folgenden Sammlungen bieten die Nutzun und den Download von Werken sowie die Möglichkeit, die Werke über die IIIF Schnittstelle zu nutzen:
 
 - [Bayerischen Staatsbibliothek](https://app.digitale-sammlungen.de/bookshelf/)
 - [Belvedere](https://sammlung.belvedere.at/)
@@ -57,7 +53,12 @@ Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihr
 - [Staatsbibliothek Berlin](https://digital.staatsbibliothek-berlin.de/)
 - [Yale Center for British Art](https://britishart.yale.edu/collections/highlights)
 
+Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihre Sammlung über die IIIF-Schnittstelle anbieten:
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp" width="auto" height="480"></iframe>
+
 ### Online Sammlungen mit Creative-Commons, ohne IIIF (Auswahl)
+Diese folgenden Sammlungen bieten die Nutzund und den Download von Werken an:
 - [Metropolitan Museum of Art]()
 - [Rijskmuseum]()
 - [Städel Museums](https://sammlung.staedelmuseum.de/de)
