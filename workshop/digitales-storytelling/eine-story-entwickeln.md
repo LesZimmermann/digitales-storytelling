@@ -72,9 +72,10 @@ Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an da
 - Niegemann, Helmut M., Steffi Domagk, Silvia Hessel, Alexandra Hein, Matthias Hupfer, und Annett Zobel. „Segmentierung und Sequenzierung: Einteilung und Reihenfolge“. In Kompendium multimediales Lernen, 143–52. X.media.press. Berlin Heidelberg: Springer, 2008.
 
 Im nächsten Kapitel beschäftigen wir uns mit der Entwicklung eines Storyboards:
+
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/was-kann-erzaehlt-werden/){: .btn .btn-outline .mr-2 } 
+[Zurück](digitales-storytelling/workshop/digitales-storytelling/was-kann-erzaehlt-werden/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](digitales-storytelling/workshop/storyboard-erstellen/){: .btn .btn-outline}
+[Weiter](digitales-storytelling/workshop/digitales-storytelling/storyboard-erstellen/){: .btn .btn-outline}
 </span>

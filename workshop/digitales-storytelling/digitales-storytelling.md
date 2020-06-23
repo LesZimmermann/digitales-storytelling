@@ -16,9 +16,10 @@ Was wir in diesem Kapitel lernen:
 ---
 
 Im nächsten Kapitel sehen wir uns an, wie der richtige Einstieg in das Digitale Storytelling gelingt:
+
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
+[Zurück](digitales-storytelling/workshop/einfuehrung/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](digitales-storytelling/workshop/werkauswahl/){: .btn .btn-outline}
+[Weiter](digitales-storytelling/workshop/digitales-storytelling/werkauswahl/){: .btn .btn-outline}
 </span>

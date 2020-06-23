@@ -57,8 +57,8 @@ Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihr
 
 Im nächste Kapitel beschäftigen wir uns mit der Themenauswahl:
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/einstieg-storyentwicklung/){: .btn .btn-outline .mr-2 } 
+[Zurück](digitales-storytelling/workshop/digitales-storytelling/einstieg-storyentwicklung/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](https://leszimmermann.github.io/themenauswahl/){: .btn .btn-outline}
+[Weiter](digitales-storytelling/workshop/digitales-storytelling/themenauswahl/){: .btn .btn-outline}
 </span>

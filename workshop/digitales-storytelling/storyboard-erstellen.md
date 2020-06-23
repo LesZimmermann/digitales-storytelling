@@ -88,9 +88,11 @@ Eine Vorlage für die Erstellung eines Storyboards mit Word, Google-Docs oder Po
 - Niegemann, Helmut M., Steffi Domagk, Silvia Hessel, Alexandra Hein, Matthias Hupfer, und Annett Zobel. „Storyboard“. In Kompendium multimediales Lernen, 387–94. X.media.press. Berlin Heidelberg: Springer, 2008.
 - Wong, Dora. „Digital Storytelling Using Both Keyboard and Pen“. In Digital Humanities and New Ways of Teaching, herausgegeben von Anna Wing-bo Tso, 195–218. Digital Culture and Humanities. Singapore: Springer, 2019. https://doi.org/10.1007/978-981-13-1277-9_11.
 
+In den nächsten Kapiteln werden wir unser Storyboard in eine interaktive Story verwandeln:
+
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/eine-story-entwickeln/){: .btn .btn-outline .mr-2 } 
+[Zurück](digitales-storytelling/workshop/digitales-storytelling/eine-story-entwickeln/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](digitales-storytelling/iiif/technische-umsetzung/){: .btn .btn-outline}
+[Weiter](digitales-storytelling/iiif/digitales-storytelling/technische-umsetzung/){: .btn .btn-outline}
 </span>

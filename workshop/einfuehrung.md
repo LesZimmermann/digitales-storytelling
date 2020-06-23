@@ -8,4 +8,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <iframe width="100%" height="600" src="https://storiiies.cogapp.com/viewer/7apc/Gegenber-der-Himmelsknigin?embed=true" title="Gegenüber der Himmelskönigin?"></iframe>
 
-[Weiter](/digitales-storytelling/workshop/digitales-storytelling){: .btn .btn-outline}
+<span class="fs-8">
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
+</span>
+<span class="fs-8">
+[Weiter](digitales-storytelling/workshop/digitales-storytelling/digitales-storytelling/){: .btn .btn-outline}
+</span>
