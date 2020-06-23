@@ -55,9 +55,10 @@ Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihr
 ### Literatur
 - folgt...
 
+Im nächste Kapitel beschäftigen wir uns mit der Themenauswahl:
 <span class="fs-8">
-[Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
+[Zurück](digitales-storytelling/workshop/einstieg-storyentwicklung/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline}
+[Weiter](https://leszimmermann.github.io/themenauswahl/){: .btn .btn-outline}
 </span>

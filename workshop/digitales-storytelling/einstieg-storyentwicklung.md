@@ -38,11 +38,12 @@ Wenn wir uns bereits für ein Werk entschieden haben, dann geht es nun darum, m�
 Wenn wir uns bereits für das Thema unserer Story entschieden haben, aber noch ohne Werk dastehen, dann geht es an dieser Stelle darum, das passende Werk zu unserer Idee beziehungsweise unserem Thema zu finden. Hierfür können wir sowohl auf den klassischen Wegen, wie in themenbezogenen Monographien und Ausstellungskatalogen, nach einer passenden Abbildung suchen, oder wir schauen uns gleich bei den Online-Sammlungen der Museen um. Im [nächsten Kapitel](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/werkauswahl/) findet sich eine Hilfestellung für die Auswahl eines passenden Werkes. In Kapitel [2.4 Was kann erzählt werden?](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/was-kann-erzaehlt-werden/) haben wir einige Fragestellungen zusammengestellt, die Inspiration liefern können.
 
 ![Abb. 6](https://cdn.lesliepzimmermann.de/storytelling/2-1-2_Digitale-Sammlung-Staedel-Liebe.jpg)
-<p style="font-size: 0.8em;margin-top:-15px;"">Einige Online Sammlungen bieten die Suche nach Stichworten an, wie hier die Digitale Sammlung des Städel Museums.</p>
+<p style="font-size: 0.8em;margin-top:-15px;">Einige Online Sammlungen bieten die Suche nach Stichworten an, wie hier die Digitale Sammlung des Städel Museums.</p>
 
 ### Ich weiß welches Werk und welche Geschichte ich erzählen möchte
 Wenn wir bereits wissen, welches Werk und welche Geschichte wir behandeln möchten, können wir direkt mit der zielgerichteten Recherche beginnen. Im folgenden Kapitel (Link) haben wir einige Beispielstories zusammengestellt, die dabei helfen können. In den nachfolgenden Kapiteln findet sich eine Hilfestellung für die [Auswahl eines Werkes](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/werkauswahl/) und Hilfe beim [Finden einer passenden Story](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/themenauswahl/). Falls Werk und Geschichte nochmals überprüft werden sollen, findet sich in diesen Kapiteln Hilfe.
 
+Das nächste Kapitel dreht sich um die Werkauswahl:
 <span class="fs-8">
 [Zurück](digitales-storytelling/workshop/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
 </span>

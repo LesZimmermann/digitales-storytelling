@@ -19,13 +19,14 @@ Wir haben unser Werk gefunden und begeben uns nun auf die Suche nach einer passe
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
 - folgt...
----
 
+---
 
 ## Welche Geschichten können anhand des Werkes erzählt werden?
 Die Digitale Story sollte unser Publikum weder unter- noch überfordern. An wen soll sich unsere Story richten? Wir müssen die Story also sprachlich unserem Publikum anpassen. Auch sollten wir uns in der Story stets kurz fassen. Als Faustformel gilt: So kurz wie möglich, aber so ausführlich wie nötig. Die Digitale Story soll den Blick der Betrachter*innen auf das Kunstwerk lenken, sie durch das Werk führen (guided tour). Wir sollten dem gewählten Bildausschnitt also nicht zu viel Text gegenüberstellen, der vom Betrachten und Entdecken des Kunstwerkes ablenkt. 
 
-![Rembrandt](https://cdn.lesliepzimmermann.de/storytelling/2-3-1_Rembrandt.jpg) <p style="font-size: 0.8em;margin-top:-15px;">Rembrandt Hermensz. van Rijn, Die Blendung Simsons, 1636, Öl auf Leinwand, 206,0 x 276,0 cm, Frankfurt a. M., Städel Museum, Inv. 1383</p>
+![Rembrandt](https://cdn.lesliepzimmermann.de/storytelling/2-3-1_Rembrandt.jpg) 
+<p style="font-size: 0.8em; margin-top:-15px;">Rembrandt Hermensz. van Rijn, Die Blendung Simsons, 1636, Öl auf Leinwand, 206,0 x 276,0 cm, Frankfurt a. M., Städel Museum, Inv. 1383</p>
 
 ## Wer die Wahl hat, hat die Qual
 Je nach Gattung des Kunstwerkes eröffnen sich vielfältige Möglichkeiten, eine Geschichte zu erzählen. An ein Gemälde kann man andere Fragen stellen als an eine Druckgrafik oder einen Film-Still. Was halten wir bei dem von uns ausgewählten Werk für besonders erzählenswert?
@@ -40,7 +41,7 @@ Auch die Bildgenese und der konservatorische Zustand bzw. die Restaurierungsgesc
 Da die Oberflächenbeschaffenheit je nach Material sehr verschieden ist, kann man sich auch in einer Story näher mit der Materialität auseinandersetzen. Vielleicht lässt sich an dem ausgewählten Werk in Kombination zur Materialität auch über die Technik sprechen, in der es ausgeführt wurde.
 
 Professor Dr. Jochen Sander über Rembrandts Blendung Simsons:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hcL-8dSQDgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/hcL-8dSQDgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Info
 **Bildrechte:** Darf ich mein Werk verwenden?
@@ -54,9 +55,10 @@ Je nach Rechtslage kann es sein, dass wir die Abbildung des ausgewählten Werkes
 ### Literatur
 - folgt...
 
+Im nächste Kapitel entwickeln wir Fragestellungen an Kunstwerke:
 <span class="fs-8">
-[Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
+[Zurück](digitales-storytelling/workshop/werkauswahl/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline}
+[Weiter](digitales-storytelling/workshop/was-kann-erzaehlt-werden/){: .btn .btn-outline}
 </span>

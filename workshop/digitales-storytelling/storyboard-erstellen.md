@@ -89,8 +89,8 @@ Eine Vorlage für die Erstellung eines Storyboards mit Word, Google-Docs oder Po
 - Wong, Dora. „Digital Storytelling Using Both Keyboard and Pen“. In Digital Humanities and New Ways of Teaching, herausgegeben von Anna Wing-bo Tso, 195–218. Digital Culture and Humanities. Singapore: Springer, 2019. https://doi.org/10.1007/978-981-13-1277-9_11.
 
 <span class="fs-8">
-[Zurück](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
+[Zurück](digitales-storytelling/workshop/eine-story-entwickeln/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](https://leszimmermann.github.io/digitales-storytelling/){: .btn .btn-outline}
+[Weiter](digitales-storytelling/iiif/technische-umsetzung/){: .btn .btn-outline}
 </span>

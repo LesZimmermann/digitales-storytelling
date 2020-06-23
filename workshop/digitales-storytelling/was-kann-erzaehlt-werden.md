@@ -152,8 +152,8 @@ folgt...
 
 
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
+[Zurück](digitales-storytelling/workshop/themenauswahl){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](digitales-storytelling/workshop/werkauswahl/){: .btn .btn-outline}
+[Weiter](digitales-storytelling/workshop/eine-story-entwickeln/){: .btn .btn-outline}
 </span>
