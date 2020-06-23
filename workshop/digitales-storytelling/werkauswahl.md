@@ -18,7 +18,7 @@ Im folgenden wollen wir klären, wie wir das richtige Werk für unsere Story aus
 
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
-folgt...
+- In diesem Kapitel lernen wir, welche Aspekte bei der Werkauswahl eine Rolle spielen und wo wir die Abbildung für unsere Story herbekommen.
 
 ---
 
@@ -29,11 +29,11 @@ Möchten wir eine Story mittels IIIF erstellen, so wie es dieser Online-Workshop
 
 a) Wir hosten unsere Abbildung(en) selbst. Das heißt, wir sind im Besitz einer Bilddatei (z.B. .jpeg) und laden diese für das Erstellen der Story ins Internet (dabei sollten wir, wie schon gesagt, zuvor unbedingt die Rechtslage des Bildes klären). Wie dies funktioniert, sehen wir uns in [Teil 3](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/technische-umsetzung/) dieses Workshops.
 
-b) Wir nutzen die IIIF-APIs (Schnittstellen) von Museen und anderen Institutionen, die diese schon bereitstellen, müssen also keine Abbildungen downloaden. Mit dieser Methoden können wir mit geringen Aufwand Digital Stories mit sehr hochauflösenden Abbildungen erstellen, ohne viel Speicherplatz für große Bilddateien opfern zu müssen. Eine Liste an Datenbanken, in denen wir die IIIF-APIs finden, haben wir weiter unten zusammengestellt. Genauer gehen wir auf diesen Aspekt in [Teil 3](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/technische-umsetzung/) dieses Workshops ein.
-
 ![Getty 1](https://cdn.lesliepzimmermann.de/storytelling/2-2-1_Getty-1.jpg)
 
-Download, falls wir die Abbildung selbst hosten müssen/wollen
+Download, falls wir die Abbildung selbst hosten müssen/wollen.
+
+b) Wir nutzen die IIIF-APIs (Schnittstellen) von Museen und anderen Institutionen, die diese schon bereitstellen, müssen also keine Abbildungen downloaden. Mit dieser Methoden können wir mit geringen Aufwand Digital Stories mit sehr hochauflösenden Abbildungen erstellen, ohne viel Speicherplatz für große Bilddateien opfern zu müssen. Eine Liste an Datenbanken, in denen wir die IIIF-APIs finden, haben wir weiter unten zusammengestellt. Genauer gehen wir auf diesen Aspekt in [Teil 3](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/technische-umsetzung/) dieses Workshops ein.
 
 ![Getty 2](https://cdn.lesliepzimmermann.de/storytelling/2-2-1_Getty-2.jpg)
 

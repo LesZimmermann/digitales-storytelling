@@ -18,7 +18,7 @@ Nachdem wir uns bei der Ideenentwicklung für ein Werk entschieden und uns erste
 
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
- - folgt...
+ - In diesem Kapitel lernen wir, wie wir den kunsthistorischen Inhalt unserer Geschichte in eine Erzählform bringen, die für Leser*innen ansprechend ist und welche Möglichkeiten sich hierzu anbieten.
 
 ---
 
@@ -62,12 +62,15 @@ Beispiel:
 ### Kishōtenketsu
 Diese Beispiele bilden die in westlichen Kulturkreisen gängigen Ordnungen des Erzählens. Andere Kulturkreise kennen weitere Narrationsformen. An dieser Stelle sei beispielsweise auf das aus der japanischen Literatur stammende [Kishōtenketsu](https://de.wikipedia.org/wiki/Kish%C5%8Dtenketsu) verwiesen, einer Erzählform, wie sie in den traditionellen westlichen Kulturkreisen lange nicht bekannt war. Diese japanische Erzählstruktur besteht aus den vier Abschnitten Ki (Einleitung der Geschichte), Shō (Entwicklung der Geschichte), Ten (Wendepunkt der Geschichte, der auf den ersten Blick nichts mit der bisherigen Erzählung zu tun hat) und Ketsu (Schluss, der alle Erzählstränge miteinander verbindet).
 
+<p><a href="https://commons.wikimedia.org/wiki/File:GOTHA-cranach-veljo.jpg#/media/Datei:GOTHA-cranach-veljo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GOTHA-cranach-veljo.jpg/1200px-GOTHA-cranach-veljo.jpg" alt="Lucas Cranach der Ältere: Gesetz und Gnade"></a><br>Von <a href="https://en.wikipedia.org/wiki/de:Lucas_Cranach_der_%C3%84ltere" class="extiw" title="w:de:Lucas Cranach der Ältere">Lucas Cranach der Ältere</a> - Herzogliches Museum Gotha, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=58440155">Link</a></p>
+
 ## Segmentierung
 Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an das Ausformulieren der Geschichte gehen. Unser Text wird innerhalb der Digitalen Story als Annotationen einem ausgewählten Bildausschnitt gegenübergestellt. Dementsprechend ist es hilfreich, wenn beim Verfassen der eigenen Story schon eine Segmentierung, also Gliederung, der einzelnen Sätze erfolgt. Diese Textsegmente, die Annotationen, werden im nächsten Schritt in das Storyboard überführt.
 
 ## Weblinks und Literatur
 ### Weblinks
 - folgt...
+
 ### Literatur
 - Martínez, Matías, und Michael Scheffel. Einführung in die Erzähltheorie. 10. Aufl. C.H. Beck Studium. München: C.H. Beck, 2016.
 - Niegemann, Helmut M., Steffi Domagk, Silvia Hessel, Alexandra Hein, Matthias Hupfer, und Annett Zobel. „Segmentierung und Sequenzierung: Einteilung und Reihenfolge“. In Kompendium multimediales Lernen, 143–52. X.media.press. Berlin Heidelberg: Springer, 2008.

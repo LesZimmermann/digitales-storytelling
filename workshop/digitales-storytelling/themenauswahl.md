@@ -18,7 +18,7 @@ Wir haben unser Werk gefunden und begeben uns nun auf die Suche nach einer passe
 
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
-- folgt...
+- In diesem Kapitel lernen wir, welche Geschichten man zu einem Kunstwerk mit einer Digitalen Story erzählen kann und was es hierfür zu bedenken gilt.
 
 ---
 

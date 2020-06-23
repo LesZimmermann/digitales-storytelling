@@ -16,9 +16,9 @@ Nachdem wir die Story entwickelt und ausformuliert haben, kommt das Storyboard z
 
 ---
 
-## Lernziele
+## Lehrziele
 Was wir in diesem Kapitel lernen:
-- folgt...
+- In diesem Kapitel lernen wir, unsere Geschichte zu segmentieren und in Form eines Storyboards zu überführen, welches seinerseits zur Implementierung in den Editor dient.
 
 ---
 
