@@ -48,7 +48,12 @@ Professor Dr. Jochen Sander über Rembrandts Blendung Simsons:
 - [Die Blendung Simsons in der Digitalen Sammlung des Städel Museums](https://sammlung.staedelmuseum.de/de/werk/die-blendung-simsons)
 
 ### Literatur
-- folgt...
+- Hartmann, Sebastian. „Digital Storytelling: Mit der Kraft des Erzählens Besucher begeistern und binden“. In Kunstvermittlung 2.0: Neue Medien und ihre Potenziale, herausgegeben von Andrea Hausmann und Linda Frenzel, 169–181. Wiesbaden: Springer Fachmedien, 2014. https://doi.org/10.1007/978-3-658-02869-5_11.
+- Hausmann, Andrea, und Linda Frenzel. „Kunstvermittlung 2.0: Konzeptionelle Überlegungen und empirische Ergebnisse“. In Kunstvermittlung 2.0: Neue Medien und ihre Potenziale, herausgegeben von Andrea Hausmann und Linda Frenzel, 1–15. Wiesbaden: Springer Fachmedien, 2014. https://doi.org/10.1007/978-3-658-02869-5_1.
+- Heijnk, Stefan. „Digital Storytelling: Und wie geht’s weiter? Formenevolution im digitalen Erzählraum am Beispiel der Reportage“. In Storytelling: Geschichten in Text, Bild und Film, herausgegeben von Annika Schach, 157–73. Wiesbaden: Springer Fachmedien, 2017. https://doi.org/10.1007/978-3-658-15232-1_10.
+- Kramper, Andrea. Storytelling für Museen: Herausforderungen und Chancen. Kultur- und Museumsmanagement. Bielefeld: transcript, 2017.
+- Lehtimäki, Markku. „The Failure of Art: Problems of Verbal and Visual Representation in Let Us Now Praise Famous Men“. In Intermediality and Storytelling, herausgegeben von Marina Grishakova und Marie-Laure Ryan, 183–207. Berlin/Boston: De Gruyter, Inc., 2010.
+
 
 ---
 

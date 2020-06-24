@@ -75,6 +75,7 @@ Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an da
 ### Literatur
 - Martínez, Matías, und Michael Scheffel. Einführung in die Erzähltheorie. 10. Aufl. C.H. Beck Studium. München: C.H. Beck, 2016.
 - Niegemann, Helmut M., Steffi Domagk, Silvia Hessel, Alexandra Hein, Matthias Hupfer, und Annett Zobel. „Segmentierung und Sequenzierung: Einteilung und Reihenfolge“. In Kompendium multimediales Lernen, 143–52. X.media.press. Berlin Heidelberg: Springer, 2008.
+- Sammer, Petra. „Von Hollywood lernen? Erfolgskonzepte des Corporate Storytelling“. In Storytelling: Geschichten in Text, Bild und Film, herausgegeben von Annika Schach, 13–32. Wiesbaden: Springer Fachmedien, 2017. https://doi.org/10.1007/978-3-658-15232-1_2.
 
 ---
 
