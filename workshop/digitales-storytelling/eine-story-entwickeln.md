@@ -6,7 +6,7 @@ parent: 2. Digitales Storytelling
 ---
 # 2.5 Eine Story entwickeln
 {: .no_toc }
-Nachdem wir uns bei der Ideenentwicklung für ein Werk entschieden und uns erste Gedanken zu unserer Story gemacht haben, geht es nun darum, unsere Geschichte zu gliedern. Dabei sollten wir vor allem an das Publikum denken, an das sich unsere Story richten soll. Möchten wir Kinder, Jugendliche, Erwachsene oder bestimmte Gesellschaftsgruppen ansprechen? Es ist darauf zu achten, dass die Digitale Story sowohl inhaltlich als auch sprachlich unserem Publikum entspricht. Grundsätzlich gilt, Interesse zu wecken und unsere Geschichte so aufzubauen, dass sie für die Leser*innen verständlich und zugleich ansprechend aufbereitet ist. Einer gelungenen Digitalen Story liegt in erster Linie eine gute Erzählung zugrunde und sie ist daher sowohl sprachlich als auch visuell ansprechend.
+Nachdem wir uns bei der Ideenentwicklung für ein Werk entschieden und uns erste Gedanken zu unserer Story gemacht haben, geht es nun darum, unsere Geschichte zu gliedern. Dabei sollten wir vor allem an das Publikum denken, an das sich unsere Story richten soll. Möchten wir Kinder, Jugendliche, Erwachsene oder bestimmte Gesellschaftsgruppen ansprechen? Es ist darauf zu achten, dass die Digitale Story sowohl inhaltlich als auch den Bedürfnissen unseres Publikums entspricht. Grundsätzlich gilt, Interesse zu wecken und unsere Geschichte so aufzubauen, dass sie für die Leser*innen verständlich und zugleich ansprechend aufbereitet ist. Einer gelungenen Digitalen Story liegt in erster Linie eine gute Erzählung zugrunde und sie ist daher sowohl sprachlich als auch visuell ansprechend.
 
 ## Inhalt
 {: .no_toc .text-delta }
@@ -25,7 +25,7 @@ Was wir in diesem Kapitel lernen:
 ## Geschichten erzählen
 Haben wir uns für eine zu erzählende Geschichte entschieden, geht es als nächstes an die Recherche und das Sammeln von Material, welches das Futter für unsere Geschichte bildet. Das Einarbeiten in das jeweilige Werk läuft analog zu der Recherche für jegliche andere wissenschaftliche Publikationsformen. Wichtig ist, dass wir schon bei der Aufarbeitung des Themas den roten Faden, also den thematischen Bezug zu unserer Story, immer berücksichtigen und im Kopf behalten. 
 
-Unsere Story sollte einen Spannungsbogen enthalten, hierfür können wir uns bei den klassischen Narrationsformen (z. B. Lineares Erzählen (ABC), Analepse (BAC), Prolepse (ACB)) bedienen. Die Ordnung, das heißt die Reihenfolge unserer Erzählung, ist dabei variabel. Und wir sollten unbedingt überprüfen, welche Ordnung sich für die Geschichte, die wir erzählen wollen, am besten eignet. Dies hilft uns dabei, unsere Story zu segmentieren und für den darauffolgenden Arbeitsschritt, die Erarbeitung des Storyboards, vorzubereiten. 
+Unsere Story sollte einen Spannungsbogen enthalten, hierfür können wir uns an den klassischen Narrationsformen (z. B. Lineares Erzählen (ABC), Analepse (BAC), Prolepse (ACB)) orientieren. Die Ordnung, das heißt die Reihenfolge unserer Erzählung, ist dabei variabel. Außerdem sollten wir unbedingt überprüfen, welche Ordnung sich für die Geschichte, die wir erzählen wollen, am besten eignet. Dies hilft uns dabei, unsere Story zu segmentieren und für den darauffolgenden Arbeitsschritt, die Erarbeitung des Storyboards, vorzubereiten. 
 
 Beispiel: 
 - Wenn gilt: A = Beschreibung, B = Ikonografie, C = Schlussfolgerung

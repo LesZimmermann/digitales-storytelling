@@ -28,7 +28,7 @@ In unserem Beispiel ist das Storyboard in Text- und Bildsegmente untergliedert. 
 ![Storyboard Lucca Madonna](https://cdn.lesliepzimmermann.de/storytelling/2-6-1_Storyboard_Lucca-Madonna.jpg)
 [Download Beispiel-Storyboard](https://drive.google.com/file/d/1x8anZF8Pt7TUb8DoK5LSUQfUPcIxu0W6/view?usp=sharing){: .btn .btn-purple }
 
-Für die Erstellung des Storyboards können wir mit der Textverarbeitungssoftware Word, mit Google-Docs oder mit PowerPoint arbeiten. In allen Programmen lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt darin, dass wir die Bilder direkt in der Software beschneiden, das heißt den gewünschten Bildausschnitt auswählen und kopieren können. Die Programme eignen sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten und die Bildausschnitte lassen sich dann dem entsprechenden Textausschnitt zuordnen.
+Für die Erstellung des Storyboards können wir mit Word, Google-Docs oder PowerPoint arbeiten. In allen Programmen lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt darin, dass wir die Bilder direkt in der Software beschneiden, das heißt den gewünschten Bildausschnitt auswählen und kopieren können. Die Programme eignen sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten und die Bildausschnitte lassen sich dann dem entsprechenden Textausschnitt zuordnen.
 
 ## Anleitung: Storyboard erstellen mit Microsoft Word
 
@@ -54,7 +54,7 @@ In die rechte Zelle der ersten Zeile fügen wir eine Abbildung unseres Werkes ei
 
 ![Storyboard 4](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-4.jpg)
 
-Nach dem Einfügen des ersten Textes und des ersten Bildes können wir die Segmente unserer Geschichte nach und nach einfügen, und dazu die passenden Bildausschnitte zu wählen. 
+Nach dem Einfügen des ersten Textes und des ersten Bildes können wir die Segmente unserer Geschichte nach und nach einfügen, und dazu die passenden Bildausschnitte wählen. 
 
 ![Storyboard 5](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-5.jpg)
 
@@ -66,13 +66,13 @@ Nach dem Einfügen können wir die Bildvorlage auf den gewünschten Ausschnitt z
 
 ![Storyboard 7](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-7.jpg)
 
-Falls wir weitere Zeilen benötigen, können wir diese mit [Rechtsklick -> "Zeile unterhalb hinzufügen"] einfügen.
+Falls wir weitere Zeilen benötigen, können wir diese mit [Rechtsklick -> "Zeile unterhalb einfügen"] einfügen.
 
 ## Anleitung: Storyboard erstellen mit Microsoft PowerPoint
 
 Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards unter Nutzung von Microsoft PowerPoint. Eine Vorlage für die Erstellung eines Storyboards mit PowerPoint findet sich unter [Vorlagen](#vorlagen).
 
-Storyboard erstellen mit PowerPoint: [VIDEO FOLGT]
+<iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/yKG5mJXDxrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Vorlagen
 Eine Vorlage für die Erstellung eines Storyboards mit Word, Google-Docs oder PowerPoint steht unter den folgenden Links zum Download bereit.

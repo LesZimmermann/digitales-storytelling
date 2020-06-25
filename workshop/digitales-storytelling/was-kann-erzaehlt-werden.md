@@ -24,7 +24,7 @@ Was wir in diesem Kapitel lernen:
 
 ## Fragestellungen
 Ist unser Ziel, bei einem Gemälde die mythologische Geschichte zu erzählen oder die Ikonografie zu entschlüsseln? Lässt sich mit Hilfe einer digitalen Story etwas über den konservatorischen Zustand oder die Restaurierungsgeschichte veranschaulichen? 
-Verbirgt sich hinter dem Gemälde selbst vielleicht einen spannende Geschichte? Wurde es einst Opfer eines Bildersturms oder birgt es durch Darstellungen der Stifter oder Auftraggeber Hinweise auf seine Entstehungsgeschichte und Provenienz? Oder haben wir eine Architekturfotografie ausgewählt und wollen nun in unserer Story über bauliche Besonderheiten berichten? Haben wir eine Druckgrafik ins Auge gefasst, die sich dafür eignet, über Hoch- oder Tiefdruckverfahren zu erzählen oder vielleicht ein reich mit Edelsteinen versehenes Schmuckstück, das etwas über Gold- und Silberschmiedearbeiten oder verschiedene Edelsteinschliffe aussagen kann?
+Verbirgt sich hinter dem Gemälde selbst vielleicht eine spannende Geschichte? Wurde es einst Opfer eines Bildersturms oder birgt es durch Darstellungen der Stifter oder Auftraggeber Hinweise auf seine Entstehungsgeschichte und Provenienz? Oder haben wir eine Architekturfotografie ausgewählt und wollen nun in unserer Story über bauliche Besonderheiten berichten? Haben wir eine Druckgrafik ins Auge gefasst, die sich dafür eignet, über Hoch- oder Tiefdruckverfahren zu erzählen oder vielleicht ein reich mit Edelsteinen versehenes Schmuckstück, das etwas über Gold- und Silberschmiedearbeiten oder verschiedene Edelsteinschliffe aussagen kann?
 
 Es sind viele Fragestellungen denkbar, aber alle möglichen Digitalen Stories sollten neben der fachlichen Wissensvermittlung auch visuell überzeugend und optisch ansprechend sein. Erkunden wir also unser Werk, sehen wir uns die Details an und überlegen, welche Geschichte es am meisten lohnt, erzählt zu werden.
 
@@ -142,6 +142,9 @@ folgt...
 
 ## Beispiel Skulptur
 folgt...
+
+## Fazit
+Die an dieser Stelle vorgestellten Beispiele für Stories, die man digital erzählen könnte, sind beliebig gewählt und decken nicht alle Möglichkeiten ab, die denkbar wären. Viele weitere Fragestellungen sind denkbar, wir sollten allerdings stets prüfen, ob sie sich auch eignen das Interesse des Publikums zu wecken.
 
 ## Weblinks und Literatur
 ### Weblinks
