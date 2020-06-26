@@ -6,7 +6,7 @@ parent: 2. Digitales Storytelling
 ---
 # 2.5 Eine Story entwickeln
 {: .no_toc }
-Nachdem wir uns bei der Ideenentwicklung für ein Werk entschieden und uns erste Gedanken zu unserer Story gemacht haben, geht es nun darum, unsere Geschichte zu gliedern. Dabei sollten wir vor allem an das Publikum denken, an das sich unsere Story richten soll. Möchten wir Kinder, Jugendliche, Erwachsene oder bestimmte Gesellschaftsgruppen ansprechen? Es ist darauf zu achten, dass die Digitale Story sowohl inhaltlich als auch den Bedürfnissen unseres Publikums entspricht. Grundsätzlich gilt, Interesse zu wecken und unsere Geschichte so aufzubauen, dass sie für die Leser*innen verständlich und zugleich ansprechend aufbereitet ist. Einer gelungenen Digitalen Story liegt in erster Linie eine gute Erzählung zugrunde und sie ist daher sowohl sprachlich als auch visuell ansprechend.
+Nachdem wir uns bei der Ideenentwicklung für ein Werk entschieden und uns erste Gedanken zu unserer Story gemacht haben, geht es nun darum, unsere Geschichte zu gliedern. Dabei sollten wir vor allem an das Publikum denken, an das sich unsere Story richten soll. Möchten wir Kinder, Jugendliche, Erwachsene oder bestimmte Gesellschaftsgruppen ansprechen? Es ist darauf zu achten, dass die Digitale Story sowohl inhaltlich als auch den Bedürfnissen unseres Publikums entspricht. Grundsätzlich gilt, Interesse zu wecken und unsere Geschichte so aufzubauen, dass sie für die Lesenden verständlich und zugleich ansprechend aufbereitet ist. Einer gelungenen Digitalen Story liegt in erster Linie eine ansprechende Erzählung zugrunde und sie ist daher sowohl sprachlich als auch visuell ansprechend.
 
 ## Inhalt
 {: .no_toc .text-delta }
@@ -18,12 +18,12 @@ Nachdem wir uns bei der Ideenentwicklung für ein Werk entschieden und uns erste
 
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
- - In diesem Kapitel lernen wir, wie wir den kunsthistorischen Inhalt unserer Geschichte in eine Erzählform bringen, die für Leser*innen ansprechend ist und welche Möglichkeiten sich hierzu anbieten.
+ - In diesem Kapitel lernen wir, wie wir den kunsthistorischen Inhalt unserer Geschichte in eine Erzählform bringen, die für die Lesenden ansprechend ist und welche Möglichkeiten sich hierzu anbieten.
 
 ---
 
 ## Geschichten erzählen
-Haben wir uns für eine zu erzählende Geschichte entschieden, geht es als nächstes an die Recherche und das Sammeln von Material, welches das Futter für unsere Geschichte bildet. Das Einarbeiten in das jeweilige Werk läuft analog zu der Recherche für jegliche andere wissenschaftliche Publikationsformen. Wichtig ist, dass wir schon bei der Aufarbeitung des Themas den roten Faden, also den thematischen Bezug zu unserer Story, immer berücksichtigen und im Kopf behalten. 
+Haben wir uns für eine zu erzählende Geschichte entschieden, geht es als nächstes an die Recherche und das Sammeln von Material, welches die Grundlage für unsere Geschichte bildet. Das Einarbeiten in das jeweilige Werk läuft analog zu der Recherche für jegliche andere wissenschaftliche Publikationsformen. Wichtig ist, dass wir schon bei der Aufarbeitung des Themas den roten Faden, also den thematischen Bezug zu unserer Story, immer berücksichtigen und im Kopf behalten. 
 
 Unsere Story sollte einen Spannungsbogen enthalten, hierfür können wir uns an den klassischen Narrationsformen (z. B. Lineares Erzählen (ABC), Analepse (BAC), Prolepse (ACB)) orientieren. Die Ordnung, das heißt die Reihenfolge unserer Erzählung, ist dabei variabel. Außerdem sollten wir unbedingt überprüfen, welche Ordnung sich für die Geschichte, die wir erzählen wollen, am besten eignet. Dies hilft uns dabei, unsere Story zu segmentieren und für den darauffolgenden Arbeitsschritt, die Erarbeitung des Storyboards, vorzubereiten. 
 
@@ -66,7 +66,7 @@ Diese Beispiele bilden die in westlichen Kulturkreisen gängigen Ordnungen des E
 <p style="font-size: 0.8em; margin-top:-15px;">Lucas Cranach der Ältere, Gesetz und Gnade, 1529, Tempera auf Lindenholz,  82,2 x 118 cm, Herzogliches Museum Gotha, <a href="https://commons.wikimedia.org/w/index.php?curid=58440155">Link</a></p>
 
 ## Segmentierung
-Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an das Ausformulieren der Geschichte gehen. Unser Text wird innerhalb der Digitalen Story als Annotationen einem ausgewählten Bildausschnitt gegenübergestellt. Dementsprechend ist es hilfreich, wenn beim Verfassen der eigenen Story schon eine Segmentierung, also Gliederung, der einzelnen Sätze erfolgt. Diese Textsegmente, die Annotationen, werden im nächsten Schritt in das Storyboard überführt.
+Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an das Ausformulieren der Geschichte gehen. Unser Text wird innerhalb der Digitalen Story in Segmente gegliedert und  ausgewählten Bildausschnitten gegenübergestellt. Dementsprechend ist es hilfreich, wenn beim Verfassen der eigenen Story schon eine Segmentierung der einzelnen Sätze erfolgt. Diese Textsegmente werden im nächsten Schritt in das Storyboard überführt und dem entsprechenden Bildausschnitt als Annotation gegenübergestellt.
 
 ## Weblinks und Literatur
 ### Weblinks

@@ -18,30 +18,30 @@ Im Folgenden wollen wir klären, wie wir das richtige Werk für unsere Story aus
 
 ## Lehrziele
 Was wir in diesem Kapitel lernen:
-- In diesem Kapitel lernen wir, welche Aspekte bei der Werkauswahl eine Rolle spielen und wo wir die Abbildung für unsere Story herbekommen.
+- In diesem Kapitel lernen wir, welche Aspekte bei der Werkauswahl eine Rolle spielen und wo wir die Abbildung für unsere Story finden.
 
 ---
 
 ## Technische Aspekte der Werkauswahl
-Ein wichtiger Aspekt, den wir bei der Erstellung einer digitalen Story unbedingt beachten sollten, ist die Rechtslage der digitalen Bilder, die wir im WWW vorfinden. Dabei ist es nötig herauszufinden, ob und in welcher Form der Einsatz einer vorliegenden Abbildungen gestattet ist. Auch ist es für unser Vorhaben wichtig, ob das Herunterladen der Bilder möglich ist oder ob sie sogar über IIIF (dazu kommen wir in Teil 3) abgerufen werden können, was die Möglichkeiten der Verwendung nochmal erheblich vergrößert. Diese Informationen finden wir meist auf der Website beziehungsweise den digitalen Sammlungen der Museen. Um in den vollen Genuss der Digitalen Story zu kommen, ist es auch nötig, dass wir möglichst eine Abbildung in hohe Auflösung haben. Viele Online-Sammlungen der Museen bieten hochauflösende Abbildungen zum Download an. 
+Ein wichtiger Aspekt, den wir bei der Erstellung einer digitalen Story beachten sollten, ist die Rechtslage der digitalen Bilder, die wir im WWW vorfinden. Dabei ist es nötig herauszufinden, ob und in welcher Form der Einsatz einer vorliegenden Abbildungen gestattet ist. Auch ist es für unser Vorhaben wichtig, ob das Herunterladen der Bilder möglich ist oder ob sie sogar über IIIF (dazu kommen wir in Teil 3) abgerufen werden können, was die Möglichkeiten der Verwendung nochmal erheblich vergrößert. Diese Informationen finden wir meist auf der Website beziehungsweise innerhalb der digitalen Sammlungen der Museen. Um in den vollen Genuss der Digitalen Story zu kommen, ist es auch nötig, dass wir möglichst eine Abbildung in hoher Auflösung haben. Viele Online-Sammlungen der Museen bieten hochauflösende Abbildungen zum Download an. 
 
 Möchten wir eine Story mittels IIIF erstellen, so wie es dieser Online-Workshop vorschlägt, stehen uns zwei Optionen zur Verfügung:
 
-a) Wir hosten unsere Abbildung(en) selbst. Das heißt, wir sind im Besitz einer Bilddatei (z.B. .jpeg) und laden diese für das Erstellen der Story ins Internet (dabei sollten wir, wie schon gesagt, zuvor unbedingt die Rechtslage des Bildes klären). Wie dies funktioniert, sehen wir uns in [Teil 3](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/technische-umsetzung/) dieses Workshops.
+a) Wir hosten unsere Abbildung(en) selbst. Das heißt, wir sind im Besitz einer Bilddatei (z.B. .jpeg) und laden diese für das Erstellen der Story ins Internet (dabei sollten wir noch einmal sicherstellen, dass die Rechtslage des Bildes geklärt ist). Wie dies funktioniert, sehen wir uns in [Teil 3](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/technische-umsetzung/) dieses Workshops an.
 
 ![Getty 1](https://cdn.lesliepzimmermann.de/storytelling/2-2-1_Getty-1.jpg)
 
 Download, falls wir die Abbildung selbst hosten müssen/wollen.
 
-b) Wir nutzen die IIIF-APIs (Schnittstellen) von Museen und anderen Institutionen, die diese bereitstellen, müssen also keine Abbildungen downloaden. Mit dieser Methode können wir mit geringem Aufwand Digital Stories mit sehr hochauflösenden Abbildungen erstellen, ohne viel Speicherplatz für große Bilddateien opfern zu müssen. Eine Liste an Datenbanken, in denen wir die IIIF-APIs finden, haben wir weiter unten zusammengestellt. Genauer gehen wir auf diesen Aspekt in [Teil 3](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/technische-umsetzung/) dieses Workshops ein.
+b) Wir nutzen die IIIF-APIs (Schnittstellen) von Museen und anderen Institutionen, die diese bereitstellen, müssen also keine Abbildungen downloaden. Mit dieser Methode können wir mit geringem Aufwand Digital Stories mit sehr hochauflösenden Abbildungen erstellen, ohne viel Speicherplatz für große Bilddateien bereitstellen zu müssen. Eine Liste an Datenbanken, in denen wir die IIIF-APIs finden, haben wir weiter unten zusammengestellt. Genauer gehen wir auf diesen Aspekt in [Teil 3](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/technische-umsetzung/) dieses Workshops ein.
 
 ![Getty 2](https://cdn.lesliepzimmermann.de/storytelling/2-2-1_Getty-2.jpg)
 
-Existiert bereits eine IIIF API, so sehen wir das am Logo, auf das wir klicken können, um zur API zu gelangen.
+Existiert bereits eine IIIF API, so sehen wir das am Logo, auf das wir klicken können, um zu dieser zu gelangen.
 
 ## Hilfreiche Links und Ressourcen 
 ### Online-Sammlungen mit IIIF (Auswahl)
-Diese folgenden Sammlungen bieten die Nutzun und den Download von Werken sowie die Möglichkeit, die Werke über die IIIF Schnittstelle zu nutzen:
+Diese folgenden Sammlungen bieten die Nutzun und den Download von Werken sowie die Möglichkeit, die Werke über die IIIF API zu nutzen:
 
 - [Bayerischen Staatsbibliothek](https://app.digitale-sammlungen.de/bookshelf/)
 - [Belvedere](https://sammlung.belvedere.at/)
@@ -53,9 +53,9 @@ Diese folgenden Sammlungen bieten die Nutzun und den Download von Werken sowie d
 - [Staatsbibliothek Berlin](https://digital.staatsbibliothek-berlin.de/)
 - [Yale Center for British Art](https://britishart.yale.edu/collections/highlights)
 
-Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihre Sammlung über die IIIF-Schnittstelle anbieten:
+Die folgende Karte bietet einen guten Überblick über Institutionen an, die ihre Sammlung über die IIIF APIs anbieten:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp" width="auto" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp" width="auto" height="360"></iframe>
 
 ### Online Sammlungen mit Creative-Commons, ohne IIIF (Auswahl)
 Diese folgenden Sammlungen bieten die Nutzund und den Download von Werken an:

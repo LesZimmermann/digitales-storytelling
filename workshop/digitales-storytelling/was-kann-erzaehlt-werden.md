@@ -6,7 +6,7 @@ parent: 2. Digitales Storytelling
 ---
 # 2.4 Was kann erzählt werden?
 {: .no_toc }
-Die meisten Kunstwerke eignen sich dazu, gleich mehrere Geschichten zu erzählen. Unterschiedliche Kunstgattungen bieten dabei unterschiedliche Herangehensweisen. Die Möglichkeiten sind schier unendlich. In diesem Kapitel möchten wir einige Beispiele vorstellen, wie wir an unterschiedliche Werke und Kunstgattungen herantreten können.
+Die meisten Kunstwerke eignen sich dazu, gleich mehrere Geschichten zu erzählen. Verschiedene Kunstgattungen bieten dabei unterschiedliche Herangehensweisen. Die Möglichkeiten sind schier unendlich. In diesem Kapitel möchten wir einige Beispiele vorstellen, wie wir an Werke und Kunstgattungen herantreten können.
 
 ## Inhalt
 {: .no_toc .text-delta }
@@ -23,7 +23,7 @@ Was wir in diesem Kapitel lernen:
 ---
 
 ## Fragestellungen
-Ist unser Ziel, bei einem Gemälde die mythologische Geschichte zu erzählen oder die Ikonografie zu entschlüsseln? Lässt sich mit Hilfe einer digitalen Story etwas über den konservatorischen Zustand oder die Restaurierungsgeschichte veranschaulichen? 
+Ist es unser Ziel, bei einem Gemälde die mythologische Geschichte zu erzählen oder die Ikonografie zu entschlüsseln? Lässt sich mit Hilfe einer digitalen Story etwas über den konservatorischen Zustand oder die Restaurierungsgeschichte veranschaulichen? 
 Verbirgt sich hinter dem Gemälde selbst vielleicht eine spannende Geschichte? Wurde es einst Opfer eines Bildersturms oder birgt es durch Darstellungen der Stifter oder Auftraggeber Hinweise auf seine Entstehungsgeschichte und Provenienz? Oder haben wir eine Architekturfotografie ausgewählt und wollen nun in unserer Story über bauliche Besonderheiten berichten? Haben wir eine Druckgrafik ins Auge gefasst, die sich dafür eignet, über Hoch- oder Tiefdruckverfahren zu erzählen oder vielleicht ein reich mit Edelsteinen versehenes Schmuckstück, das etwas über Gold- und Silberschmiedearbeiten oder verschiedene Edelsteinschliffe aussagen kann?
 
 Es sind viele Fragestellungen denkbar, aber alle möglichen Digitalen Stories sollten neben der fachlichen Wissensvermittlung auch visuell überzeugend und optisch ansprechend sein. Erkunden wir also unser Werk, sehen wir uns die Details an und überlegen, welche Geschichte es am meisten lohnt, erzählt zu werden.
@@ -69,7 +69,7 @@ Wir beschäftigen uns im Rahmen eines Seminars oder einer Ausstellung mit Kostü
 
 ![Faber 6](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-6.jpg)
 
-Ebenso wie für eine Darstellung der Kostümgeschichte eignen sich vergleichbare Gemälde auch, um über Schmuckgeschichte zu erzählen, da der Schmuck, ebenso wie die Kleidung selbst, nur selten die Jahrhunderte überdauert hat. Was ist typisch für den Renaissance-Schmuck? Welche Materialien scheinen beliebt gewesen zu sein?
+Ebenso wie für eine Darstellung der Kostümgeschichte eignen sich vergleichbare Gemälde, um über Schmuckgeschichte zu erzählen. Denn der Schmuck hat, ebenso wie die Kleidung selbst, nur selten die Jahrhunderte überdauert. Was ist typisch für den Renaissance-Schmuck? Welche Materialien scheinen beliebt gewesen zu sein?
 
 
 ## Beispiel Schmuckstück: Diamant-Diadem 
@@ -103,7 +103,7 @@ Eine Besonderheit von Schmuckstücken ist, dass sie häufig auf verschiedene Wei
 
 ![Diadem 4](https://cdn.lesliepzimmermann.de/storytelling/2-4-2_Diadem-4.jpg)
 
-Wollen wir in unserer Story über verschiedene Techniken der Gold- und Silberschmiedekunst berichten? Das Diadem vereint mehrere solcher Techniken, wie das sogenannte ‘en tremblant’, bei dem einzelne Elemente des Schmuckstücks an spiralförmigen Federn befestigt werden. Doch wozu eignen sich diese speziellen Befestigungen? Haben sie eine Auswirkung auf das Aussehen und die Funktion des Schmuckstück oder dienen sie lediglich der Konstruktion?
+Wollen wir in unserer Story über verschiedene Techniken der Gold- und Silberschmiedekunst berichten? Das Diadem vereint mehrere solcher Techniken, wie das sogenannte _en tremblant_ , bei dem einzelne Elemente des Schmuckstücks an spiralförmigen Federn befestigt werden. Doch wozu eignen sich diese speziellen Befestigungen? Haben sie eine Auswirkung auf das Aussehen und die Funktion des Schmuckstück oder dienen sie lediglich der Konstruktion?
 
 ## Beispiel Druckgrafik: Schabkunst-Porträt
 
@@ -156,7 +156,7 @@ Die an dieser Stelle vorgestellten Beispiele für Stories, die man digital erzä
 
 ---
 
-Im nächsten Kapitel beschäftigen wir uns mit den Entwicklung einer Story:
+Das nächste Kapitel dreht sich um die Entwicklung der Story:
 
 <span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/themenauswahl/){: .btn .btn-outline .mr-2 } 

@@ -6,7 +6,7 @@ parent: 2. Digitales Storytelling
 ---
 # 2.3 Themenauswahl
 {: .no_toc }
-Wir haben unser Werk gefunden und begeben uns nun auf die Suche nach einer passenden Story. Nach einem ersten Einlesen und der Auseinandersetzung mit dem ausgewählten Werk sollten wir nun überlegen, welche Geschichten wir anhand des Werkes erzählen können. Die Möglichkeiten hierfür sind vielfältig, wir sollten aber nicht zu viele verschiedene Aspekte in eine einzelne Geschichte packen. Andernfalls laufen wir Gefahr, dass unsere Story zu lang und die Narration durch zu viele Wechsel innerhalb der Erzählung schwer nachvollziehbar wird. Sich bei dem Erstellen einer Geschichte auf eine konkrete Fragestellung zu beziehen, wird uns helfen, den roten Faden nicht aus den Augen zu verlieren und thematisch nicht abzuschweifen. 
+Wir haben unser Werk gefunden und begeben uns nun auf die Suche nach einer passenden Story. Nach einem ersten Einlesen und der Auseinandersetzung mit dem ausgewählten Werk sollten wir uns überlegen, welche Geschichten wir hiervon ausgehend erzählen können. Die Möglichkeiten hierfür sind vielfältig, wir sollten aber nicht zu viele verschiedene Aspekte in eine einzelne Geschichte packen. Andernfalls laufen wir Gefahr, dass unsere Story zu lang und die Narration durch zu viele Wechsel innerhalb der Erzählung schwer nachvollziehbar wird. Sich bei dem Erstellen einer Geschichte auf eine konkrete Fragestellung zu beziehen, wird uns helfen, den roten Faden nicht aus den Augen zu verlieren und thematisch nicht abzuschweifen.
 
 ## Inhalt
 {: .no_toc .text-delta }
@@ -23,7 +23,7 @@ Was wir in diesem Kapitel lernen:
 ---
 
 ## Welche Geschichten können anhand des Werkes erzählt werden?
-Die Digitale Story sollte unser Publikum weder unter- noch überfordern. An wen soll sich unsere Story richten? Wir müssen die Story also sprachlich unserem Publikum anpassen. Auch sollten wir uns in der Story stets kurz fassen. Als Faustformel gilt: So kurz wie möglich, aber so ausführlich wie nötig. Die Digitale Story soll den Blick der Betrachter*innen auf das Kunstwerk lenken, sie durch das Werk führen (guided tour). Wir sollten dem gewählten Bildausschnitt also nicht zu viel Text gegenüberstellen, der vom Betrachten und Entdecken des Kunstwerkes ablenkt. 
+Die Digitale Story sollte unser Publikum weder unter- noch überfordern. An wen soll sich unsere Story richten? Wir müssen die Story also sprachlich unserem Publikum anpassen. Auch sollten wir uns in der Story stets kurz fassen. Als Faustformel gilt: So kurz wie möglich, aber so ausführlich wie nötig. Die Digitale Story soll den Blick der Betrachter*innen auf das Kunstwerk lenken und sie durch dieses hindurchführen (guided tour). Wir sollten dem gewählten Bildausschnitt also nicht zu viel Text gegenüberstellen, der vom Betrachten und Entdecken des Kunstwerkes ablenkt. 
 
 ![Rembrandt](https://cdn.lesliepzimmermann.de/storytelling/2-3-1_Rembrandt.jpg) 
 <p style="font-size: 0.8em; margin-top:-15px;">Rembrandt Hermensz. van Rijn, Die Blendung Simsons, 1636, Öl auf Leinwand, 206,0 x 276,0 cm, Frankfurt a. M., Städel Museum, Inv. 1383</p>
@@ -32,10 +32,10 @@ Die Digitale Story sollte unser Publikum weder unter- noch überfordern. An wen 
 Je nach Gattung des Kunstwerkes eröffnen sich vielfältige Möglichkeiten, eine Geschichte zu erzählen. An ein Gemälde kann man andere Fragen stellen als an eine Druckgrafik oder einen Film-Still. Was halten wir bei dem von uns ausgewählten Werk für besonders erzählenswert?
 
 ### Inhaltliche Fragestellungen
-Inhaltliche Fragen können beispielsweise zur Ikonografie, zur Handlung der Figuren in einem Historien- oder eines Genrebildes, zu Inschriften oder zur Komposition gestellt werden. Wer ist auf einem Kunstwerk dargestellt oder welche Handlung wird wiedergegeben?
+Inhaltliche Fragen können beispielsweise zur Ikonografie, zur Handlung der Figuren in einem Historien- oder Genrebild, zu Inschriften oder zur Komposition gestellt werden. Wer ist auf einem Kunstwerk dargestellt oder welche Handlung wird wiedergegeben?
 
 ### Fragen zur Bildgenese
-Auch die Bildgenese und der konservatorische Zustand bzw. die Restaurierungsgeschichte eines Werkes können interessant sein. Sind beispielsweise mit bloßen Augen die malerische Ausführung der Komposition vorbereitende “Unterzeichnungen”, vom Künstler selbst ausgeführte Farbkorrekturen (sogenannte Pentimenti) oder Retuschen von anderer, späterer Hand zu erkennen? Lohnt es sich über den Erhaltungszustand zu sprechen? Wurde das Kunstwerk vielleicht einmal Opfer des Angriffs eines Bilderstürmers? Ist das Werk in seiner ursprünglichen Form oder vielleicht nur als Fragment erhalten geblieben?
+Auch die Bildgenese und der konservatorische Zustand beziehungsweise die Restaurierungsgeschichte eines Werkes können interessant sein. Sind beispielsweise Unterzeichnungen, vom Künstler selbst vorgenommene Farbkorrekturen (Pentimenti) oder Retuschen von anderer, späterer Hand erkennbar? ? Lohnt es sich über den Erhaltungszustand zu sprechen? Wurde das Kunstwerk vielleicht einmal Opfer eines Bildersturmes? Ist das Werk in seiner ursprünglichen Form oder vielleicht nur als Fragment erhalten geblieben?
 
 ### Materialität & Technik
 Da die Oberflächenbeschaffenheit je nach Material sehr verschieden ist, kann man sich auch in einer Story näher mit der Materialität auseinandersetzen. Vielleicht lässt sich an dem ausgewählten Werk in Kombination zur Materialität auch über die Technik sprechen, in der es ausgeführt wurde.
@@ -57,7 +57,7 @@ Professor Dr. Jochen Sander über Rembrandts Blendung Simsons:
 
 ---
 
-Im nächste Kapitel entwickeln wir Fragestellungen an Kunstwerke:
+Im nächsten Kapitel entwickeln wir Fragestellungen an Kunstwerke:
 
 <span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/werkauswahl/){: .btn .btn-outline .mr-2 } 
