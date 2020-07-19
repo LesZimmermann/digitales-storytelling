@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beispiel 1 – Suche nach IIIF
-nav_order: 5
+nav_order: 4
 parent: 3. Technische Umsetzung
 ---
 # Beispiel 1 – Suche nach IIIF

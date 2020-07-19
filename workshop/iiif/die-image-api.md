@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3.4 Die Image API
-nav_order: 4
+nav_order: 3
 parent: 3. Technische Umsetzung
 ---
 # 3.4 Die Image API

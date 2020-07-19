@@ -77,7 +77,7 @@ Im folgenden Video finden wir eine Anleitung zur Umsetzung des Storyboards unter
 ## Vorlagen
 Eine Vorlage für die Erstellung eines Storyboards mit Word, Google-Docs oder PowerPoint steht unter den folgenden Links zum Download bereit.
 - [Vorlage Word](https://drive.google.com/file/d/1qFecSXfW-z-EvZvAx5VwK3pLSESUKGpp/view?usp=sharing)
-- [Vorlage Google-Docs](https://docs.google.com/document/d/1umfnQj3aER1UXQPRnQ6ieBG5zcmKrzs5x3LF8zOr4cc/edit?usp=sharing)
+- [Vorlage Google-Docs](https://docs.google.com/document/d/1Yj8zNj_DEsdVjf6o6XY7OAvZjVy4gw3v--N8NCjue6A/edit?usp=sharing)
 - [Vorlage PowerPoint](https://drive.google.com/file/d/1ihaszEjcPjkzHswZ2L9kIlfCyoYF7nCR/view?usp=sharing)
 
 ## Weblinks und Literatur
