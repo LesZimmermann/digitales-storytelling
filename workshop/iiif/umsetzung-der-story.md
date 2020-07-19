@@ -106,6 +106,7 @@ Per drag and drop kann die Reihenfolge der Annotationen, falls gewünscht, immer
 
 ![Storiiies 15](https://cdn.lesliepzimmermann.de/storytelling/3-4/15_Diadem_Storiiies.jpg)
 
+## Vorschau und teilen
 Über die Schaltfläche “Links” gelangen wir zu den zwei Links, die uns per Mail nach dem Ausfüllen der Titelseite gesendet worden sind. Der obere der beiden Links ist jener, der mit allen geteilt werden kann, die die fertige Story zu sehen bekommen sollen.
 Mit dem unteren Link gelangt man jederzeit in den Editor, um etwas in der Story zu verbessern oder ändern. Wie schon gesagt: Dieser Link ist nur für uns selbst gedacht und sollte nicht mit anderen geteilt werden.
 Zusätzlich findet sich unter den beiden Links noch ein Code, der zum Einbetten der Digitalen Story auf eine (eigene) Website gedacht ist.
