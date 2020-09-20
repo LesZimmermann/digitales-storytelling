@@ -14,25 +14,19 @@ In diesem Teil des Workshops lernen wir, welche vorbereitenden Schritte nötig s
 
 Digitales Storytelling ist nichts Neues, wie ein Blick auf Gemälde und Druckgrafiken der Reformationszeit zeigen kann. So nutzte etwa Lucas Cranach d. Ä. diese Möglichkeit, durch die Kombination von Wort und Bild seine Geschichte zu erzählen: Er unterstützte hiermit die aus Sicht seiner reformatorischen Auftraggeber “richtige” Lesart des Gemäldes - im Grunde eine frühe Form von Kunstvermittlung. Dies geschah zu einer Zeit, als die Bibel durch Cranachs engen Freund Martin Luther das erste Mal ins Deutsche übersetzt und damit erstmals nach dem Verständnis der Reformatoren neu gedeutet wurde.
 
-Die Gegenüberstellung von Bild und Text findet sich häufig auch in Flugblättern der Frühen Neuzeit. Zwar dienten die meisten dieser Spottblätter zu konfessionellen Propagandazwecken und weniger der Kunst, aber sie erzählten ebenfalls mittels Bild und Schrift ihre besondere Geschichte. 
+Die Gegenüberstellung von Bild und Text findet sich häufig auch in Flugblättern der Frühen Neuzeit. Zwar dienten die meisten dieser Spottblätter zu konfessionellen Propagandazwecken und weniger der Kunst, aber sie erzählten ebenfalls mittels Bild und Schrift ihre besondere Geschichte.
 
-ABB
-
-Dieses anonym veröffentlichte Flugblatt [Der Herr und Knecht](https://www.rijksmuseum.nl/nl/mijn/verzamelingen/180713--arjan/ezels/objecten#/RP-P-OB-78.845,7) stellt aus polemisch-protestantischer Perspektive die Lehren Jesu’ den Auslegungen des Papstes und der katholischen Kirche entgegen, getreu dem Sprichwort Wasser predigen und Wein trinken.
+![Der Herr und Knecht](https://cdn.lesliepzimmermann.de/storytelling/RP-P-OB-78.845.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;">Dieses anonym veröffentlichte Flugblatt <a href="https://www.rijksmuseum.nl/nl/mijn/verzamelingen/180713--arjan/ezels/objecten#/RP-P-OB-78.845,7">Der Herr und Knecht</a> stellt aus polemisch-protestantischer Perspektive die Lehren Jesu’ den Auslegungen des Papstes und der katholischen Kirche entgegen, getreu dem Sprichwort Wasser predigen und Wein trinken.</p>
 
 ### Literatur
-
-Harms, Wolfgang und Michael Schilling: Das illustrierte Flugblatt der frühen Neuzeit. Tradition - Wirkung - Kontexte, Stuttgart 2008
+- Harms, Wolfgang und Michael Schilling: Das illustrierte Flugblatt der frühen Neuzeit. Tradition - Wirkung - Kontexte, Stuttgart 2008
 Heesen, Kerstin te: Das illustrierte Flugblatt als Wissensmedium der Frühen Neuzeit, Opladen 2011
- 
-Ein Themen-Digitorial des Städel Museums: Kunst im Zeichen der Reformation
-https://reformation.staedelmuseum.de/de/kapitel-1
+ - Ein Themen-Digitorial des Städel Museums: [Kunst im Zeichen der Reformation](https://reformation.staedelmuseum.de/de/kapitel-1)
 
 ---
 
-
 Im nächsten Kapitel sehen wir uns an, wie der richtige Einstieg in das Digitale Storytelling gelingt:
-{: .fs-5 }
 
 <span class="fs-8">
 [Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/einfuehrung/){: .btn .btn-outline .mr-2 } 
