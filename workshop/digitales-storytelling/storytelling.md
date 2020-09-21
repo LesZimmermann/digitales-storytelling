@@ -55,7 +55,7 @@ Verbirgt sich hinter dem Gemälde selbst vielleicht eine spannende Geschichte? W
 Es sind viele Fragestellungen denkbar, aber alle möglichen Digitalen Stories sollten neben 
 der fachlichen Wissensvermittlung auch visuell überzeugend und optisch ansprechend sein. Erkunden wir also unser Werk, sehen wir uns die Details an und überlegen, welche Geschichte sich lohnt, erzählt zu werden.
 
-#### 1. Beispiel Malerei: Conrad Faber von Kreuznach, Doppelbildnis des Justinian von Holzhausen und seiner Frau Anna von Fürstenberg, 1536, Frankfurt, Städel Museum
+### 1. Beispiel Malerei
 
 ![Faber 1](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-1.jpg)
 
@@ -99,7 +99,7 @@ Wir beschäftigen uns im Rahmen eines Seminars oder einer Ausstellung mit Kostü
 
 Ebenso wie für eine Darstellung der Kostümgeschichte eignen sich vergleichbare Gemälde, um über Schmuckgeschichte zu erzählen. Denn der Schmuck hat, ebenso wie die Kleidung selbst, nur selten die Jahrhunderte überdauert. Was ist typisch für den Renaissance-Schmuck? Welche Materialien scheinen beliebt gewesen zu sein?
 
-#### 2. Beispiel Schmuckstück: Diamant-Diadem
+### 2. Beispiel Schmuckstück
 
 ![Diadem 1](https://cdn.lesliepzimmermann.de/storytelling/2-4-2_Diadem-1.jpg)
 
@@ -132,7 +132,7 @@ Eine Besonderheit von Schmuckstücken ist, dass sie häufig auf verschiedene Wei
 
 Wollen wir in unserer Story über verschiedene Techniken der Gold- und Silberschmiedekunst berichten? Das Diadem vereint mehrere solcher Techniken, wie das sogenannte en tremblant, bei dem einzelne Elemente des Schmuckstücks an spiralförmigen Federn befestigt werden. Doch wozu eignen sich diese speziellen Befestigungen? Haben sie eine Auswirkung auf das Aussehen und die Funktion des Schmuckstücks oder dienen sie lediglich der Konstruktion?
 
-#### 3. Beispiel Druckgrafik: Schabkunst-Porträt
+### 3. Beispiel Druckgrafik
 
 ![Holzhausen 1](https://cdn.lesliepzimmermann.de/storytelling/2-4-3_Holzhausen-1.jpg)
 
@@ -163,7 +163,7 @@ Möchten wir eine Digitale Story zum Thema Drucktechniken erstellen? Um welche D
 
 Möchten wir über den Dargestellten selbst sprechen? Wie lassen sich Porträtierte in Druckgrafiken identifizieren? Wie ist das Blatt gestaltet? Porträtdruckgrafiken weisen häufig Text auf. Diese geben Aufschluss über die Dargestellten, ihr Alter, ihre Herkunft und weitere biografische Einzelheiten. Doch schauen die Betrachter*innen auch auf das Kleingedruckte? Häufig finden sich Informationen zu Entwerfer*in, zu Stecher*in und/oder Verleger*in. Man kann beim Digital Storytelling also auf Details verweisen, die beim oberflächlichen Betrachten schnell übersehen werden. In welcher Sprache ist die Inschrift verfasst? Eine Digitale Story eignet sich auch dazu, bestimmte Passagen durch Annotationen zu transkribieren und/oder zu übersetzen.
 
-#### 4. Beispiel Architektur: Architekturfotografie
+### 4. Beispiel Architektur
 
 ABB
 
@@ -185,7 +185,7 @@ ABB
 
 In unserer Story soll es um gotische Architektur gehen? Neben den Bauelementen der Kirchenportale, wie dem Tympanon, dem Gewände, den Archivolten oder dem Wimperg, ließen sich an dieser Fotografie auch die für die Gotik so charakteristischen Krabben, Kreuzblumen und Fialen beschreiben. Oder möchten wir eine Story zur Baugeschichte des Kölner Doms erzählen? Welche Fassade eignet sich für welchen Abschnitt der jahrhundertelangen Baugeschichte am besten?
 
-#### 5. Beispiel Bildhauerei: Polychromie in der Antike
+### 5. Beispiel Bildhauerei
 Künstler: Vinzenz Brinkmann und Ulrike Koch-Brinkmann
 Titel: Experimentelle Farbrekonstruktion der sogenannten Kleinen Herkulanerin
 Jahr: 2019 (nach einem Original aus dem 2. Jh. v. Chr.)
@@ -207,9 +207,8 @@ ABB
 
 Welche Ornamente lassen sich auf den Gewändern ausmachen? Beispielsweise lassen sich Strahlenmuster, ein Blätterband oder Palmetten erkennen. Es scheint, als verhelfe die farbige Fassung des Faltenwurfs der Statue zu einer Wirkung, die die reine Steinansichtigkeit des Marmors nicht erreichen könnte.
 
-### Fazit
+## Fazit
 Die an dieser Stelle vorgestellten Beispiele für Digitale Stories sind beliebig gewählt und decken bei weitem nicht alle Möglichkeiten ab. Viele andere Fragestellungen sind denkbar. Allerdings sollten wir stets prüfen, ob sie sich auch dazu eignen, das Interesse des Publikums zu wecken.
-
 
 ## Weblinks und Literatur
 ### Weblinks
@@ -224,7 +223,6 @@ https://storiiies.cogapp.com/viewer/ea1dl/Diamonds-are-a-girls-best-friend-Das-D
 http://www.getty.edu/art/collection/objects/64658/unknown-maker-german-exterior-of-cologne-cathedral-german-about-1880-1890/?dz=0.5000,0.6083,0.46
 - Digitorial Bunte Götter
 https://buntegoetter.liebieghaus.de/
-
 
 ### Literatur
 - Fickinger, Samuel. „Conrad Faber von Kreuznach, die Familie von Holzhausen und das Renaissanceporträt“. In Die Welt im Bildnis: Porträts, Sammler und Sammlungen in Frankfurt vom 16. bis 18. Jahrhundert., herausgegeben von Jochen Sander, 39–46. Frankfurt am Main: Michael Imhof, 2020.
