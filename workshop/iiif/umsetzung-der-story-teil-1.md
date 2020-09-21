@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3.2 Umsetzung der Story - Teil 1
+title: 3.2 Umsetzung - Teil 1
 nav_order: 2
 parent: 3. Technische Umsetzung
 ---
