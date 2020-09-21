@@ -14,8 +14,8 @@ In diesem Kapitel bringen wir unsere im Storyboard entwickelte Digitale Story in
 ---
 
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/digitales-storytelling/was-kann-erzaehlt-werden/){: .btn .btn-outline .mr-2 } 
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/storyboard-erstellen/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/storyboard-erstellen/){: .btn .btn-outline}
+[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/was-ist-iiif/){: .btn .btn-outline}
 </span>

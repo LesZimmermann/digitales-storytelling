@@ -25,7 +25,7 @@ Im zweiten Teil dieses Kapitels finden wir einige Beispiele für Fragestellungen
 ---
 
 ## Welche Geschichten können anhand des ausgewählten Werkes erzählt werden? 
-Die Digitale Story sollte unser Publikum weder unter- noch überfordern. An wen soll sich unsere Story richten? Wir müssen die Story sprachlich unserem Publikum anpassen. Auch sollten wir uns in der Story stets kurz fassen. Als Faustformel gilt: So kurz wie möglich, aber so ausführlich wie nötig. Die Digitale Story soll den Blick der Betrachter*innen auf das Kunstwerk lenken und sie durch dieses hindurchführen (guided tour). Wir sollten dem gewählten Bildausschnitt also nicht zu viel Text gegenüberstellen, um zu vermeiden, dass er vom Betrachten und Entdecken des Kunstwerkes selbst ablenkt.
+Die Digitale Story sollte unser Publikum weder unter- noch überfordern. An wen soll sich unsere Story richten? Wir müssen die Story sprachlich unserem Publikum anpassen. Auch sollten wir uns in der Story stets kurz fassen. Als Faustformel gilt: So kurz wie möglich, aber so ausführlich wie nötig. Die Digitale Story soll den Blick der Betrachter:innen auf das Kunstwerk lenken und sie durch dieses hindurchführen (guided tour). Wir sollten dem gewählten Bildausschnitt also nicht zu viel Text gegenüberstellen, um zu vermeiden, dass er vom Betrachten und Entdecken des Kunstwerkes selbst ablenkt.
 
 ![Rembrandt](https://cdn.lesliepzimmermann.de/storytelling/2-3-1_Rembrandt.jpg) 
 <p style="font-size: 0.8em; margin-top:-15px;">Rembrandt Hermensz. van Rijn, Die Blendung Simsons, 1636, Öl auf Leinwand, 206,0 x 276,0 cm, Frankfurt a. M., Städel Museum, Inv. 1383</p>
@@ -49,11 +49,10 @@ Wie viele Aspekte ein Story, hier zu Rembrandts Gemälde mit der Blendung Simson
 Die meisten Kunstwerke eignen sich dazu, gleich mehrere Geschichten zu erzählen. Zu verschiedenen Kunstgattungen bieten sich unterschiedliche Herangehensweisen an. Die Möglichkeiten sind schier unendlich. Nachfolgend möchten wir einige Beispiele vorstellen, wie wir an Werke und Kunstgattungen herantreten können.
 
 ### Mögliche Fragestellungen
-Ist es unser Ziel, bei einem Gemälde die mythologische Geschichte zu erzählen oder die Ikonografie zu entschlüsseln? Lässt sich mit Hilfe einer digitalen Story etwas über den konservatorischen Zustand oder die Restaurierungsgeschichte veranschaulichen? 
+Ist es unser Ziel, bei einem Gemälde die mythologische Geschichte zu erzählen oder die Ikonografie zu entschlüsseln? Lässt sich mit Hilfe einer digitalen Story etwas über den konservatorischen Zustand oder die Restaurierungsgeschichte veranschaulichen?
 Verbirgt sich hinter dem Gemälde selbst vielleicht eine spannende Geschichte? Wurde es einst Opfer eines Bildersturms oder birgt es durch Darstellungen der Stifter oder Auftraggeber Hinweise auf seine Entstehungsgeschichte und Provenienz? Oder haben wir eine Architekturfotografie ausgewählt und wollen nun in unserer Story über bauliche Besonderheiten berichten? Haben wir eine Druckgrafik ins Auge gefasst, die sich dafür eignet, über Hoch- oder Tiefdruckverfahren zu erzählen oder vielleicht ein reich mit Edelsteinen versehenes Schmuckstück, das etwas über Gold- und Silberschmiedearbeiten oder verschiedene Edelsteinschliffe aussagen kann?
 
-Es sind viele Fragestellungen denkbar, aber alle möglichen Digitalen Stories sollten neben 
-der fachlichen Wissensvermittlung auch visuell überzeugend und optisch ansprechend sein. Erkunden wir also unser Werk, sehen wir uns die Details an und überlegen, welche Geschichte sich lohnt, erzählt zu werden.
+Es sind viele Fragestellungen denkbar, aber alle möglichen Digitalen Stories sollten neben der fachlichen Wissensvermittlung auch visuell überzeugend und optisch ansprechend sein. Erkunden wir also unser Werk, sehen wir uns die Details an und überlegen, welche Geschichte sich lohnt, erzählt zu werden.
 
 ### 1. Beispiel Malerei
 
@@ -84,7 +83,7 @@ Um wen handelt es sich bei dem wohlgenährten Knaben, der zwischen den Porträti
 
 ![Faber 3](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-3.jpg)
 
-Hinter dem dargestellten Mann öffnet sich ein weiter Blick auf eine befestigte Stadt. Welche Stadt ist gemeint? Lässt sie sich identifizieren? Was haben die vielen Rauchsäulen zu bedeuten? Und wieso fängt ein Doppelbildnis dieses Detail im Hintergrund ein? Gibt es einen Bezug zu den Porträtierten? Die Deep-Zoom-Funktion macht es möglich, den Besucher*innen Details zu zeigen, die sie selbst vor dem Original kaum erkennen können, weil sie durch die Alarmanlage auf Abstand gehalten werden.
+Hinter dem dargestellten Mann öffnet sich ein weiter Blick auf eine befestigte Stadt. Welche Stadt ist gemeint? Lässt sie sich identifizieren? Was haben die vielen Rauchsäulen zu bedeuten? Und wieso fängt ein Doppelbildnis dieses Detail im Hintergrund ein? Gibt es einen Bezug zu den Porträtierten? Die Deep-Zoom-Funktion macht es möglich, den Besucher:innen Details zu zeigen, die sie selbst vor dem Original kaum erkennen können, weil sie durch die Alarmanlage auf Abstand gehalten werden.
 
 ![Faber 4](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-4.jpg)
 
@@ -95,7 +94,6 @@ Wir haben bei der Betrachtung des Gemäldes das Detail der Butzenscheiben im Fen
 Wir beschäftigen uns im Rahmen eines Seminars oder einer Ausstellung mit Kostümgeschichte und möchten in einer Story über Renaissance-Kleidung sprechen? Was lässt sich über den pelzverbrämten Rock, eine sogenannte Schaube, das reich plissierte Hemd, das geschlitzte Wams oder die Pluderhose erzählen? Eignet sich das Werk, um über die Kleiderordnungen des 16. Jahrhunderts zu berichten?
 
 ![Faber 6](https://cdn.lesliepzimmermann.de/storytelling/2-4-1_Faber-Staedel-6.jpg)
-
 
 Ebenso wie für eine Darstellung der Kostümgeschichte eignen sich vergleichbare Gemälde, um über Schmuckgeschichte zu erzählen. Denn der Schmuck hat, ebenso wie die Kleidung selbst, nur selten die Jahrhunderte überdauert. Was ist typisch für den Renaissance-Schmuck? Welche Materialien scheinen beliebt gewesen zu sein?
 
@@ -113,11 +111,11 @@ Ebenso wie für eine Darstellung der Kostümgeschichte eignen sich vergleichbare
   <dt>Sammlung</dt>
   <dd>Smithsonian Institution, National Museum of American Histor, Washington, D. C.</dd>
   <dt>Bildlizenz</dt>
-  <dd>https://www.si.edu/termsofuse</dd>
+  <dd><a href="https://www.si.edu/termsofuse">https://www.si.edu/termsofuse</a></dd>
   <dt>IIIF?</dt>
   <dd>ja</dd>
   <dt>Link zum Werk</dt>
-  <dd>https://www.si.edu/object/majorie-merriweather-posts-diamond-tiara%3Anmah_350082</dd>
+  <dd><a href="https://www.si.edu/object/majorie-merriweather-posts-diamond-tiara%3Anmah_350082">https://www.si.edu/object/majorie-merriweather-posts-diamond-tiara%3Anmah_350082</a></dd>
 </dl>
 
 ![Diadem 2](https://cdn.lesliepzimmermann.de/storytelling/2-4-2_Diadem-2.jpg)
@@ -152,7 +150,7 @@ Wollen wir in unserer Story über verschiedene Techniken der Gold- und Silbersch
   <dt>IIIF?</dt>
   <dd>ja</dd>
   <dt>Link zum Werk</dt>
-  <dd>https://mirador.staatsbibliothek-berlin.de/?manifest=https://content.staatsbibliothek-berlin.de/dc/654654484/manifest</dd>
+  <dd><a href="https://mirador.staatsbibliothek-berlin.de/?manifest=https://content.staatsbibliothek-berlin.de/dc/654654484/manifest">https://mirador.staatsbibliothek-berlin.de/?manifest=https://content.staatsbibliothek-berlin.de/dc/654654484/manifest</a></dd>
 </dl>
 
 ![Holzhausen 2](https://cdn.lesliepzimmermann.de/storytelling/2-4-3_Holzhausen-2.jpg)
@@ -161,49 +159,70 @@ Möchten wir eine Digitale Story zum Thema Drucktechniken erstellen? Um welche D
 
 ![Holzhausen 3](https://cdn.lesliepzimmermann.de/storytelling/2-4-3_Holzhausen-3.jpg)
 
-Möchten wir über den Dargestellten selbst sprechen? Wie lassen sich Porträtierte in Druckgrafiken identifizieren? Wie ist das Blatt gestaltet? Porträtdruckgrafiken weisen häufig Text auf. Diese geben Aufschluss über die Dargestellten, ihr Alter, ihre Herkunft und weitere biografische Einzelheiten. Doch schauen die Betrachter*innen auch auf das Kleingedruckte? Häufig finden sich Informationen zu Entwerfer*in, zu Stecher*in und/oder Verleger*in. Man kann beim Digital Storytelling also auf Details verweisen, die beim oberflächlichen Betrachten schnell übersehen werden. In welcher Sprache ist die Inschrift verfasst? Eine Digitale Story eignet sich auch dazu, bestimmte Passagen durch Annotationen zu transkribieren und/oder zu übersetzen.
+Möchten wir über den Dargestellten selbst sprechen? Wie lassen sich Porträtierte in Druckgrafiken identifizieren? Wie ist das Blatt gestaltet? Porträtdruckgrafiken weisen häufig Text auf. Diese geben Aufschluss über die Dargestellten, ihr Alter, ihre Herkunft und weitere biografische Einzelheiten. Doch schauen die Betrachter:innen auch auf das Kleingedruckte? Häufig finden sich Informationen zu Entwerfer:in, zu Stecher:in und/oder Verleger:in. Man kann beim Digital Storytelling also auf Details verweisen, die beim oberflächlichen Betrachten schnell übersehen werden. In welcher Sprache ist die Inschrift verfasst? Eine Digitale Story eignet sich auch dazu, bestimmte Passagen durch Annotationen zu transkribieren und/oder zu übersetzen.
 
 ### 4. Beispiel Architektur
 
-ABB
+![Architektur](https://cdn.lesliepzimmermann.de/storytelling/Architektur-1.jpg)
 
-Künstler: Anonym (deutsch)
-Titel: Südportal des Kölner Doms
-Jahr: 1880-1890
-Technik: Silbergelatineabzug
-Sammlung: Los Angeles, The J. Paul Getty Museum, 
-Bildlizenz: Digital image courtesy of the Getty's Open Content Program.
-IIIF?: ja
-Link zum Werk:
-http://www.getty.edu/art/collection/objects/64658/unknown-maker-german-exterior-of-cologne-cathedral-german-about-1880-1890/?dz=0.5000,0.6083,0.46 
+<dl>
+  <dt>Künstler</dt>
+  <dd>Anonym (deutsch)</dd>
+  <dt>Titel</dt>
+  <dd>Südportal des Kölner Doms</dd>
+  <dt>Jahr</dt>
+  <dd>1880–1890</dd>
+  <dt>Technik</dt>
+  <dd>Silbergelatineabzug</dd>
+  <dt>Sammlung</dt>
+  <dd>The J. Paul Getty Museum, Los Angeles</dd>
+  <dt>Bildlizenz</dt>
+  <dd>Digital image courtesy of the Getty's Open Content Program.</dd>
+  <dt>IIIF?</dt>
+  <dd>ja</dd>
+  <dt>Link zum Werk</dt>
+  <dd><a href="http://www.getty.edu/art/collection/objects/64658/unknown-maker-german-exterior-of-cologne-cathedral-german-about-1880-1890/?dz=0.5000,0.6083,0.46">http://www.getty.edu/art/collection/objects/64658/unknown-maker-german-exterior-of-cologne-cathedral-german-about-1880-1890/?dz=0.5000,0.6083,0.46</a></dd>
+</dl>
 
+![Architektur 2](https://cdn.lesliepzimmermann.de/storytelling/Architektur-2.jpg)
 
-Soll es in der Story um Architektur gehen, wie hier am Beispiel des Südportals des Kölner Doms? Architekturfotografien eignen sich dazu, mittels Digitaler Stories und einem tiefen hineinzoomen in die Abbildung (Deep Zoom) den Betrachter*innen etwas zur Baugeschichte oder dem Bildprogramm zu vermitteln. Welches Bildprogramm wird im Tympanon des mittleren Portals der Südfassade des Kölner Doms dargestellt? Welche Heiligen oder gar Szenen aus der Bibel sind zu identifizieren? Was ist überhaupt ein Tympanon, was sind Archivolten und was ein Gewände? Lassen sich die Gewändefiguren anhand ihrer Attribute benennen?
+Soll es in der Story um Architektur gehen, wie hier am Beispiel des Südportals des Kölner Doms? Architekturfotografien eignen sich dazu, mittels Digitaler Stories und einem tiefen hineinzoomen in die Abbildung (Deep Zoom) den Betrachter:innen etwas zur Baugeschichte oder dem Bildprogramm zu vermitteln. Welches Bildprogramm wird im Tympanon des mittleren Portals der Südfassade des Kölner Doms dargestellt? Welche Heiligen oder gar Szenen aus der Bibel sind zu identifizieren? Was ist überhaupt ein Tympanon, was sind Archivolten und was ein Gewände? Lassen sich die Gewändefiguren anhand ihrer Attribute benennen?
 
-ABB
-
+![Architektur 3](https://cdn.lesliepzimmermann.de/storytelling/Architektur-3.jpg)
 
 In unserer Story soll es um gotische Architektur gehen? Neben den Bauelementen der Kirchenportale, wie dem Tympanon, dem Gewände, den Archivolten oder dem Wimperg, ließen sich an dieser Fotografie auch die für die Gotik so charakteristischen Krabben, Kreuzblumen und Fialen beschreiben. Oder möchten wir eine Story zur Baugeschichte des Kölner Doms erzählen? Welche Fassade eignet sich für welchen Abschnitt der jahrhundertelangen Baugeschichte am besten?
 
 ### 5. Beispiel Bildhauerei
-Künstler: Vinzenz Brinkmann und Ulrike Koch-Brinkmann
-Titel: Experimentelle Farbrekonstruktion der sogenannten Kleinen Herkulanerin
-Jahr: 2019 (nach einem Original aus dem 2. Jh. v. Chr.)
-Technik: Marmorstuck auf Gipsabguss, Naturpigmente in Eitempera, Blattgold, H. 181 cm
-Sammlung: Frankfurt a. M., Liebieghaus Skulpturensammlung, Polychromy Research Project
-Bildlizenz: Foto: Vinzenz Brinkmann
-IIIF?: nein
-Link zum Werk: https://buntegoetter.liebieghaus.de/  
+![Kleinen Herkulanerin 1](https://cdn.lesliepzimmermann.de/storytelling/Herkulanerin-1.jpg)
 
-ABB
+<dl>
+  <dt>Künstler</dt>
+  <dd>Vinzenz Brinkmann und Ulrike Koch-Brinkmann</dd>
+  <dt>Titel</dt>
+  <dd>Experimentelle Farbrekonstruktion der sogenannten Kleinen Herkulanerin</dd>
+  <dt>Jahr</dt>
+  <dd>2019 (nach einem Original aus dem 2. Jh. v. Chr.)</dd>
+  <dt>Technik</dt>
+  <dd>Marmorstuck auf Gipsabguss, Naturpigmente in Eitempera, Blattgold, H. 181 cm</dd>
+  <dt>Sammlung</dt>
+  <dd>Liebieghaus Skulpturensammlung, Frankfurt a. M., Polychromy Research Project</dd>
+  <dt>Bildlizenz</dt>
+  <dd>Foto: Vinzenz Brinkmann</dd>
+  <dt>IIIF?</dt>
+  <dd>nein</dd>
+  <dt>Link zum Werk</dt>
+  <dd><a href="https://buntegoetter.liebieghaus.de/">https://buntegoetter.liebieghaus.de/</a></dd>
+</dl>
+
+![Kleinen Herkulanerin 2](https://cdn.lesliepzimmermann.de/storytelling/Herkulanerin-2.jpg)
 
 Die Rekonstruktion der “Kleinen Herkulanerin” ist ein einschlägiges Beispiel für die Polychromie antiker Statuen. Doch welche Farben wurden an antiken Skulpturen eigentlich verwendet? Die farbig gefasste Rekonstruktion eignet sich beispielsweise für eine Digitale Story zu Farben und Farbpigmenten, die im Hellenismus Verwendung fanden. Verschiedene Ocker- und Umbratöne wurden für die Farbfassung der Haare benutzt. Doch was macht das Blattgold im Haar der Herkulanerin?
 
-ABB
+![Kleinen Herkulanerin 3](https://cdn.lesliepzimmermann.de/storytelling/Herkulanerin-3.jpg)
 
 Als der Archäologe Louis Couve 1894 das Original, also die marmorne “Kleine Herkulanerin” auf der griechischen Insel Delos fand, beschrieb er die von ihm beobachteten rosa Farbreste am Mantel als rosafarben. Doch woher stammt das Grün der Rekonstruktion? Widersprechen sich Couves Beobachtungen und die aktuelle Rekonstruktion der Farbigkeit der “Kleinen Herkulanerin”? Oder liegen die beiden Positionen vielleicht gar nicht so weit auseinander, wie man zunächst denken könnte?
 
-ABB
+![Kleinen Herkulanerin 4](https://cdn.lesliepzimmermann.de/storytelling/Herkulanerin-4.jpg)
 
 Welche Ornamente lassen sich auf den Gewändern ausmachen? Beispielsweise lassen sich Strahlenmuster, ein Blätterband oder Palmetten erkennen. Es scheint, als verhelfe die farbige Fassung des Faltenwurfs der Statue zu einer Wirkung, die die reine Steinansichtigkeit des Marmors nicht erreichen könnte.
 
@@ -213,16 +232,11 @@ Die an dieser Stelle vorgestellten Beispiele für Digitale Stories sind beliebig
 ## Weblinks und Literatur
 ### Weblinks
 - [Die Blendung Simsons in der Digitalen Sammlung des Städel Museums](https://sammlung.staedelmuseum.de/de/werk/die-blendung-simsons)
-- Virtueller Rundgang durch die Ausstellung: Die Welt im BILDnis im Museum Giersch der Goethe-Universität
-http://welt-im-bildnis.museum-giersch.de/#&bild=1
-- Ein Liebesgott im Renaissanceporträt?
-https://storiiies.cogapp.com/viewer/d41dt/Ein-Liebesgott-im-Renaissanceportrt
-- Diamonds are a girl's best friend: Das Diamant-Diadem von Marjorie Merriweather Post
-https://storiiies.cogapp.com/viewer/ea1dl/Diamonds-are-a-girls-best-friend-Das-DiamantDiadem-von-Marjorie-Merriweather-Post
-- [Anonyme*r Fotograf*in, Südportal des Kölner Doms, 1880-90]
-http://www.getty.edu/art/collection/objects/64658/unknown-maker-german-exterior-of-cologne-cathedral-german-about-1880-1890/?dz=0.5000,0.6083,0.46
-- Digitorial Bunte Götter
-https://buntegoetter.liebieghaus.de/
+- [Virtueller Rundgang durch die Ausstellung: Die Welt im BILDnis im Museum Giersch der Goethe-Universität](http://welt-im-bildnis.museum-giersch.de/#&bild=1)
+- [Ein Liebesgott im Renaissanceporträt?](https://storiiies.cogapp.com/viewer/d41dt/Ein-Liebesgott-im-Renaissanceportrt)
+- [Diamonds are a girl's best friend: Das Diamant-Diadem von Marjorie Merriweather Post](https://storiiies.cogapp.com/viewer/ea1dl/Diamonds-are-a-girls-best-friend-Das-DiamantDiadem-von-Marjorie-Merriweather-Post)
+- [Anonyme:r Fotograf:in, Südportal des Kölner Doms, 1880-90](http://www.getty.edu/art/collection/objects/64658/unknown-maker-german-exterior-of-cologne-cathedral-german-about-1880-1890/?dz=0.5000,0.6083,0.46)
+- [Digitorial Bunte Götter](https://buntegoetter.liebieghaus.de/)
 
 ### Literatur
 - Fickinger, Samuel. „Conrad Faber von Kreuznach, die Familie von Holzhausen und das Renaissanceporträt“. In Die Welt im Bildnis: Porträts, Sammler und Sammlungen in Frankfurt vom 16. bis 18. Jahrhundert., herausgegeben von Jochen Sander, 39–46. Frankfurt am Main: Michael Imhof, 2020.
@@ -232,15 +246,15 @@ https://buntegoetter.liebieghaus.de/
 - Kramper, Andrea. Storytelling für Museen: Herausforderungen und Chancen. Kultur- und Museumsmanagement. Bielefeld: transcript, 2017.
 - Lehtimäki, Markku. „The Failure of Art: Problems of Verbal and Visual Representation in Let Us Now Praise Famous Men“. In Intermediality and Storytelling, herausgegeben von Marina Grishakova und Marie-Laure Ryan, 183–207. Berlin/Boston: De Gruyter, Inc., 2010.
 - Zimmermann, Leslie P. „Die Welt Im Bildnis Entdecken: Das Museum Giersch der Goethe-Universität Frankfurt zeigt seine aktuelle Ausstellung auch online“. Medium (blog), 14. Juni 2020. 
-https://medium.com/@lesliepzimmermann/die-welt-im-bildnis-entdecken-6394bad9833f.
+[https://medium.com/@lesliepzimmermann/die-welt-im-bildnis-entdecken-6394bad9833f](https://medium.com/@lesliepzimmermann/die-welt-im-bildnis-entdecken-6394bad9833f).
 
 ---
 
 Das nächste Kapitel dreht sich um die Entwicklung der Story:
 
 <span class="fs-8">
-[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/werkauswahl/){: .btn .btn-outline .mr-2 } 
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/einstieg-storyentwicklung/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/was-kann-erzaehlt-werden/){: .btn .btn-outline}
+[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/eine-story-entwickeln/){: .btn .btn-outline}
 </span>

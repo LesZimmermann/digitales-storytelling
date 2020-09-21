@@ -4,11 +4,10 @@ title: 3.3 Umsetzung - Teil 2
 nav_order: 3
 parent: 3. Technische Umsetzung
 ---
-# 3.4 Umsetzung der Story
+# 3.3 Umsetzung der Story – Teil 2  
 {: .no_toc }
 
 Nachdem wir die Basisdaten für die Titelseite unserer Digitalen Story durch den Klick auf “Edit” bestätigt haben, können wir nun die Textsegmente unseres Storyboards (siehe Kapitel 2.4) als Annotationen in den Storiiies-Editor einfügen.
-
 
 ## Inhalt
 {: .no_toc .text-delta }
@@ -93,16 +92,18 @@ Beim Lesen der Story ist es uns stets möglich, auch an andere Stellen des Kunst
 Tipp: Es ist ratsam sich bereits nach dem Einfügen der ersten Textannotationen eine Vorschau der Story anzeigen zu lassen. Dies dient dazu, ein Gefühl für das fertige Erscheinungsbild zu bekommen. Sind unsere Annotationen vielleicht zu lang? Muss man scrollen, um sie vollständig lesen zu können? Dann sollten wir über Kürzungsmöglichkeiten nachdenken.
 Des Weiteren ist es nützlich, sich die Story beispielsweise auch auf dem Smartphone oder Tablet anzusehen. Hier wird noch deutlicher, dass es auf den Umfang der Textannotationen ankommt. Pro Annotation sollte der Text möglichst kurz sein. Als Alternative zum Kürzen der Texte können wir ein Textsegment auch auf zwei Annotationen (mit jeweils eigener Abbildung) aufteilen. Wir sollten dabei allerdings stets den Umfang der Digitalen Story nicht aus dem Blick verlieren. Um den Umfang zu überprüfen, können wir die Story vorab jemandem zum Lesen und Betrachten geben und uns Feedback einholen oder selbst die Zeit stoppen, die wir benötigen, um uns einmal durch die gesamte Story zu klicken.
 
-## Die finale Story
+## Die finale Story – zwei Beispiele
+### Diamonds are a girl's best friend - Das Diamant-Diadem von Marjorie Merriweather Post
 <iframe width="100%" height="480" src="https://storiiies.cogapp.com/viewer/ea1dl/Diamonds-are-a-girls-best-friend-Das-DiamantDiadem-von-Marjorie-Merriweather-Post?embed=true" title="Diamonds are a girl's best friend - Das Diamant-Diadem von Marjorie Merriweather Post"></iframe>
 
-BEISPIEL FABER
+### Ein Liebesgott im Renaissanceporträt?
+<iframe width="100%" height="480" src="https://storiiies.cogapp.com/viewer/d41dt/Ein-Liebesgott-im-Renaissanceportrt?embed=true" title="Ein Liebesgott im Renaissanceporträt?"></iframe>
 
 Großartig! Wir haben unsere Digitale Story erstellt.
 ---
 
 <span class="fs-8">
-[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/suche-2/){: .btn .btn-outline .mr-2 } 
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/umsetzung-der-story-teil-1/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
 [Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/ausblick/){: .btn .btn-outline}

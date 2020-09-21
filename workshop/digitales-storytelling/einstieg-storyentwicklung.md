@@ -29,7 +29,7 @@ Im zweiten Teil des Kapitels beschäftigen wir uns eingehend mit der Auswahl des
 ## Einstiegspunkte
 
 ### Ich weiß weder, welches Werk ich nutzen, noch welche Geschichte ich erzählen möchte
-Lassen wir uns von Ausstellungskatalogen und Monographien, Fotos, Werbetafeln, bereits bestehenden Stories, Online-Katalogen, digitalen Sammlungen, Geschichten von Freund*innen oder von Film und Fernsehen inspirieren. Einen guten Einstieg bieten die digitalen Sammlungen der Museen, bei denen wir nicht nur zielgerichtet nach Werken und Künstlern suchen können, sondern die uns meist auch Möglichkeiten zum Entdecken bieten. In den nachfolgenden Kapiteln finden sich Hilfestellung für die Auswahl des Werkes und Hilfe beim Finden einer passenden Thematik. In Kapitel 2.4 Was kann erzählt werden? haben wir einige Fragestellungen zusammengestellt, die hierfür Anregungen liefern können.
+Lassen wir uns von Ausstellungskatalogen und Monographien, Fotos, Werbetafeln, bereits bestehenden Stories, Online-Katalogen, digitalen Sammlungen, Geschichten von Freund:innen oder von Film und Fernsehen inspirieren. Einen guten Einstieg bieten die digitalen Sammlungen der Museen, bei denen wir nicht nur zielgerichtet nach Werken und Künstlern suchen können, sondern die uns meist auch Möglichkeiten zum Entdecken bieten. In den nachfolgenden Kapiteln finden sich Hilfestellung für die Auswahl des Werkes und Hilfe beim Finden einer passenden Thematik. In Kapitel 2.4 Was kann erzählt werden? haben wir einige Fragestellungen zusammengestellt, die hierfür Anregungen liefern können.
 
 ![Abb. 6](https://cdn.lesliepzimmermann.de/storytelling/2-1-1_Digitale-Sammlung-Staedel.jpg)
 <p style="font-size: 0.8em;margin-top:-15px;"> Online Sammlungen eignen sich gut dazu, sich inspirieren zu lassen. Durch digitale Sammlungen, wie die des Städel Museums, kann man sich einen Überblick über die volle Bandbreite der Sammlungen verschaffen.
@@ -48,29 +48,25 @@ Wenn wir uns bereits für das Thema unserer Story entschieden haben, aber noch o
 Wenn wir bereits wissen, welches Werk und welche Geschichte wir behandeln möchten, können wir direkt mit der zielgerichteten Recherche beginnen. Im folgenden Kapitel haben wir einige Beispielstories zusammengestellt, die zeigen können, wie man dabei vorgehen kann. In den nachfolgenden Kapiteln findet sich eine Hilfestellung für die Auswahl eines Werkes und Hilfe beim Finden einer passenden Story. Falls Werk und Geschichte nochmals überprüft werden sollen, findet sich in diesen Kapiteln Hilfe.
 
 ## Werkauswahl
-Suchen wir uns nun ein Werk aus, über das wir eine Story erzählen möchten. Dabei sollten wir bedenken, dass sich Digitale Stories besonders dazu eignen, den Blick der Betrachter*innen zu lenken, sie virtuell ganz nah an das Kunstwerk herantreten zu lassen und Details zu zeigen, die sie sonst vielleicht sogar vor dem Original übersehen hätten. Es eignen sich also besonders solche Werke, bei denen es nicht nur inhaltlich, sondern auch visuell viel zu entdecken gibt.
+Suchen wir uns nun ein Werk aus, über das wir eine Story erzählen möchten. Dabei sollten wir bedenken, dass sich Digitale Stories besonders dazu eignen, den Blick der Betrachter:innen zu lenken, sie virtuell ganz nah an das Kunstwerk herantreten zu lassen und Details zu zeigen, die sie sonst vielleicht sogar vor dem Original übersehen hätten. Es eignen sich also besonders solche Werke, bei denen es nicht nur inhaltlich, sondern auch visuell viel zu entdecken gibt.
 
-Ein wichtiger Aspekt, den wir bei der Erstellung einer Digitalen Story beachten sollten, ist die Rechtslage der digitalen Bilder, die wir im WWW vorfinden. Dabei ist es nötig herauszufinden, ob und in welcher Form der Einsatz einer vorliegenden Abbildungen rechtlich gestattet ist. Auch ist es für unser Vorhaben wichtig, ob das Herunterladen der Bilder möglich ist oder ob sie sogar über IIIF (dazu kommen wir in Kapitel 3) abgerufen werden können, was die Möglichkeiten der Verwendung nochmal erheblich vergrößert. Diese Informationen finden wir meist auf der Website beziehungsweise innerhalb der digitalen Sammlungen der Museen (siehe Weblink). Um das Optimale aus unserer Digitalen Story herausholen zu können, ist es auch wichtig, dass wir eine Abbildung in möglichst hoher Auflösung zur Verfügung haben. Erfreulicher Weise bieten aber viele Online-Sammlungen der Museen hochauflösende Abbildungen zum Download an.
+Ein wichtiger Aspekt, den wir bei der Erstellung einer Digitalen Story beachten sollten, ist die Rechtslage der digitalen Bilder, die wir im WWW vorfinden. Dabei ist es nötig herauszufinden, ob und in welcher Form der Einsatz einer vorliegenden Abbildungen rechtlich gestattet ist. Auch ist es für unser Vorhaben wichtig, ob das Herunterladen der Bilder möglich ist oder ob sie sogar über IIIF (dazu kommen wir in Kapitel 3) abgerufen werden können, was die Möglichkeiten der Verwendung nochmal erheblich vergrößert. Diese Informationen finden wir meist auf der Website beziehungsweise innerhalb der digitalen Sammlungen der Museen (siehe [Weblinks](#weblinks)). Um das Optimale aus unserer Digitalen Story herausholen zu können, ist es auch wichtig, dass wir eine Abbildung in möglichst hoher Auflösung zur Verfügung haben. Erfreulicher Weise bieten aber viele Online-Sammlungen der Museen hochauflösende Abbildungen zum Download an.
 
 Im Kapitel 3.1 Was ist IIIF? finden wir eine Linkliste zu Online-Sammlungen von Museen, die den Zugang zu hochauflösenden Bildern und/oder eine IIIF-Schnittstelle bereitstellen.
 
-## Weblinks und Literatur
-### Weblinks
+## Weblinks
 - [Städel Museum Konzept/Bildbereitstellung](https://sammlung.staedelmuseum.de/de/konzept)
 - [Open Access at the National Gallery of Art](https://www.nga.gov/notices/open-access-policy.html)
 - [The Rijksmuseum Open Data Policy](https://www.rijksmuseum.nl/en/data/policy)
 - [Open Content Program Getty Museum](https://www.getty.edu/about/whatwedo/opencontent.html)
-
-### Literatur
-- LITERATUR
 
 ---
 
 Im nächste Kapitel beschäftigen wir uns mit der Themenauswahl:
 
 <span class="fs-8">
-[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/was-kann-erzaehlt-werden/){: .btn .btn-outline .mr-2 } 
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/digitales-storytelling/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
-[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/werkauswahl/){: .btn .btn-outline}
+[Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/storytelling/){: .btn .btn-outline}
 </span>

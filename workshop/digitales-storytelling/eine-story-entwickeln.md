@@ -41,7 +41,7 @@ Beispiel:
 |:---------------------|:------------------|
 | A (Beschreibung)     | In einem engen Raum sitzt eine prachtvoll gewandete Frau, die ein Kind stillt. |
 | B (Ikonografie)      | Das Motiv der stillenden Frau kennen wir aus der christlichen Ikonografie von Darstellungen der stillenden Gottesmutter auch ‘Maria lactans’ genannt. Zusätzlich finden sich weitere  Mariensymbole im Raum, nämlich... |
-| C (Schlussfolgerung) | In Jan van Eycks Gemälde wird den Betrachter*innen die stillende Gottesmutter mit Christusknaben präsentiert. |
+| C (Schlussfolgerung) | In Jan van Eycks Gemälde wird den Betrachter:innen die stillende Gottesmutter mit Christusknaben präsentiert. |
 
 ### B A C (Analepse)
 
@@ -79,7 +79,7 @@ Welche Erzählform auch immer für die Digitale Story gewählt wird - sie sollte
 Im nächsten Kapitel beschäftigen wir uns mit der Entwicklung eines Storyboards:
 
 <span class="fs-8">
-[Zurück](digitales-storytelling/workshop/digitales-storytelling/was-kann-erzaehlt-werden/){: .btn .btn-outline .mr-2 } 
+[Zurück](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/storytelling/){: .btn .btn-outline .mr-2 } 
 </span>
 <span class="fs-8">
 [Weiter](https://leszimmermann.github.io/digitales-storytelling/workshop/digitales-storytelling/storyboard-erstellen/){: .btn .btn-outline}
