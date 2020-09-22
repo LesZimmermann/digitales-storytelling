@@ -29,7 +29,7 @@ Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an da
 Für die Erstellung des Storyboards können wir mit unterschiedlichen Programmen, etwa mit mit Word, Google-Docs oder PowerPoint, arbeiten. In allen Programmen lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt ferner darin, dass wir die Bilder direkt in der Software beschneiden, das heißt den gewünschten Bildausschnitt auswählen und kopieren können. Die Programme eignen sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten, die sich dann dem entsprechenden Textausschnitt zuordnen lassen.
 
 ## Anleitung: Storyboard erstellen mit Google-Docs
-Eine Vorlage für die Erstellung eines eigenen Storyboards mit Google-Docs findet sich unter [Download](#download).
+Eine Vorlage für die Erstellung eines eigenen Storyboards mit [Google-Docs](https://docs.google.com/?hl=de) findet sich unter [Download](#download).
 
 ![Storyboard 1](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-1.jpg)
 

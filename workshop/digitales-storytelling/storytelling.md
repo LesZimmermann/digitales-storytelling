@@ -6,7 +6,6 @@ parent: 2. Digitales Storytelling
 ---
 # 2.2 Storytelling
 {: .no_toc }
-## Themenauswahl
 Wir haben unser Werk gefunden und begeben uns jetzt auf die Suche nach einer passenden Story. Nach einem ersten Einlesen und der Auseinandersetzung mit dem ausgewählten Werk sollten wir uns überlegen, welche Geschichten wir hiervon ausgehend erzählen können. Die Möglichkeiten hierfür sind vielfältig, wir sollten aber nicht zu viele verschiedene Aspekte in eine einzelne Geschichte packen. Andernfalls besteht die Gefahr, dass unsere Story zu lang und die Narration durch zu viele Wechsel innerhalb der Erzählung schwer nachvollziehbar wird. Sich bei dem Erstellen einer Geschichte auf eine konkrete Fragestellung zu beziehen, wird uns helfen, den roten Faden nicht aus den Augen zu verlieren und thematisch nicht abzuschweifen.
 Im zweiten Teil dieses Kapitels finden wir einige Beispiele für Fragestellungen zu Kunstwerken verschiedener Gattungen, die wir anhand einer Digitalen Story erzählen könnten.
 

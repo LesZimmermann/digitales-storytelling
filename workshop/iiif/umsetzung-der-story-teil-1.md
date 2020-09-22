@@ -42,8 +42,8 @@ Hier sehen wir ein Beispiel für eine ausgefüllte Startseite:
 ![Storiiies 2](https://cdn.lesliepzimmermann.de/storytelling/3-4/2_Diadem_Storiiies.jpg)
 
 ### Bildhosting mit IIIF
-Wollen wir die Bilddatei einer Online-Sammlung nutzen, die uns bereits ein Manifest oder eine IIIF-API (nochmal Link zu 3.1?) anbietet, so können wir diese in die dafür vorgesehene Zeile des Editors kopieren.
-Die Wege, um an Manifeste und Image-APIs (URLs; enden mit “info.json”) zu gelangen, sind nicht einheitlich. Problematik an die IIIF-Dateien zu kommen… Für technisch Interessierte... Deshalb stellen wir hier zwei Beispiele vor: “Suche nach IIIF” (https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/suche-1/). Unten finden sich noch Beispiele...
+Wollen wir die Bilddatei einer Online-Sammlung nutzen, die uns bereits ein Manifest oder einen Link zur info.json-Datei der Image-API anbietet, so können wir diese in die dafür vorgesehene Zeile des Editors kopieren.
+Die Wege, um an Manifeste und Image-APIs (URLs; enden mit “info.json”) zu gelangen, sind nicht einheitlich. Unter Umständen können scih diese Wege ein wenig technisch gestalten.  Für technisch Interessierte stellen wir hier zwei Beispiele vor: [“Suche nach IIIF - Beispiel 1”](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/suche-1/) und [“Suche nach IIIF - Beispiel 2”](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/suche-2/). Unten finden sich bereits [copy-and-paste-fertige Beispiele](#beispiel) von info.json-Links der Image-APIs. Diese Links können einfach in Storiiies kopiert werden.
 
 ![Bildhosting mit IIIF](https://cdn.lesliepzimmermann.de/storytelling/Screenshot_04.jpg)
 
@@ -55,7 +55,7 @@ Einen ersten Anhaltspunkt, um an IIIF-kompatible Abbildungen zu gelangen, stellt
 Nun könnten wir Manifest oder Image-API für ein Bild unserer Wahl recherchieren. Für einen Schnellstart ohne Recherchearbeit stellen wir hier einige Beispiele bereit, die wir direkt in Storiiies einfügen können:  
 
 Beispiel für Manifest:
-[https://data.getty.edu/museum/api/iiif/130326/manifest.json](https://data.getty.edu/museum/api/iiif/130326/manifest.json) 
+[https://data.getty.edu/museum/api/iiif/130326/manifest.json](https://data.getty.edu/museum/api/iiif/130326/manifest.json)
 
 Beispiel für Image-API:
 [https://data.getty.edu/museum/api/iiif/18491/info.json](https://data.getty.edu/museum/api/iiif/18491/info.json)
@@ -81,7 +81,8 @@ Der zweite Link führt uns zum Viewer, mit dem wir die finale Version unserer Di
 Nun können wir in Teil 2 der Umsetzung unserer Story mit dem Implementieren unserer Textsegmente aus dem Storyboard beginnen und dazu die passenden Bildausschnitte auswählen (Link zu 3.2 Teil 2).
 
 ## Hilfreiche Links und Ressourcen:
-[Andy Cummings von Cogapp präsentiert Storiiies](https://youtu.be/u4GC9ULypls)
+- [Storiiies Website](https://storiiies.cogapp.com/)
+- [Andy Cummings von Cogapp präsentiert Storiiies](https://youtu.be/u4GC9ULypls)
 
 ### Online Sammlungen mit IIIF:
 Diese Sammlungen bieten den Download von Werken sowie die Möglichkeit, die Werke über die IIIF API zu nutzen.
@@ -90,12 +91,9 @@ Die folgende Karte bietet einen guten [Überblick über Institutionen](https://w
 <iframe src="https://www.google.com/maps/d/embed?mid=1faJRKJpj2Vau__RDwt8af040x0GTVozp" width="640" height="480"></iframe>
 
 - [Getty Museum, Los Angeles](http://www.getty.edu/art/collection/)
-- V&A
-- Belvedere
+- [Belvedere](https://sammlung.belvedere.at/)
 - [National Gallery Washington](https://www.nga.gov/collection.html)
 - [Europeana](https://www.europeana.eu/en/search?query=sv_dcterms_conformsTo%3A%2aiiif%2a&view=grid)
-- https://www.deutsche-digitale-bibliothek.de/ (IIIF ?)
-- https://iiif.biblissima.fr/#services-iiif
 - [Yale Center for British Art](https://britishart.yale.edu/collections/using-collections/online-)
 - [Smithsonian](https://www.si.edu/learn-explore)
 
