@@ -60,7 +60,7 @@ Beispiel für Manifest:
 Beispiel für Image-API:
 [https://data.getty.edu/museum/api/iiif/18491/info.json](https://data.getty.edu/museum/api/iiif/18491/info.json)
 
-### Bildhosting: Über Storiiies
+### Bildhosting über Storiiies
 Nutzen wir die Option, unser Bild über den Storiiies-Editor selbst zu hosten, dann wählen wir unter “Durchsuchen” eine jpg-Bilddatei auf unserem Computer aus und klicken anschließend auf “Upload”.
 
 ![Storiiies 3](https://cdn.lesliepzimmermann.de/storytelling/3-4/3_Diadem_Storiiies.jpg)

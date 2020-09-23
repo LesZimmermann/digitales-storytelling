@@ -100,6 +100,7 @@ Des Weiteren ist es nützlich, sich die Story beispielsweise auch auf dem Smartp
 <iframe width="100%" height="480" src="https://storiiies.cogapp.com/viewer/d41dt/Ein-Liebesgott-im-Renaissanceportrt?embed=true" title="Ein Liebesgott im Renaissanceporträt?"></iframe>
 
 Großartig! Wir haben unsere Digitale Story erstellt.
+
 ---
 
 <span class="fs-8">
