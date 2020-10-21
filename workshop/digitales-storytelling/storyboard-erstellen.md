@@ -24,9 +24,9 @@ Das Storyboard lässt sich herkömmlich mit Stift und Papier oder mit moderner C
 ---
 
 ## Text- und Bildsegmentierung
-Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an das Ausformulieren der Geschichte gehen. Unser Text wird innerhalb der Digitalen Story in Segmente gegliedert und ausgewählten Bildausschnitten gegenübergestellt. Daher sollte man schon beim Verfassen der eigenen Story den Text entsprechend segmentieren. Die Textsegmente werden im nächsten Schritt in das Storyboard überführt und dem entsprechenden Bildausschnitt als Annotation gegenübergestellt.
+Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an das Ausformulieren der Geschichte gehen. Unser Text wird innerhalb der Digitalen Story in Segmente gegliedert und diesen werden ausgewählte Bildausschnitte gegenübergestellt. Daher sollte man schon beim Verfassen der eigenen Story den Text entsprechend segmentieren. Die Textsegmente werden im nächsten Schritt in das Storyboard überführt und dem entsprechenden Bildausschnitt als Annotation gegenübergestellt.
 
-Für die Erstellung des Storyboards können wir mit unterschiedlichen Programmen, etwa mit mit Word, Google-Docs oder PowerPoint, arbeiten. In allen Programmen lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt ferner darin, dass wir die Bilder direkt in der Software beschneiden, das heißt den gewünschten Bildausschnitt auswählen und kopieren können. Die Programme eignen sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten, die sich dann dem entsprechenden Textausschnitt zuordnen lassen.
+Für die Erstellung des Storyboards können wir mit unterschiedlichen Programmen, etwa mit Word, Google-Docs oder PowerPoint, arbeiten. In allen Programmen lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt ferner darin, dass wir die Bilder direkt in der Software beschneiden, das heißt den gewünschten Bildausschnitt auswählen und kopieren können. Die Programme eignen sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten, die sich dann dem entsprechenden Textausschnitt zuordnen lassen.
 
 ## Anleitung: Storyboard erstellen mit Google-Docs
 Eine Vorlage für die Erstellung eines eigenen Storyboards mit [Google-Docs](https://docs.google.com/?hl=de) findet sich unter [Download](#download).
@@ -40,7 +40,7 @@ Des Weiteren erleichtert eine Nummerierung das spätere Überführen in den Edit
 
 ![Storyboard 2](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-2.jpg)
 
-In der ersten Zeile beginnen wir mit einer Übersicht zu unserer Story. Die linke Zelle der ersten Zeile enthält den Titel der Story, die Autor*innen-Namen, eine kurze Beschreibung und die Angabe zur Bildlizenz.
+In der ersten Zeile beginnen wir mit einer Übersicht zu unserer Story. Die linke Zelle der ersten Zeile enthält den Titel der Story, die Autor:innen-Namen, eine kurze Beschreibung und die Angabe zur Bildlizenz.
 
 ![Storyboard 3](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-3.jpg)
 

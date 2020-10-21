@@ -18,7 +18,7 @@ Nachdem wir die Basisdaten für die Titelseite unserer Digitalen Story durch den
 ---
 
 ## Lernziele
-- In diesem Kapitel lernen wir, wie wir die Textsegmente entsprechend der dazu ausgewählten Bildausschnitte aus dem Storyboard mittels Storiiies-Editor in die finale Form der Digitalen Story überführen.
+- In diesem Kapitel lernen wir, wie wir die Textsegmente einschließlich der dazu ausgewählten Bildausschnitte aus dem Storyboard mittels Storiiies-Editor in die finale Form der Digitalen Story überführen.
 
 ---
 
@@ -57,11 +57,11 @@ Nun fügen wir Schritt für Schritt durch Klicken auf “Add new” alle unsere 
 
 ![Storiiies 14](https://cdn.lesliepzimmermann.de/storytelling/3-4/14_Diadem_Storiiies.jpg)
 
-Per drag & drop kann die Reihenfolge der Annotationen beliebig verändert werden. Die einzelnen Texte lassen sich nach wie vor zu jeder Zeit bearbeiten.
+Per drag & drop kann die Reihenfolge der Annotationen beliebig verändert werden. Die einzelnen Texte lassen sich zu jeder Zeit bearbeiten.
 
 ![Storiiies 15](https://cdn.lesliepzimmermann.de/storytelling/3-4/15_Diadem_Storiiies.jpg)
 
-## Vorschau und teilen
+## Vorschau und Teilen
 Über die Schaltfläche “Links” gelangen wir zu den beiden Links, die uns per E-Mail nach dem Ausfüllen der Titelseite gesendet worden sind. Der obere der beiden Links ist jener, der mit allen geteilt werden kann, die die finale Story sehen sollen.
 Mit dem unteren Link gelangt man jederzeit in den Editor, um etwas in der Story zu verbessern oder zu verändern. Wie schon gesagt: Dieser Link ist nur für uns selbst gedacht und sollte nicht mit anderen geteilt werden.
 Zusätzlich findet sich unter den beiden Links noch ein Code, der zum Einbetten der Digitalen Story auf eine (eigene) Website gedacht ist.
@@ -77,11 +77,11 @@ Zur Erinnerung: Wir haben jederzeit die Möglichkeit, etwas an der Story zu änd
 
 ![Storiiies 18](https://cdn.lesliepzimmermann.de/storytelling/3-4/18_Diadem_Storiiies.jpg)
 
-Über die Pfeile können wir innerhalb der Digitalen Story navigieren, vor- und zurück.
+Über die Pfeile können wir innerhalb der Digitalen Story vor- und zurücknavigieren.
 
 ![Storiiies 19](https://cdn.lesliepzimmermann.de/storytelling/3-4/19_Diadem_Storiiies.jpg)
 
-Beim Lesen der Story ist es uns stets möglich, auch an andere Stellen des Kunstwerkes zu zoomen oder sich an eine andere Stelle zu bewegen. Dazu nutzen wir einfach die Maus bzw. das Mausrad.
+Beim Lesen der Story ist es stets möglich, auch an andere Stellen des Kunstwerkes zu zoomen oder sich an eine andere Stelle zu bewegen. Dazu nutzen wir einfach die Maus bzw. das Mausrad.
 
 ![Storiiies 20](https://cdn.lesliepzimmermann.de/storytelling/3-4/20_Diadem_Storiiies.jpg)
 
@@ -90,7 +90,7 @@ Beim Lesen der Story ist es uns stets möglich, auch an andere Stellen des Kunst
 ![Storiiies 21](https://cdn.lesliepzimmermann.de/storytelling/3-4/21_Diadem_Storiiies.jpg)
 
 Tipp: Es ist ratsam sich bereits nach dem Einfügen der ersten Textannotationen eine Vorschau der Story anzeigen zu lassen. Dies dient dazu, ein Gefühl für das fertige Erscheinungsbild zu bekommen. Sind unsere Annotationen vielleicht zu lang? Muss man scrollen, um sie vollständig lesen zu können? Dann sollten wir über Kürzungsmöglichkeiten nachdenken.
-Des Weiteren ist es nützlich, sich die Story beispielsweise auch auf dem Smartphone oder Tablet anzusehen. Hier wird noch deutlicher, dass es auf den Umfang der Textannotationen ankommt. Pro Annotation sollte der Text möglichst kurz sein. Als Alternative zum Kürzen der Texte können wir ein Textsegment auch auf zwei Annotationen (mit jeweils eigener Abbildung) aufteilen. Wir sollten dabei allerdings stets den Umfang der Digitalen Story nicht aus dem Blick verlieren. Um den Umfang zu überprüfen, können wir die Story vorab jemandem zum Lesen und Betrachten geben und uns Feedback einholen oder selbst die Zeit stoppen, die wir benötigen, um uns einmal durch die gesamte Story zu klicken.
+Des Weiteren ist es nützlich, sich die Story beispielsweise auch auf dem Smartphone oder Tablet anzusehen. Hier wird noch deutlicher, dass es auf den Umfang der Textannotationen ankommt. Pro Annotation sollte der Text möglichst kurz sein. Als Alternative zum Kürzen der Texte können wir ein Textsegment auch auf zwei Annotationen (mit jeweils eigener Abbildung) aufteilen. Wir sollten dabei allerdings den Umfang der Digitalen Story nicht aus dem Blick verlieren. Um den Umfang zu überprüfen, können wir die Story vorab jemandem zum Lesen und Betrachten geben und uns Feedback einholen oder selbst die Zeit stoppen, die wir benötigen, um uns einmal durch die gesamte Story zu klicken.
 
 ## Die finale Story – zwei Beispiele
 ### Diamonds are a girl's best friend - Das Diamant-Diadem von Marjorie Merriweather Post

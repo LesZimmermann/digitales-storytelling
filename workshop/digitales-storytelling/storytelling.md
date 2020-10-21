@@ -7,7 +7,7 @@ parent: 2. Digitales Storytelling
 # 2.2 Storytelling
 {: .no_toc }
 Wir haben unser Werk gefunden und begeben uns jetzt auf die Suche nach einer passenden Story. Nach einem ersten Einlesen und der Auseinandersetzung mit dem ausgewählten Werk sollten wir uns überlegen, welche Geschichten wir hiervon ausgehend erzählen können. Die Möglichkeiten hierfür sind vielfältig, wir sollten aber nicht zu viele verschiedene Aspekte in eine einzelne Geschichte packen. Andernfalls besteht die Gefahr, dass unsere Story zu lang und die Narration durch zu viele Wechsel innerhalb der Erzählung schwer nachvollziehbar wird. Sich bei dem Erstellen einer Geschichte auf eine konkrete Fragestellung zu beziehen, wird uns helfen, den roten Faden nicht aus den Augen zu verlieren und thematisch nicht abzuschweifen.
-Im zweiten Teil dieses Kapitels finden wir einige Beispiele für Fragestellungen zu Kunstwerken verschiedener Gattungen, die wir anhand einer Digitalen Story erzählen könnten.
+Im zweiten Teil dieses Kapitels finden wir einige Beispiele für Fragestellungen zu Kunstwerken verschiedener Gattungen, die wir anhand einer Digitalen Story erzählen können.
 
 ## Inhalt
 {: .no_toc .text-delta }
@@ -27,21 +27,22 @@ Im zweiten Teil dieses Kapitels finden wir einige Beispiele für Fragestellungen
 Die Digitale Story sollte unser Publikum weder unter- noch überfordern. An wen soll sich unsere Story richten? Wir müssen die Story sprachlich unserem Publikum anpassen. Auch sollten wir uns in der Story stets kurz fassen. Als Faustformel gilt: So kurz wie möglich, aber so ausführlich wie nötig. Die Digitale Story soll den Blick der Betrachter:innen auf das Kunstwerk lenken und sie durch dieses hindurchführen (guided tour). Wir sollten dem gewählten Bildausschnitt also nicht zu viel Text gegenüberstellen, um zu vermeiden, dass er vom Betrachten und Entdecken des Kunstwerkes selbst ablenkt.
 
 ![Rembrandt](https://cdn.lesliepzimmermann.de/storytelling/2-3-1_Rembrandt.jpg) 
-<p style="font-size: 0.8em; margin-top:-15px;">Rembrandt Hermensz. van Rijn, Die Blendung Simsons, 1636, Öl auf Leinwand, 206,0 x 276,0 cm, Frankfurt a. M., Städel Museum, Inv. 1383</p>
+<p style="font-size: 0.8em; margin-top:-15px;">Rembrandt Harmenszoon van Rijn, Die Blendung Simsons, 1636, Öl auf Leinwand, 206,0 x 276,0 cm, Frankfurt a. M., Städel Museum</p>
 
 ## Wer die Wahl hat, hat die Qual
 Je nach Gattung des Kunstwerkes eröffnen sich vielfältige Möglichkeiten, eine Geschichte zu erzählen. An ein Gemälde kann man andere Fragen stellen als an eine Druckgrafik oder einen Film-Still. Was halten wir bei dem von uns ausgewählten Werk für besonders erzählenswert?
 
-### Inhaltliche Fragestellungen
+### Ein paar Anregungen
+__Inhaltliche Fragestellungen__
 Inhaltliche Fragen können beispielsweise zur Ikonografie, zur Handlung der Figuren in einem Historien- oder Genrebild, zu Inschriften oder zur Komposition gestellt werden. Wer ist auf einem Kunstwerk dargestellt oder welche Handlung wird gezeigt?
 
-### Fragen zur Objektgenese
-Auch die Entstehungsgeschichte und der konservatorische Zustand beziehungsweise die Restaurierungsgeschichte eines Werkes können interessant sein. Sind beispielsweise bei einem Gemälde die vorbereitende Unterzeichnunge, vom Künstler selbst vorgenommene Farbkorrekturen (Pentimenti) oder auch Retuschen von anderer, späterer Hand erkennbar - und was sagen sie über die Entstehungs- und Lebensgeschichte des Bildes aus?
+__Fragen zur Objektgenese__
+Auch die Entstehungsgeschichte und der konservatorische Zustand beziehungsweise die Restaurierungsgeschichte eines Werkes können interessant sein. Sind beispielsweise bei einem Gemälde die vorbereitende Unterzeichnung, vom Künstler selbst vorgenommene Farbkorrekturen (Pentimenti) oder auch Retuschen von anderer, späterer Hand erkennbar - und was sagen sie über die Entstehungs- und Lebensgeschichte des Bildes aus?
 
-### Materialität & Technik
+__Materialität & Technik__
 Da die Oberflächenbeschaffenheit je nach Material sehr verschieden ist, kann man sich auch in einer Story näher mit der Materialität auseinandersetzen. Vielleicht lässt sich an dem ausgewählten Werk in Kombination zur Materialität auch über die Technik sprechen, in der es ausgeführt wurde.
 
-Wie viele Aspekte ein Story, hier zu Rembrandts Gemälde mit der Blendung Simsons, haben kann (und weitere sind natürlich denkbar!), zeigt dieser YouTube-Beitrag:
+Wie viele Aspekte eine Story, hier zu Rembrandts Gemälde der Blendung Simsons, haben kann (und weitere sind natürlich denkbar!), zeigt dieser YouTube-Beitrag:
 <iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/hcL-8dSQDgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Was kann erzählt werden?
@@ -67,7 +68,7 @@ Es sind viele Fragestellungen denkbar, aber alle möglichen Digitalen Stories so
   <dt>Technik</dt>
   <dd>Mischtechnik auf Lindenholz</dd>
   <dt>Sammlung</dt>
-  <dd>Städel Museum, Frankfurt am Main</dd>
+  <dd>Städel Museum, Frankfurt am Main, Inv. Nr. 1729</dd>
   <dt>Bildlizenz</dt>
   <dd>CC BY-SA 4.0 Städel Museum, Frankfurt am Main</dd>
   <dt>IIIF?</dt>
@@ -96,7 +97,7 @@ Wir beschäftigen uns im Rahmen eines Seminars oder einer Ausstellung mit Kostü
 
 Ebenso wie für eine Darstellung der Kostümgeschichte eignen sich vergleichbare Gemälde, um über Schmuckgeschichte zu erzählen. Denn der Schmuck hat, ebenso wie die Kleidung selbst, nur selten die Jahrhunderte überdauert. Was ist typisch für den Renaissance-Schmuck? Welche Materialien scheinen beliebt gewesen zu sein?
 
-### 2. Beispiel Schmuckstück
+### 2. Beispiel Schmuckobjekt
 
 ![Diadem 1](https://cdn.lesliepzimmermann.de/storytelling/2-4-2_Diadem-1.jpg)
 
@@ -108,7 +109,7 @@ Ebenso wie für eine Darstellung der Kostümgeschichte eignen sich vergleichbare
   <dt>Technik</dt>
   <dd>Diamanten, Gelb- und Weißgold</dd>
   <dt>Sammlung</dt>
-  <dd>Smithsonian Institution, National Museum of American Histor, Washington, D. C.</dd>
+  <dd>Smithsonian Institution, National Museum of American Histor, Washington, D. C., Inv. Nr. CS.254327.2</dd>
   <dt>Bildlizenz</dt>
   <dd><a href="https://www.si.edu/termsofuse">https://www.si.edu/termsofuse</a></dd>
   <dt>IIIF?</dt>
@@ -160,7 +161,7 @@ Möchten wir eine Digitale Story zum Thema Drucktechniken erstellen? Um welche D
 
 Möchten wir über den Dargestellten selbst sprechen? Wie lassen sich Porträtierte in Druckgrafiken identifizieren? Wie ist das Blatt gestaltet? Porträtdruckgrafiken weisen häufig Text auf. Diese geben Aufschluss über die Dargestellten, ihr Alter, ihre Herkunft und weitere biografische Einzelheiten. Doch schauen die Betrachter:innen auch auf das Kleingedruckte? Häufig finden sich Informationen zu Entwerfer:in, zu Stecher:in und/oder Verleger:in. Man kann beim Digital Storytelling also auf Details verweisen, die beim oberflächlichen Betrachten schnell übersehen werden. In welcher Sprache ist die Inschrift verfasst? Eine Digitale Story eignet sich auch dazu, bestimmte Passagen durch Annotationen zu transkribieren und/oder zu übersetzen.
 
-### 4. Beispiel Architektur
+### 4. Beispiel Architekturfotografie
 
 ![Architektur](https://cdn.lesliepzimmermann.de/storytelling/Architektur-1.jpg)
 
@@ -174,7 +175,7 @@ Möchten wir über den Dargestellten selbst sprechen? Wie lassen sich Porträtie
   <dt>Technik</dt>
   <dd>Silbergelatineabzug</dd>
   <dt>Sammlung</dt>
-  <dd>The J. Paul Getty Museum, Los Angeles</dd>
+  <dd>The J. Paul Getty Museum, Los Angeles, Inv. Nr. 84.XP.1448.26</dd>
   <dt>Bildlizenz</dt>
   <dd>Digital image courtesy of the Getty's Open Content Program.</dd>
   <dt>IIIF?</dt>
@@ -185,13 +186,13 @@ Möchten wir über den Dargestellten selbst sprechen? Wie lassen sich Porträtie
 
 ![Architektur 2](https://cdn.lesliepzimmermann.de/storytelling/Architektur-2.jpg)
 
-Soll es in der Story um Architektur gehen, wie hier am Beispiel des Südportals des Kölner Doms? Architekturfotografien eignen sich dazu, mittels Digitaler Stories und einem tiefen hineinzoomen in die Abbildung (Deep Zoom) den Betrachter:innen etwas zur Baugeschichte oder dem Bildprogramm zu vermitteln. Welches Bildprogramm wird im Tympanon des mittleren Portals der Südfassade des Kölner Doms dargestellt? Welche Heiligen oder gar Szenen aus der Bibel sind zu identifizieren? Was ist überhaupt ein Tympanon, was sind Archivolten und was ein Gewände? Lassen sich die Gewändefiguren anhand ihrer Attribute benennen?
+Soll es in der Story um Architektur gehen, wie hier am Beispiel eine historischen Aufnahme des Südportals des Kölner Doms? Architekturfotografien eignen sich dazu, mittels Digitaler Stories und einem tiefen Hineinzoomen in die Abbildung (Deep Zoom) den Betrachter:innen etwas über die Baugeschichte oder das Bildprogramm zu vermitteln. Welches Bildprogramm wird im Tympanon des mittleren Portals der Südfassade des Kölner Doms dargestellt? Welche Heiligen oder gar Szenen aus der Bibel sind zu identifizieren? Was ist überhaupt ein Tympanon, was sind Archivolten und was ein Gewände? Lassen sich die Gewändefiguren anhand ihrer Attribute benennen?
 
 ![Architektur 3](https://cdn.lesliepzimmermann.de/storytelling/Architektur-3.jpg)
 
-In unserer Story soll es um gotische Architektur gehen? Neben den Bauelementen der Kirchenportale, wie dem Tympanon, dem Gewände, den Archivolten oder dem Wimperg, ließen sich an dieser Fotografie auch die für die Gotik so charakteristischen Krabben, Kreuzblumen und Fialen beschreiben. Oder möchten wir eine Story zur Baugeschichte des Kölner Doms erzählen? Welche Fassade eignet sich für welchen Abschnitt der jahrhundertelangen Baugeschichte am besten?
+In unserer Story soll es um gotische Architektur gehen? Neben den Bauelementen der Kirchenportale, wie dem Tympanon, dem Gewände, den Archivolten oder dem Wimperg, ließen sich an dieser Fotografie auch die für die Gotik so charakteristischen Krabben, Kreuzblumen und Fialen beschreiben. Oder möchten wir eine Story zur Baugeschichte des Kölner Doms erzählen? Welche Fassade eignet sich für welchen Abschnitt der jahrhundertelangen Baugeschichte am besten? Worin unterscheidet sich das historische Foto von heutigen Aufnahmen?
 
-### 5. Beispiel Bildhauerei
+### 5. Beispiel Skulptur und Polychromie
 ![Kleinen Herkulanerin 1](https://cdn.lesliepzimmermann.de/storytelling/Herkulanerin-1.jpg)
 
 <dl>

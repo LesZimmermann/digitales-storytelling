@@ -40,7 +40,7 @@ Beispiel:
 | A B C                | Beispiel          |
 |:---------------------|:------------------|
 | A (Beschreibung)     | In einem engen Raum sitzt eine prachtvoll gewandete Frau, die ein Kind stillt. |
-| B (Ikonografie)      | Das Motiv der stillenden Frau kennen wir aus der christlichen Ikonografie von Darstellungen der stillenden Gottesmutter auch ‘Maria lactans’ genannt. Zusätzlich finden sich weitere  Mariensymbole im Raum, nämlich... |
+| B (Ikonografie)      | Das Motiv der stillenden Frau kennen wir aus der christlichen Ikonografie von Darstellungen der stillenden Gottesmutter, auch ‘Maria lactans’ genannt. Zusätzlich finden sich weitere  Mariensymbole im Raum, nämlich... |
 | C (Schlussfolgerung) | In Jan van Eycks Gemälde wird den Betrachter:innen die stillende Gottesmutter mit Christusknaben präsentiert. |
 
 ### B A C (Analepse)
@@ -62,7 +62,7 @@ Beispiel:
 ### Kishōtenketsu
 Diese Beispiele bilden die in westlichen Kulturkreisen gängigen Ordnungen des Erzählens. Andere Kulturkreise kennen weitere Narrationsformen. An dieser Stelle sei beispielsweise auf das aus der japanischen Literatur stammende [Kishōtenketsu](https://de.wikipedia.org/wiki/Kish%C5%8Dtenketsu) verwiesen, einer Erzählform, wie sie in den traditionellen westlichen Kulturkreisen lange nicht bekannt war. Diese japanische Erzählstruktur besteht aus den vier Abschnitten Ki (Einleitung der Geschichte), Shō (Entwicklung der Geschichte), Ten (Wendepunkt der Geschichte, der auf den ersten Blick nichts mit der bisherigen Erzählung zu tun hat) und Ketsu (Schluss, der alle Erzählstränge miteinander verbindet).
 
-Welche Erzählform auch immer für die Digitale Story gewählt wird - sie sollte dem Gegenstand angemessen und für die Leser*innen bzw. Betrachter*innen interessant sein!
+Welche Erzählform auch immer für die Digitale Story gewählt wird - sie sollte dem Gegenstand angemessen und für die Leser:innen bzw. Betrachter:innen interessant sein!
 
 ## Weblinks und Literatur
 ### Weblinks
