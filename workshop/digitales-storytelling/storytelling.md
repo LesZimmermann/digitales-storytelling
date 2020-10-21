@@ -128,7 +128,7 @@ Eine Besonderheit von Schmuckstücken ist, dass sie häufig auf verschiedene Wei
 
 ![Diadem 4](https://cdn.lesliepzimmermann.de/storytelling/2-4-2_Diadem-4.jpg)
 
-Wollen wir in unserer Story über verschiedene Techniken der Gold- und Silberschmiedekunst berichten? Das Diadem vereint mehrere solcher Techniken, wie das sogenannte en tremblant, bei dem einzelne Elemente des Schmuckstücks an spiralförmigen Federn befestigt werden. Doch wozu eignen sich diese speziellen Befestigungen? Haben sie eine Auswirkung auf das Aussehen und die Funktion des Schmuckstücks oder dienen sie lediglich der Konstruktion?
+Wollen wir in unserer Story über verschiedene Techniken der Gold- und Silberschmiedekunst berichten? Das Diadem vereint mehrere solcher Techniken, wie das sogenannte _en tremblant_, bei dem einzelne Elemente des Schmuckstücks an spiralförmigen Federn befestigt werden. Doch wozu eignen sich diese speziellen Befestigungen? Haben sie eine Auswirkung auf das Aussehen und die Funktion des Schmuckstücks oder dienen sie lediglich der Konstruktion?
 
 ### 3. Beispiel Druckgrafik
 
@@ -216,15 +216,15 @@ In unserer Story soll es um gotische Architektur gehen? Neben den Bauelementen d
 
 ![Kleinen Herkulanerin 2](https://cdn.lesliepzimmermann.de/storytelling/Herkulanerin-2.jpg)
 
-Die Rekonstruktion der “Kleinen Herkulanerin” ist ein einschlägiges Beispiel für die Polychromie antiker Statuen. Doch welche Farben wurden an antiken Skulpturen eigentlich verwendet? Die farbig gefasste Rekonstruktion eignet sich beispielsweise für eine Digitale Story zu Farben und Farbpigmenten, die im Hellenismus Verwendung fanden. Verschiedene Ocker- und Umbratöne wurden für die Farbfassung der Haare benutzt. Doch was macht das Blattgold im Haar der Herkulanerin?
+Die Rekonstruktion der “Kleinen Herkulanerin” ist ein einschlägiges Beispiel für die aktuellen Forschungen zur Polychromie antiker Statuen. Welche Farben wurden bei antiken Skulpturen eigentlich verwendet? Die farbig gefasste Rekonstruktion eignet sich beispielsweise für eine Digitale Story zu Farben und Farbpigmenten, die im Hellenismus Verwendung fanden.
 
 ![Kleinen Herkulanerin 3](https://cdn.lesliepzimmermann.de/storytelling/Herkulanerin-3.jpg)
 
-Als der Archäologe Louis Couve 1894 das Original, also die marmorne “Kleine Herkulanerin” auf der griechischen Insel Delos fand, beschrieb er die von ihm beobachteten rosa Farbreste am Mantel als rosafarben. Doch woher stammt das Grün der Rekonstruktion? Widersprechen sich Couves Beobachtungen und die aktuelle Rekonstruktion der Farbigkeit der “Kleinen Herkulanerin”? Oder liegen die beiden Positionen vielleicht gar nicht so weit auseinander, wie man zunächst denken könnte?
+Als der Archäologe Louis Couve 1894 das Original der “Kleinen Herkulanerin” auf der griechischen Insel Delos fand, beschrieb er die von ihm beobachteten Farbreste am Mantel als rosafarben. Doch woher stammen die Anhaltspunkte für die Rekonstruktion der grünen Farbe?
 
 ![Kleinen Herkulanerin 4](https://cdn.lesliepzimmermann.de/storytelling/Herkulanerin-4.jpg)
 
-Welche Ornamente lassen sich auf den Gewändern ausmachen? Beispielsweise lassen sich Strahlenmuster, ein Blätterband oder Palmetten erkennen. Es scheint, als verhelfe die farbige Fassung des Faltenwurfs der Statue zu einer Wirkung, die die reine Steinansichtigkeit des Marmors nicht erreichen könnte.
+Inwiefern verhilft die farbige Fassung des Faltenwurfs der Statue zu einer Wirkung, die die reine Steinansichtigkeit des Marmors nicht erreichen könnte?
 
 ## Fazit
 Die an dieser Stelle vorgestellten Beispiele für Digitale Stories sind beliebig gewählt und decken bei weitem nicht alle Möglichkeiten ab. Viele andere Fragestellungen sind denkbar. Allerdings sollten wir stets prüfen, ob sie sich auch dazu eignen, das Interesse des Publikums zu wecken.

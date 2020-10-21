@@ -45,7 +45,7 @@ Sind wir mit dem Bildausschnitt zufrieden, können wir ihn zusammen mit der Text
 
 ![Storiiies 11](https://cdn.lesliepzimmermann.de/storytelling/3-4/11_Diadem_Storiiies.jpg)
 
-Sind wir mit dem Bildausschnitt zufrieden, können wir ihn zusammen mit der Textannotation durch das Klicken auf “Submit” bestätigen.
+Über das Klicken auf “Edit” oder “Delete” können wir die einzelnen Annotation bearbeiten oder löschen.
 
 ![Storiiies 12](https://cdn.lesliepzimmermann.de/storytelling/3-4/12_Diadem_Storiiies.jpg)
 
