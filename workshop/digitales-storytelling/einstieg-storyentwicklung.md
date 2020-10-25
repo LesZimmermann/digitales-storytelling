@@ -31,7 +31,7 @@ Im zweiten Teil des Kapitels beschäftigen wir uns eingehend mit der Auswahl des
 ### Ich weiß weder, welches Werk ich nutzen, noch welche Geschichte ich erzählen möchte
 Lassen wir uns von Ausstellungskatalogen und Monographien, Fotos, Werbetafeln, bereits bestehenden Stories, Online-Katalogen, digitalen Sammlungen, Geschichten von Freund:innen oder von Film und Fernsehen inspirieren. Einen guten Einstieg bieten die digitalen Sammlungen der Museen, bei denen wir nicht nur zielgerichtet nach Werken und Künstlern suchen können, sondern die uns meist auch Möglichkeiten zum Entdecken bieten. In den nachfolgenden Kapiteln finden sich Hilfestellungen für die Auswahl des Werkes und Hilfe beim Finden einer passenden Thematik. In Kapitel 2.4 Was kann erzählt werden? haben wir einige Fragestellungen zusammengestellt, die hierfür Anregungen liefern können.
 
-![Abb. 6](https://cdn.lesliepzimmermann.de/storytelling/2-1-1_Digitale-Sammlung-Staedel.jpg)
+![Digitale Sammlung Städel](https://leszimmermann.github.io/digitales-storytelling/img/einstieg/Digitale-Sammlung-Staedel.jpg)
 <p style="font-size: 0.8em;margin-top:-15px;"> Online Sammlungen eignen sich gut dazu, sich inspirieren zu lassen. Durch digitale Sammlungen, wie die des Städel Museums, kann man sich einen Überblick über die Bandbreite der Sammlungen verschaffen.
 </p>
 
@@ -41,7 +41,7 @@ Wenn wir uns bereits für ein Werk entschieden haben, dann geht es nun darum, m�
 ### Ich weiß bereits, welche Geschichte ich erzählen möchte
 Wenn wir uns bereits für das Thema unserer Story entschieden haben, aber noch ohne Werk dastehen, dann geht es an dieser Stelle darum, das passende Werk zu unserer Idee beziehungsweise zu unserem Thema zu finden. Hierfür können wir entweder in themenbezogenen Monographien und Ausstellungskatalogen nach einer passenden Abbildung suchen, oder uns die Online-Sammlungen der Museen ansehen. Im nächsten Kapitel findet sich eine Hilfestellung für die Auswahl eines passenden Werkes. In Kapitel 2.2 Was kann erzählt werden? haben wir einige Fragestellungen zusammentragen, die hierfür Anregungen liefern können.
 
-![Abb. 6](https://cdn.lesliepzimmermann.de/storytelling/2-1-2_Digitale-Sammlung-Staedel-Liebe.jpg)
+![Liebe in der Digitalen Sammlung Städel](https://leszimmermann.github.io/digitales-storytelling/img/einstieg/Digitale-Sammlung-Staedel-Liebe.jpg)
 <p style="font-size: 0.8em;margin-top:-15px;">Einige Online Sammlungen bieten die Suche nach Stichworten an, wie hier die Digitale Sammlung des Städel Museums.</p>
 
 ### Ich weiß, welches Werk und welche Geschichte ich erzählen möchte

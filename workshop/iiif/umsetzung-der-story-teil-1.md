@@ -35,21 +35,24 @@ __E-Mail__: An dieser Stelle tragen wir unsere E-Mail-Adresse ein. Nach dem Erst
 __Beschreibung__:  Hier können wir eine kurze Beschreibung des Werkes oder der Story  einfügen.  
 __Bildrechte__: Wichtig ist es an dieser Stelle zu vermerken, wem das Bild und die Bildrechte gehören.  
 
-![Storiiies 1](https://cdn.lesliepzimmermann.de/storytelling/3-4/1_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 1](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-01.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-01" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Hier sehen wir ein Beispiel für eine ausgefüllte Startseite:
 
-![Storiiies 2](https://cdn.lesliepzimmermann.de/storytelling/3-4/2_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 2](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-02.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-02" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 ### Bildhosting mit IIIF
 Wollen wir die Bilddatei einer Online-Sammlung nutzen, die uns bereits ein Manifest oder einen Link zur info.json-Datei der Image-API anbietet, so können wir diese in die dafür vorgesehene Zeile des Editors kopieren.
 Die Wege, um an Manifeste und Image-APIs (URLs; enden mit “info.json”) zu gelangen, sind nicht einheitlich. Unter Umständen können sich diese Wege ein wenig technisch gestalten.  Für technisch Interessierte stellen wir hier zwei Beispiele vor: [“Suche nach IIIF - Beispiel 1”](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/suche-1/) und [“Suche nach IIIF - Beispiel 2”](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/suche-2/). Unten finden sich bereits [copy-and-paste-fertige Beispiele](#beispiel) von info.json-Links der Image-APIs. Diese Links können einfach in Storiiies kopiert werden.
 
-![Bildhosting mit IIIF](https://cdn.lesliepzimmermann.de/storytelling/Screenshot_04.jpg)
+![Umsetzung Diadem 3](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-03.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-03" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Einen ersten Anhaltspunkt, wie wir an IIIF-kompatible Abbildungen gelangen können, liefert das IIIF-Logo, welches sich meist in der Nähe der Abbildung in der Online-Sammlung befindet (siehe Abbildung). Dadurch gelangen wir an das Manifest oder die Image-API (URL), die wir in unseren Storiiies Editor kopieren können; wir müssen also keine Abbildungen downloaden. Mit dieser Methode können wir mit geringem Aufwand Digital Stories mit hochauflösenden Abbildungen erstellen, ohne viel Speicherplatz für große Bilddateien bereitstellen zu müssen. Eine Liste mit Datenbanken, in denen wir IIIF-APIs finden, haben wir unten zusammengestellt.
 
-![Bildhosting mit IIIF - Getty](https://cdn.lesliepzimmermann.de/storytelling/2-2-1_Getty-2.jpg)
+![Bildhosting mit IIIF - Getty](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Getty.jpg)
 <p style="font-size: 0.8em;margin-top:-15px;">Das IIIF-Logo weist auf die IIIF-Kompatibilität hin.</p>
 
 ### Beispiel
@@ -64,17 +67,20 @@ Beispiel für Image-API:
 ### Bildhosting über Storiiies
 Nutzen wir die Option, unser Bild über den Storiiies-Editor selbst zu hosten, wählen wir unter “Durchsuchen” eine jpg-Bilddatei auf unserem Computer aus und klicken anschließend auf “Upload”.
 
-![Storiiies 3](https://cdn.lesliepzimmermann.de/storytelling/3-4/3_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 4](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-04.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-04" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Wichtig: Bevor wir ein Bild hochladen, sollten wir uns sicher sein, dass wir über die Berechtigung dazu verfügen. Das Bild ist also entweder Open Source oder gehört uns selbst. Ist die Verwendung einer fremden Bilddatei rechtlich nicht erlaubt, so können wir sie auch nicht für eine Digitale Story verwenden.
 
 Die Terms and Conditions finden wir auf der Startseite zum Erstellen einer Digitalen Story.
 
-![Storiiies 5](https://cdn.lesliepzimmermann.de/storytelling/3-4/5_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 5](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-05.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-05" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Haben wir die Bilddatei geladen sowie die Angaben zu Titel, Autor:in, unsere E-Mail-Adresse, die Beschreibung und die Hinweise zu den Bildrechten ausgefüllt, so können wir nun mit dem Storybuilding beginnen. Hierzu müssen wir den oben aufgeführten Nutzungsbestimmungen von Storiiies zustimmen und können anschließend nach dem Klick auf “Edit” mit dem Implementieren unseres Storyboards [Kapitel 2.4] beginnen.
 
-![Storiiies 6](https://cdn.lesliepzimmermann.de/storytelling/3-4/6_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 6](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-06.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-06" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Nachdem wir die Titelseite ausgefüllt und über “Edit” bestätigt haben, erhalten wir parallel eine E-Mail mit zwei Links. Rufen wir den ersten Link auf, gelangen wir jederzeit zum Editierungs-Menü unserer Story und können sie auch nachträglich noch bearbeiten. Dieser Link ist nur für uns bestimmt, sollte also nicht an andere weitergegeben werden.
 Der zweite Link führt uns zum Viewer, mit dem wir die finale Version unserer Digitalen Story aufrufen können. Diesen Link teilen wir im Anschluss mit allen, die die Story sehen sollen.

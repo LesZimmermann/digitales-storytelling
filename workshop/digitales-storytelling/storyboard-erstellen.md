@@ -4,23 +4,6 @@ title: 2.4 Storyboard erstellen
 nav_order: 4
 parent: 2. Digitales Storytelling
 ---
-
-<!-- Matomo -->
-<script type="text/javascript">
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//a.lesliepzimmermann.de/m/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '1']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
-
 # 2.4 Storyboard erstellen
 {: .no_toc }
 Nachdem wir die Story entwickelt und ausformuliert haben, kommt das Storyboard zum Einsatz. Bekannt ist dieses aus der Filmproduktion, wo es eingesetzt wird, um die Ideen des Drehbuchs in Kameraeinstellungen zu überführen. Ein Storyboard dient also der Visualisierung des zuvor erarbeiteten Konzepts, das so präsentiert, überprüft und ggf. auch unmittelbar korrigiert werden kann. Das Storyboard dient außerdem als direkte Vorlage für die spätere Überführung des Erarbeiteten in die finale Form der Digitalen Story.

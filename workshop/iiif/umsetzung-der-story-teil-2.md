@@ -27,67 +27,82 @@ Das Implementieren unseres Storyboards in den Storiiies-Editor funktioniert schr
 
 Oben links besteht mit dem Feld “Add new” die Möglichkeit einen Bildausschnitt, den wir auf der rechten Seite sehen, mit einer Textannotation zu versehen.
 
-![Storiiies 7](https://cdn.lesliepzimmermann.de/storytelling/3-4/7_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 7](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-07.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-07" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Nun können wir per copy and paste die Textannotationen aus dem Storyboard...
 
-![Storiiies 8](https://cdn.lesliepzimmermann.de/storytelling/3-4/8_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 8](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-08.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-08" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 ...in das Textfeld des Storiiies-Editors einfügen.
 
-![Storiiies 9](https://cdn.lesliepzimmermann.de/storytelling/3-4/9_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 9](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-09.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-09" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Nun müssen wir zur Annotation den entsprechenden Bildausschnitt auswählen, den wir im Storyboard festgelegt haben. Hierzu stehen auf der rechten Seite des Editors die Lupen-Werkzeuge zum Hinein- bzw. Herauszoomen zur Verfügung. Alternativ lässt sich der Bildausschnitt auch mit dem Mausrad verkleinern und vergrößern. 
 
-![Storiiies 10](https://cdn.lesliepzimmermann.de/storytelling/3-4/10_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 10](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-10.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-10" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Sind wir mit dem Bildausschnitt zufrieden, können wir ihn zusammen mit der Textannotation durch das Klicken auf “Submit” bestätigen.
 
-![Storiiies 11](https://cdn.lesliepzimmermann.de/storytelling/3-4/11_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 11](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-11.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-11" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Über das Klicken auf “Edit” oder “Delete” können wir die einzelnen Annotation bearbeiten oder löschen.
 
-![Storiiies 12](https://cdn.lesliepzimmermann.de/storytelling/3-4/12_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 12](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-12.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-12" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Anschließend wird die Änderung durch einen Klick auf “Update” übernommen.
 
-![Storiiies 13](https://cdn.lesliepzimmermann.de/storytelling/3-4/13_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 13](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-13.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-13" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Nun fügen wir Schritt für Schritt durch Klicken auf “Add new” alle unsere Textsegmente aus dem Storyboard in den Editor und wählen den dazugehörigen Bildausschnitt.
 
-![Storiiies 14](https://cdn.lesliepzimmermann.de/storytelling/3-4/14_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 14](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-14.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-14" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Per drag & drop kann die Reihenfolge der Annotationen beliebig verändert werden. Die einzelnen Texte lassen sich zu jeder Zeit bearbeiten.
 
-![Storiiies 15](https://cdn.lesliepzimmermann.de/storytelling/3-4/15_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 15](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-15.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-15" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 ## Vorschau und Teilen
 Über die Schaltfläche “Links” gelangen wir zu den beiden Links, die uns per E-Mail nach dem Ausfüllen der Titelseite gesendet worden sind. Der obere der beiden Links ist jener, der mit allen geteilt werden kann, die die finale Story sehen sollen.
 Mit dem unteren Link gelangt man jederzeit in den Editor, um etwas in der Story zu verbessern oder zu verändern. Wie schon gesagt: Dieser Link ist nur für uns selbst gedacht und sollte nicht mit anderen geteilt werden.
 Zusätzlich findet sich unter den beiden Links noch ein Code, der zum Einbetten der Digitalen Story auf eine (eigene) Website gedacht ist.
 
-![Storiiies 16](https://cdn.lesliepzimmermann.de/storytelling/3-4/16_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 16](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-16.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-16" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Klicken wir auf “Preview”, so können wir eine Vorschau unserer Digitalen Story ansehen. 
 
-![Storiiies 17](https://cdn.lesliepzimmermann.de/storytelling/3-4/17_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 17](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-17.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-17" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Geschafft! Nun können wir uns die finale Version unserer Digitalen Story anschauen.
 Zur Erinnerung: Wir haben jederzeit die Möglichkeit, etwas an der Story zu ändern, sollten uns z. B. Rechtschreibfehler oder Zahlendreher etc. auffallen.
 
-![Storiiies 18](https://cdn.lesliepzimmermann.de/storytelling/3-4/18_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 18](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-18.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-18" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Über die Pfeile können wir innerhalb der Digitalen Story vor- und zurücknavigieren.
 
-![Storiiies 19](https://cdn.lesliepzimmermann.de/storytelling/3-4/19_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 19](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-19.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-19" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Beim Lesen der Story ist es stets möglich, auch an andere Stellen des Kunstwerkes zu zoomen oder sich an eine andere Stelle zu bewegen. Dazu nutzen wir einfach die Maus bzw. das Mausrad.
 
-![Storiiies 20](https://cdn.lesliepzimmermann.de/storytelling/3-4/20_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 20](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-20.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-20" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Über das Augensymbol links oben können wir die Textannotationen ein- und ausblenden.
 
-![Storiiies 21](https://cdn.lesliepzimmermann.de/storytelling/3-4/21_Diadem_Storiiies.jpg)
+![Umsetzung Diadem 21](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-21.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-21" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Tipp: Es ist ratsam sich bereits nach dem Einfügen der ersten Textannotationen eine Vorschau der Story anzeigen zu lassen. Dies dient dazu, ein Gefühl für das fertige Erscheinungsbild zu bekommen. Sind unsere Annotationen vielleicht zu lang? Muss man scrollen, um sie vollständig lesen zu können? Dann sollten wir über Kürzungsmöglichkeiten nachdenken.
 Des Weiteren ist es nützlich, sich die Story beispielsweise auch auf dem Smartphone oder Tablet anzusehen. Hier wird noch deutlicher, dass es auf den Umfang der Textannotationen ankommt. Pro Annotation sollte der Text möglichst kurz sein. Als Alternative zum Kürzen der Texte können wir ein Textsegment auch auf zwei Annotationen (mit jeweils eigener Abbildung) aufteilen. Wir sollten dabei allerdings den Umfang der Digitalen Story nicht aus dem Blick verlieren. Um den Umfang zu überprüfen, können wir die Story vorab jemandem zum Lesen und Betrachten geben und uns Feedback einholen oder selbst die Zeit stoppen, die wir benötigen, um uns einmal durch die gesamte Story zu klicken.

@@ -15,7 +15,7 @@ Storytelling rund um Bilder ist nichts Neues, wie ein Blick auf Gemälde und Dru
 
 Die Gegenüberstellung von Bild und Text findet sich häufig auch in Flugblättern der Frühen Neuzeit. Zwar dienten die meisten dieser Spottblätter zu konfessionellen Propagandazwecken und weniger der Kunst, aber sie erzählten ebenfalls mittels Bild und Schrift ihre besondere Geschichte.
 
-![Der Herr und Knecht](https://cdn.lesliepzimmermann.de/storytelling/RP-P-OB-78.845.jpg)
+![Der Herr und Knecht](https://leszimmermann.github.io/digitales-storytelling/img/digitales-storytelling/RP-P-OB-78.845.jpg)
 <p style="font-size: 0.8em;margin-top:-15px;">Dieses anonym veröffentlichte Flugblatt <a href="https://www.rijksmuseum.nl/nl/mijn/verzamelingen/180713--arjan/ezels/objecten#/RP-P-OB-78.845,7">Der Herr und der Knecht</a> stellt aus polemisch-protestantischer Perspektive die Lehren Jesu’ den Auslegungen des Papstes und der katholischen Kirche entgegen, getreu dem Sprichwort Wasser predigen und Wein trinken.</p>
 
 ## Weblinks und Literatur
