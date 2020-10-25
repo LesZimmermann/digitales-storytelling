@@ -14,7 +14,7 @@ Die Möglichkeiten digitaler Vermittlung gehen weit über das bloße Bereitstell
 
 Die Digitale Story kann dabei sehr unterschiedlich aussehen. Ein Blick auf  die Websites der Museen und anderer Kulturinstitutionen zeigt die ganze Vielfalt der Möglichkeiten. Doch wie können wir eine ansprechende Story selbst erstellen? Welche Werkzeuge brauchen wir, welche Schritte sind nötig und was gilt es zu beachten? Der vorliegende Online-Workshop zum Digitalen Storytelling in der Kunstgeschichte soll genau das beantworten. Der Workshop lädt zum Ausprobieren ein und begleitet die Teilnehmenden, die so selbst zu Autor:innen werden können, Schritt für Schritt auf dem Weg zu einer erfolgreichen Story, die anschließend digital ansprechend gestaltet wird - und so ihren Auftritt vor einem interessierten Publikum im Netz finden kann.
 
-![Storyboard Lucca-Madonna](https://leszimmermann.github.io/digitales-storytelling/storyboard/img/einfuehrung/Storyboard_Lucca-Madonna.png)
+![Storyboard Lucca-Madonna](https://leszimmermann.github.io/digitales-storytelling/storyboard/img/einfuehrung/Storyboard_Lucca-Madonna.jpg)
 <p style="font-size: 0.8em;margin-top:-15px;">Beispiel eines Storyboards wie wir es in Kapitel 2.4 "Storyboard erstellen" behandeln.</p>
 
 Im Zentrum einer gelungenen Digitalen Story steht natürlich die erzählte Geschichte selbst. Für deren Gestaltung gibt es einige Punkte, die im Vorfeld bei der Ausarbeitung berücksichtigt werden sollten. Eine Digitale Story kann sich natürlich mit Werken sämtlicher Gattungen und aller Epochen beschäftigen. Es kann sich also um ein Gemälde, eine Zeichnung oder Druckgrafik, eine Fotografie oder einen Film, um eine Skulptur, ein Werk der angewandten Kunst oder auch der Architektur handeln.

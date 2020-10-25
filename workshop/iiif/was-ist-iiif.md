@@ -45,14 +45,14 @@ Probieren wir das Ganze doch einmal aus:
 
 1. Über den folgenden Link per Image-API ein Bild aufrufen: ```https://ids.si.edu/ids/iiif/NMAH-ET2011-40071/full/full/0/default.jpg```
 
-![Diadem 1](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Diadem-1.jpg)
-<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Diadem-1.jpg" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
+![Diadem 1](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Diadem-1.png)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Diadem-1.png" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 2. Nun bearbeiten wir die URL und ersetzen das erste ‘full’ durch Koordinaten eines Bildausschnitts ‘810,750,450450’ - dadurch wird uns anstelle des gesamten Bildes ein bestimmter Ausschnitt angezeigt: ```https://ids.si.edu/ids/iiif/NMAH-ET2011-40071/full/full/0/default.jpg``` ->
 ```https://ids.si.edu/ids/iiif/NMAH-ET2011-40071/810,970,450,450/full/0/default.jpg```
 
-![Diadem 2](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Diadem-2.jpg)
-<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Diadem-2.jpg" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
+![Diadem 2](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Diadem-2.png)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Diadem-2.png" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Unter folgendem Link gibt es die Möglichkeit dies weiter auszuprobieren: [https://www.learniiif.org/image-api/playground](https://www.learniiif.org/image-api/playground).
 Alle Möglichkeiten der Anpassung finden wir in der [IIIF-Dokumentation](https://iiif.io/api/image/2.1/).
