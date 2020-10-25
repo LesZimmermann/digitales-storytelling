@@ -48,34 +48,40 @@ Für die Erstellung des Storyboards können wir mit unterschiedlichen Programmen
 Eine Vorlage für die Erstellung eines eigenen Storyboards mit [Google-Docs](https://docs.google.com/?hl=de) findet sich unter [Download](#download).
 
 ![Storyboard 1](https://leszimmermann.github.io/digitales-storytelling/img/storyboard/1-Storyboard.jpg)
-<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/storyboard/1-Storyboard.jpg">&#128269; Vergrößern</a></p>
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/storyboard/1-Storyboard.jpg" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Wir können von dieser Vorlage ausgehen, um unser Storyboard zu erstellen, sofern wir uns nicht selbst eine Tabelle anlegen möchten [“Einfügen → Tabelle”]. Für unsere Zwecke benötigen wir eine Tabelle mit zwei Spalten, eine für den Text und eine für die Bildvorlage. Die Zeilenanzahl kann im Verlauf unserer Arbeit an die Länge der Story angepasst werden.
 
 __Tipp:__ Das Nummerieren der einzelnen Zeilen erleichtert weitere Arbeitsschritte. Wir bekommen hierdurch gleichzeitig einen Überblick darüber, wie umfangreich unsere Story wird, was uns ein Gefühl dafür vermittelt, ob sie eventuell zu lang oder zu kurz sein könnte.
 Des Weiteren erleichtert eine Nummerierung das spätere Überführen in den Editor, wodurch dem Übersehen einzelner Textsegmente vorgebeugt wird.
 
-![Storyboard 2](../img/storyboard/2-Storyboard.jpg)
+![Storyboard 2](https://leszimmermann.github.io/digitales-storytelling/img/storyboard/2-Storyboard.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/storyboard/2-Storyboard.jpg" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 In der ersten Zeile beginnen wir mit einer Übersicht zu unserer Story. Die linke Zelle der ersten Zeile enthält den Titel der Story, die Autor:innen-Namen, eine kurze Beschreibung und die Angabe zur Bildlizenz.
 
-![Storyboard 3](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-3.jpg)
+![Storyboard 3](https://leszimmermann.github.io/digitales-storytelling/img/storyboard/3-Storyboard.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/storyboard/3-Storyboard.jpg" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 In die rechte Zelle der ersten Zeile fügen wir eine Abbildung unseres Werkes ein. Entweder laden wir das Bild aus dem Web, über Google-Drive oder direkt von unserem Computer hoch [“Einfügen → Bild → Vom Computer hochladen”].
 
-![Storyboard 4](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-4.jpg)
+![Storyboard 4](https://leszimmermann.github.io/digitales-storytelling/img/storyboard/4-Storyboard.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/storyboard/4-Storyboard.jpg" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Nach dem Einfügen des ersten Textes und des ersten Bildes können wir die Segmente unserer Geschichte nach und nach einfügen, und dazu die passenden Bildausschnitte wählen.
 
-![Storyboard 5](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-5.jpg)
+![Storyboard 5](https://leszimmermann.github.io/digitales-storytelling/img/storyboard/5-Storyboard.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/storyboard/5-Storyboard.jpg" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Damit wir das Bild nicht jedes Mal neu in die Datei laden müssen, können wir es einfach aus der ersten Zelle kopieren und in die nächsten Zellen einfügen (copy & paste).
 
-![Storyboard 6](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-6.gif)
+![Storyboard 6](https://leszimmermann.github.io/digitales-storytelling/img/storyboard/6-Storyboard.gif)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/storyboard/6-Storyboard.gif" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Nach dem Einfügen können wir die Bildvorlage auf den gewünschten Ausschnitt zuschneiden. Dazu müssen wir das Bild zunächst durch Anklicken auswählen, woraufhin im oberen Reiter ein Zuschneide-Symbol erscheint. Jetzt können wir den passenden Bildausschnitt auswählen. Diesen Vorgang können wir beliebig oft wiederholen und uns so nach und nach das Storyboard aufbauen.
 
-![Storyboard 7](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-7.jpg)
+![Storyboard 7](https://leszimmermann.github.io/digitales-storytelling/img/storyboard/7-Storyboard.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/storyboard/7-Storyboard.jpg" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Anfügen weiterer Zeilen [Rechtsklick → “Zeile unterhalb einfügen”]
 
