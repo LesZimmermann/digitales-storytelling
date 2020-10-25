@@ -19,8 +19,8 @@ aux_links:
     - "/digitales-storytelling/datenschutz"
 footer_content: "Digitales Storytelling in der Kunstgeschichte mit IIIF ist ein Projekt der <a href=\"https://www.kunst.uni-frankfurt.de/de/mitarbeiter/seiten/prof-dr-jochen-sander/selbstdarstellung\">Städel-Kooperationsprofessur</a> an der Goethe-Universität Frankfurt"
 color_scheme: nil
-ga_tracking: UA-174905502-1
-ga_tracking_anonymize_ip: true
+ga_tracking:
+ga_tracking_anonymize_ip:
 
 compress_html:
   clippings: all

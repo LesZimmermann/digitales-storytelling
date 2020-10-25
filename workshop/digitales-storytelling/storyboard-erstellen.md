@@ -5,6 +5,23 @@ nav_order: 4
 parent: 2. Digitales Storytelling
 ---
 
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['requireCookieConsent']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//a.lesliepzimmermann.de/m/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
 # 2.4 Storyboard erstellen
 {: .no_toc }
 Nachdem wir die Story entwickelt und ausformuliert haben, kommt das Storyboard zum Einsatz. Bekannt ist dieses aus der Filmproduktion, wo es eingesetzt wird, um die Ideen des Drehbuchs in Kameraeinstellungen zu überführen. Ein Storyboard dient also der Visualisierung des zuvor erarbeiteten Konzepts, das so präsentiert, überprüft und ggf. auch unmittelbar korrigiert werden kann. Das Storyboard dient außerdem als direkte Vorlage für die spätere Überführung des Erarbeiteten in die finale Form der Digitalen Story.
@@ -31,7 +48,8 @@ Für die Erstellung des Storyboards können wir mit unterschiedlichen Programmen
 ## Anleitung: Storyboard erstellen mit Google-Docs
 Eine Vorlage für die Erstellung eines eigenen Storyboards mit [Google-Docs](https://docs.google.com/?hl=de) findet sich unter [Download](#download).
 
-![Storyboard 1](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-1.jpg)
+![Storyboard 1](img/storyboard/1-Storyboard.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="img/storyboard/1-Storyboard.jpg">&#128269; Vergrößern</a>.</p>
 
 Wir können von dieser Vorlage ausgehen, um unser Storyboard zu erstellen, sofern wir uns nicht selbst eine Tabelle anlegen möchten [“Einfügen → Tabelle”]. Für unsere Zwecke benötigen wir eine Tabelle mit zwei Spalten, eine für den Text und eine für die Bildvorlage. Die Zeilenanzahl kann im Verlauf unserer Arbeit an die Länge der Story angepasst werden.
 
