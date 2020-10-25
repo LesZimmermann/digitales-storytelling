@@ -9,7 +9,6 @@ parent: 2. Digitales Storytelling
 <script type="text/javascript">
   var _paq = window._paq = window._paq || [];
   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['requireCookieConsent']);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
@@ -48,15 +47,15 @@ Für die Erstellung des Storyboards können wir mit unterschiedlichen Programmen
 ## Anleitung: Storyboard erstellen mit Google-Docs
 Eine Vorlage für die Erstellung eines eigenen Storyboards mit [Google-Docs](https://docs.google.com/?hl=de) findet sich unter [Download](#download).
 
-![Storyboard 1](img/storyboard/1-Storyboard.jpg)
-<p style="font-size: 0.8em;margin-top:-15px;"><a href="img/storyboard/1-Storyboard.jpg">&#128269; Vergrößern</a>.</p>
+![Storyboard 1](https://leszimmermann.github.io/digitales-storytelling/img/storyboard/1-Storyboard.jpg)
+<p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/storyboard/1-Storyboard.jpg">&#128269; Vergrößern</a></p>
 
 Wir können von dieser Vorlage ausgehen, um unser Storyboard zu erstellen, sofern wir uns nicht selbst eine Tabelle anlegen möchten [“Einfügen → Tabelle”]. Für unsere Zwecke benötigen wir eine Tabelle mit zwei Spalten, eine für den Text und eine für die Bildvorlage. Die Zeilenanzahl kann im Verlauf unserer Arbeit an die Länge der Story angepasst werden.
 
 __Tipp:__ Das Nummerieren der einzelnen Zeilen erleichtert weitere Arbeitsschritte. Wir bekommen hierdurch gleichzeitig einen Überblick darüber, wie umfangreich unsere Story wird, was uns ein Gefühl dafür vermittelt, ob sie eventuell zu lang oder zu kurz sein könnte.
 Des Weiteren erleichtert eine Nummerierung das spätere Überführen in den Editor, wodurch dem Übersehen einzelner Textsegmente vorgebeugt wird.
 
-![Storyboard 2](https://cdn.lesliepzimmermann.de/storytelling/2-6-2_Storyboard-2.jpg)
+![Storyboard 2](../img/storyboard/2-Storyboard.jpg)
 
 In der ersten Zeile beginnen wir mit einer Übersicht zu unserer Story. Die linke Zelle der ersten Zeile enthält den Titel der Story, die Autor:innen-Namen, eine kurze Beschreibung und die Angabe zur Bildlizenz.
 
