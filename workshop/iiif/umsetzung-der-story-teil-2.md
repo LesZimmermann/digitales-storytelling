@@ -30,7 +30,7 @@ Oben links besteht mit dem Feld “Add new” die Möglichkeit einen Bildausschn
 ![Umsetzung Diadem 7](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-07.png)
 <p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-07.png" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
-Nun können wir per copy and paste die Textannotationen aus dem Storyboard...
+Nun können wir per copy & paste die Textannotationen aus dem Storyboard...
 
 ![Umsetzung Diadem 8](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-08.png)
 <p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-08.png" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
@@ -84,7 +84,7 @@ Klicken wir auf “Preview”, so können wir eine Vorschau unserer Digitalen St
 <p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-17.png" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
 Geschafft! Nun können wir uns die finale Version unserer Digitalen Story anschauen.
-Zur Erinnerung: Wir haben jederzeit die Möglichkeit, etwas an der Story zu ändern, sollten uns z. B. Rechtschreibfehler oder Zahlendreher etc. auffallen.
+Zur Erinnerung: Wir haben jederzeit die Möglichkeit, etwas an der Story zu ändern, sollten uns zum Bespiel Rechtschreibfehler oder Zahlendreher etc. auffallen.
 
 ![Umsetzung Diadem 18](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-18.png)
 <p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-18.png" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>

@@ -31,9 +31,9 @@ Bei IIIF (“triple-eye-eff”) handelt es sich um eine Programmierschnittstelle
 
 Der Vorteil für die Institutionen liegt darin, dass sie durch die Nutzung der Schnittstelle auf die große Infrastruktur, die um IIIF herum entwickelt worden ist und ständig weiterentwickelt wird, zugreifen können. Dadurch muss sich zum Beispiel nicht jede Bibliothek um die Programmierung eines eigenen Bild-Viewers kümmern. Denn alle Bilder, die mit der IIIF Schnittstelle kompatibel sind, können mit einem IIIF fähigen Viewer betrachtet werden, der als Open Source Software im WWW zur Verfügung steht.
 
-Dies hat auch für uns als Nutzer*innen einige Vorteile. Wir können zum Beispiel im Viewer des Getty Museums in Los Angeles ein Bild in hoher Auflösung betrachten und gleichzeitig ein weiteres aus der National Gallery London einfügen. Die Bilder können nun nebeneinander detailliert betrachtet und verglichen werden, ohne dass diese heruntergeladen werden müssen.
+Dies hat auch für uns als Nutzer:innen einige Vorteile. Wir können zum Beispiel im Viewer des Getty Museums in Los Angeles ein Bild in hoher Auflösung betrachten und gleichzeitig ein weiteres aus der National Gallery London einfügen. Die Bilder können nun nebeneinander detailliert betrachtet und verglichen werden, ohne dass diese heruntergeladen werden müssen.
 
-[Video]
+<iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/5NbwnPkDr58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Auch der Storiiies-Editor, den wir zur Umsetzung unserer Story benutzen, basiert auf IIIF. Wie wir im folgenden Kapitel sehen werden, können wir einfach den Link zu einem IIIF-Bild einfügen und damit arbeiten, ohne dass wir ein Bild erst aus einer Online-Sammlung auf unseren Rechner herunterladen und dann in Storiiies hochladen müssen (diese Möglichkeit besteht allerdings bei Bedarf natürlich auch). Außerdem können wir dadurch mit hochauflösenden Abbildungen arbeiten:  Storiiies lädt immer die richtige Auflösung, je nachdem wie tief wir in das Bild hineingezoomt haben. Das Bild wird nämlich direkt vom Server der Institution geladen, wo es meist in deutlich höherer Auflösung liegt, als wir es selbst herunterladen könnten. IIIF Abbildungen werden dabei ähnlich aufgerufen wie eine Website, nämlich über eine URL (z.B. https://…). Diese Links können wir entweder direkt im Browser in die Adresszeile tippen oder etwa in einen Viewer oder Storiiies.
 
@@ -57,7 +57,7 @@ Probieren wir das Ganze doch einmal aus:
 Unter folgendem Link gibt es die Möglichkeit dies weiter auszuprobieren: [https://www.learniiif.org/image-api/playground](https://www.learniiif.org/image-api/playground).
 Alle Möglichkeiten der Anpassung finden wir in der [IIIF-Dokumentation](https://iiif.io/api/image/2.1/).
 
-Nun haben wir gesehen, wie IIIF arbeitet. Ein bißchen kompliziert für den Anfang? Keine Sorge: Da wir für die Erstellung unserer Digital Story den Viewer Storiiies benutzen, müssen wir die gewünschten Bildkoordinaten gar nicht selbstständig eingeben – das erledigt der Viewer für uns sozusagen im Hintergrund.
+Nun haben wir gesehen, wie IIIF arbeitet. Ein bisschen kompliziert für den Anfang? Keine Sorge: Da wir für die Erstellung unserer Digital Story den Viewer Storiiies benutzen, müssen wir die gewünschten Bildkoordinaten gar nicht selbstständig eingeben – das erledigt der Viewer für uns sozusagen im Hintergrund.
 
 ## Weblinks
 - [Einführung IIIF (englisch)](https://youtu.be/wVjrqsqzwNI)

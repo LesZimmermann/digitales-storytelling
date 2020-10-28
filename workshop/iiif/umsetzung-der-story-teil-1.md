@@ -45,7 +45,7 @@ Hier sehen wir ein Beispiel für eine ausgefüllte Startseite:
 
 ### Bildhosting mit IIIF
 Wollen wir die Bilddatei einer Online-Sammlung nutzen, die uns bereits ein Manifest oder einen Link zur info.json-Datei der Image-API anbietet, so können wir diese in die dafür vorgesehene Zeile des Editors kopieren.
-Die Wege, um an Manifeste und Image-APIs (URLs; enden mit “info.json”) zu gelangen, sind nicht einheitlich. Unter Umständen können sich diese Wege ein wenig technisch gestalten.  Für technisch Interessierte stellen wir hier zwei Beispiele vor: [“Suche nach IIIF - Beispiel 1”](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/suche-1/) und [“Suche nach IIIF - Beispiel 2”](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/suche-2/). Unten finden sich bereits [copy-and-paste-fertige Beispiele](#beispiel) von info.json-Links der Image-APIs. Diese Links können einfach in Storiiies kopiert werden.
+Die Wege, um an Manifeste und Image-APIs (URLs; enden mit “info.json”) zu gelangen, sind nicht einheitlich. Unter Umständen können sich diese Wege ein wenig technisch gestalten.  Für technisch Interessierte stellen wir hier zwei Beispiele vor: [“Suche nach IIIF - Beispiel 1”](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/suche-1/) und [“Suche nach IIIF - Beispiel 2”](https://leszimmermann.github.io/digitales-storytelling/workshop/iiif/suche-2/). Unten finden sich bereits [copy-&-paste-fertige Beispiele](#beispiel) von info.json-Links der Image-APIs. Diese Links können einfach in Storiiies kopiert werden.
 
 ![Umsetzung Diadem 3](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-03.png)
 <p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-03.png" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
@@ -77,7 +77,7 @@ Die Terms and Conditions finden wir auf der Startseite zum Erstellen einer Digit
 ![Umsetzung Diadem 5](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-05.png)
 <p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-05.png" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>
 
-Haben wir die Bilddatei geladen sowie die Angaben zu Titel, Autor:in, unsere E-Mail-Adresse, die Beschreibung und die Hinweise zu den Bildrechten ausgefüllt, so können wir nun mit dem Storybuilding beginnen. Hierzu müssen wir den oben aufgeführten Nutzungsbestimmungen von Storiiies zustimmen und können anschließend nach dem Klick auf “Edit” mit dem Implementieren unseres Storyboards [Kapitel 2.4] beginnen.
+Wenn wir die Bilddatei geladen sowie die Angaben zu Titel, Autor:in, unsere E-Mail-Adresse, die Beschreibung und die Hinweise zu den Bildrechten ausgefüllt haben, können wir mit dem Storybuilding beginnen. Hierzu müssen wir den oben aufgeführten Nutzungsbestimmungen von Storiiies zustimmen und können anschließend nach dem Klick auf “Edit” mit dem Implementieren unseres Storyboards [Kapitel 2.4] beginnen.
 
 ![Umsetzung Diadem 6](https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-06.png)
 <p style="font-size: 0.8em;margin-top:-15px;"><a href="https://leszimmermann.github.io/digitales-storytelling/img/umsetzung/Umsetzung-Diadem-06.png" target="_blank" rel="noopener noreferrer">&#128269; Vergrößern</a></p>

@@ -49,7 +49,7 @@ Beispiel:
 |:---------------------|:------------------|
 | B (Ikonografie)      | Die christliche Ikonografie kennt zahlreiche Marien- und Christussymbole, die schon zu Lebzeiten Jan van Eycks in der Malerei etabliert waren. Vielfach finden sich Darstellungen der stillenden Gottesmutter, ‘Maria lactans’ genannt. |
 | A (Beschreibung)     | Auf dem vorliegenden Bild sehen wir eine prachtvoll gewandete Frau, die ein Kind stillt. Ferner sieht man... |
-| C (Schlussfolgerung) | Die beigefügten Symbole lassen sich nach Lesart der christlichen Ikonografie als Marien- und Christussymbole entschlüsseln, weshalb die Betrachter*innen in der Frau mit Kind tatsächlich die stillende Gottesmutter vor sich haben. |
+| C (Schlussfolgerung) | Die beigefügten Symbole lassen sich nach Lesart der christlichen Ikonografie als Marien- und Christussymbole entschlüsseln, weshalb die Betrachter:innen in der Frau mit Kind tatsächlich die stillende Gottesmutter vor sich haben. |
 
 ### A C B (Prolepse)
 
@@ -57,7 +57,7 @@ Beispiel:
 |:---------------------|:------------------|
 | A (Beschreibung)     | In einem engen Raum sitzt eine prachtvoll gewandete Frau, die ein Kind stillt. |
 | C (Schlussfolgerung) | Es handelt sich dabei um die stillende Gottesmutter mit Christusknaben. |
-| B (Ikonografie)      | Das Motiv der stillenden Gottesmutter wird in der christlichen Ikonografie als ‘Maria lactans’ bezeichnet. In diesem Bild lassen sich die beigefügten Attribute der Marien- und Christussymbolik zuordnen. |
+| B (Ikonografie)      | Das Motiv der stillenden Gottesmutter wird in der christlichen Ikonografie als 'Maria lactans' bezeichnet. In diesem Bild lassen sich die beigefügten Attribute der Marien- und Christussymbolik zuordnen. |
 
 ### Kishōtenketsu
 Diese Beispiele bilden die in westlichen Kulturkreisen gängigen Ordnungen des Erzählens. Andere Kulturkreise kennen weitere Narrationsformen. An dieser Stelle sei beispielsweise auf das aus der japanischen Literatur stammende [Kishōtenketsu](https://de.wikipedia.org/wiki/Kish%C5%8Dtenketsu) verwiesen, einer Erzählform, wie sie in den traditionellen westlichen Kulturkreisen lange nicht bekannt war. Diese japanische Erzählstruktur besteht aus den vier Abschnitten Ki (Einleitung der Geschichte), Shō (Entwicklung der Geschichte), Ten (Wendepunkt der Geschichte, der auf den ersten Blick nichts mit der bisherigen Erzählung zu tun hat) und Ketsu (Schluss, der alle Erzählstränge miteinander verbindet).

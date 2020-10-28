@@ -23,7 +23,7 @@ Das Storyboard lässt sich herkömmlich mit Stift und Papier oder mit moderner C
 ---
 
 ## Text- und Bildsegmentierung
-Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an das Ausformulieren der Geschichte gehen. Unser Text wird innerhalb der Digitalen Story in Segmente gegliedert und diesen werden ausgewählte Bildausschnitte gegenübergestellt. Daher sollte man schon beim Verfassen der eigenen Story den Text entsprechend segmentieren. Die Textsegmente werden im nächsten Schritt in das Storyboard überführt und dem entsprechenden Bildausschnitt als Annotation gegenübergestellt.
+Nachdem wir uns für eine Erzählform der Story entschieden haben, kann es an das Ausformulieren der Geschichte gehen. Unser Text wird innerhalb der Digitalen Story in Segmente gegliedert und diesen werden ausgewählte Bildausschnitte gegenübergestellt. Daher sollte man bereits beim Verfassen der eigenen Story den Text entsprechend segmentieren. Die Textsegmente werden im nächsten Schritt in das Storyboard überführt und dem entsprechenden Bildausschnitt als Annotation gegenübergestellt.
 
 Für die Erstellung des Storyboards können wir mit unterschiedlichen Programmen, etwa mit Word, Google-Docs oder PowerPoint, arbeiten. In allen Programmen lassen sich die einzelnen Text- und Bildsegmente in einer Tabelle darstellen. Der Vorteil für unser Vorhaben liegt ferner darin, dass wir die Bilder direkt in der Software beschneiden, das heißt den gewünschten Bildausschnitt auswählen und kopieren können. Die Programme eignen sich daher besonders für die einfache Darstellung und Veränderung von Bildausschnitten, die sich dann dem entsprechenden Textausschnitt zuordnen lassen.
 

@@ -21,7 +21,7 @@ Im zweiten Teil des Kapitels beschäftigen wir uns eingehend mit der Auswahl des
 ---
 
 ## Lernziele
-- In diesem Kapitel wollen wir vier verschiedene Einstiegspunkte beschreiben, die uns dabei helfen sollen, den richtigen Start in das Storytelling zu finden.
+- In diesem Kapitel werden wir vier verschiedene Einstiegspunkte beschreiben, die uns dabei helfen sollen, den richtigen Start in das Storytelling zu finden.
 - In diesem Kapitel lernen wir, welche Aspekte bei der Werkauswahl eine Rolle spielen und wo wir die Abbildung für unsere Story finden.
 
 ---
