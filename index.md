@@ -4,7 +4,7 @@ title: Start
 nav_order: 1
 ---
 
-## Digitales Storytelling in der Kunstgeschichte mit IIIF
+# Digitales Storytelling in der Kunstgeschichte
 
 ![Storyboard Lucca-Madonna](https://leszimmermann.github.io/digitales-storytelling/img/einfuehrung/Lucca_Madonna_Story.jpg)
 
