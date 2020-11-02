@@ -4,11 +4,9 @@ title: Start
 nav_order: 1
 ---
 
-# Digitales Storytelling in der Kunstgeschichte mit IIIF
-{: .fs-8 }
+## Digitales Storytelling in der Kunstgeschichte mit IIIF
 
 ![Storyboard Lucca-Madonna](https://leszimmermann.github.io/digitales-storytelling/img/einfuehrung/Lucca_Madonna_Story.jpg)
-<p style="font-size: 0.8em;margin-top:-15px;">In unserer Story über die Lucca-Madonna begegnet uns das Motiv der stillenden Frau. <a href="https://storiiies.cogapp.com/viewer/7apc/Gegenber-der-Himmelsknigin" target="_blank" rel="noopener noreferrer">Zur Story.</a></p>
 
 <span class="fs-8">
 [Workshop starten](/digitales-storytelling/workshop/evaluation/evaluation-1/){: .btn .mt-2}
