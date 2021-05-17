@@ -9,7 +9,7 @@ nav_order: 1
 ![Storyboard Lucca-Madonna](https://leszimmermann.github.io/digitales-storytelling/img/einfuehrung/Lucca_Madonna_Story.jpg)
 
 <span class="fs-8">
-[Workshop starten](/digitales-storytelling/workshop/evaluation/evaluation-1/){: .btn .mt-2}
+[Workshop starten](/digitales-storytelling/workshop/einfuehrung/){: .btn .mt-2}
 </span>
 
 Willkommen beim Online-Workshop “Digitales Storytelling in der Kunstgeschichte mit IIIF”. Dieses Online-Angebot der Städel-Kooperationsprofessur am Kunstgeschichtlichen Institut der Goethe-Universität (Samuel Fickinger und Leslie Zimmermann mit Unterstützung von Prof. Dr. Jochen Sander) steht allen Interessierten kostenfrei zur Verfügung und nimmt die Nutzer:innen bei jedem Schritt hin zum Erstellen einer eigenen Digitalen Story an die Hand. Nach einer Einführung werden im Workshop eine Story und ein Storyboard entwickelt, die anschließend in eine Digitale Story umgesetzt werden. Die einzelnen Schritte sind mit anschaulichen Beispielen ergänzt und stellen zu jedem Themenabschnitt nützliche Literaturhinweise bereit. Ziel des Workshops ist die Erstellung einer Digitalen Story, die mit einem Link geteilt oder in die eigene Website integriert werden kann.
